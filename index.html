@@ -1,132 +1,152 @@
 <!DOCTYPE HTML>
 <!--
-	Read Only by HTML5 UP
+	Astral by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		<title>Read Only by HTML5 UP</title>
+		<title>Vik Shirvaikar</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
-		<!-- Header -->
-			<section id="header">
-				<header>
-					<span class="image avatar"><img src="images/Vik%20Picture.png" alt="" /></span>
-					<h1 id="logo"><a href="#">Vik Shirvaikar</a></h1>
-					<p>Statistics and Machine Learning<br />
-					University of Oxford</p>
-				</header>
-				<nav id="nav">
-					<ul>
-						<li><a href="#one" class="active">About</a></li>
-						<li><a href="#two">Research Interests</a></li>
-						<li><a href="#three">Selected Projects</a></li>
-						<li><a href="#four">Contact</a></li>
-					</ul>
-				</nav>
-			</section>
-
-		<!-- Wrapper -->
+		<!-- Wrapper-->
 			<div id="wrapper">
+
+				<!-- Nav -->
+					<nav id="nav">
+						<a href="#" class="icon solid fa-home"><span>Home</span></a>
+						<!-- <a href="#blog" class="icon solid fa-th"><span>Blog</span></a> -->
+						<a href="#research" class="icon solid fa-graduation-cap"><span>Research</span></a>
+						<a href="#cv" class="icon solid fa-id-card"><span>CV</span></a>
+					</nav>
 
 				<!-- Main -->
 					<div id="main">
 
-						<!-- One -->
-							<section id="one">
-								<div class="image main" data-position="center">
-									<img src="images/martingales.png" alt="" />
-								</div>
-								<div class="container">
-									<header class="major">
-										<h2>Vik Shirvaikar</h2>
-										<p>PhD Student in the <a href="http://statml.io" target="_blank">StatML CDT</a><br />
-											<a href="http://stats.ox.ac.uk" target="_blank">Department of Statistics</a>, University of Oxford</p>
-									</header>
-									<p>Hello! I'm a fourth-year PhD student in statistics and machine learning. My research focuses on Bayesian prediction, model uncertainty, and causality (supervised by Chris Holmes). I grew up in Dallas, Texas and completed my bachelor's degrees in mathematics and economics at the University of Texas at Austin. Before coming to Oxford, I worked for two years as a forensic data analyst, partnering with U.S. government agencies to investigate financial crimes. My hobbies include football (both British and American), science fiction, baking, and theater.</p>
-									<p><b>I'm looking for full-time opportunities in applied data science and machine learning. Contact me at vik.shirvaikar (at) gmail.com or on <a href="https://www.linkedin.com/in/vik-shirvaikar/" target="_blank">LinkedIn</a>!</b></p>
-									<p><b><a href="https://drive.google.com/file/d/14VypILXSIkGykYMD4K0Z0KfCxRyuryCp/view?usp=sharing" target="_blank" style="font-size: 24px;">Resume</a></b></p>
-								</div>
-							</section>
-						<!-- Two -->
-							<section id="two">
-								<div class="container">
-									<h3>Research Interests</h3>
-									<ul class="feature-icons">
-										<li class="icon solid fa-code">Bayesian Theory and Methods</li>
-										<li class="icon solid fa-cubes">Predictive Analytics</li>
-										<li class="icon solid fa-book">Causal Inference</li>
-										<li class="icon solid fa-coffee">Model Uncertainty</li>
+						<!-- Me -->
+							<article id="home" class="panel intro">
+								<header>
+									<h1>Vik Shirvaikar</h1>
+									<p style="color: #2a2a2a; font-weight: 600;">AI/ML Engineer</p>
+									<p style="margin-top: 1.1em; color: #2a2a2a; font-size: 0.85em; line-height: 1.45;">
+										PhD, Statistics and Machine Learning, University of Oxford<br />
+										Bachelor's, Math and Economics, University of Texas at Austin
+									</p>
+								</header>
+								<span class="pic">
+									<img src="assets/images/vs2.png" alt="" />
+								</span>
+							</article>
+
+						<!-- Confusion Matrix
+							<article id="blog" class="panel">
+								<header>
+									<h2>Confusion Matrix</h2>
+								</header>
+								<p>
+									Blog posts on applied ML, modeling decisions, and practical analysis writeups.
+								</p>
+								<section>
+									<ul class="post-list">
+										<li>
+											<a class="title" href="blog/2026.03%20National%20Teams/national_teams.html">National Teams: Allocation, Strength, and Fit</a>
+											<span class="meta">Mar 2026 · Static plot and table exported from notebook outputs.</span>
+										</li>
+										<li>
+											<a class="title" href="#">Template: Next Post Title</a>
+											<span class="meta">MMM YYYY · One-line summary for future post.</span>
+										</li>
 									</ul>
-								</div>
-							</section>
+								</section>
+							</article>
+						-->
 
-						<!-- Three -->
-							<section id="three">
-								<div class="container">
-									<h3>Selected Projects</h3>
-									<div class="features">
-										<article>
-											<div class="inner">
-												<h4>A general framework for probabilistic model uncertainty</h4>
-												<p>With Stephen Walker and Chris Holmes. <i>Submitted.</i> [<a href="https://arxiv.org/abs/2410.17108" target="_blank">arXiv</a>] [<a href="https://github.com/vshirvaikar/MPModel" target="_blank">Github</a>]</p>
-												<p>We propose a novel approach to model uncertainty, framing it as a missing data problem that can be solved via predictive resampling. This eliminates the need for subjective prior elicitation by leveraging one-step-ahead predictive densities and consistent model selection criteria. We demonstrate applications to hypothesis testing, density estimation, and variable selection.</p>
-											</div>
-										</article>
-										<article>
-											<div class="inner">
-												<h4>Targeting relative risk heterogeneity with causal forests</h4>
-												<p>With Xi Lin and Chris Holmes. <i>Submitted.</i> [<a href="https://arxiv.org/abs/2309.15793" target="_blank">arXiv</a>] [<a href="https://github.com/vshirvaikar/rrcf" target="_blank">Github</a>]</p>
-												<p>We develop a novel methodology to estimate heterogeneous treatment effects (HTE) by modifying causal forests to target relative risk. Through simulations on realistic clinical trial data, we show that our approach can improve statistical power and enhance detection of clinically relevant subgroups.</p>
-											</div>
-										</article>
-										<article>
-											<div class="inner">
-												<h4>A critical review of causal reasoning benchmarks for large language models</h4>
-												<p>With Linying Yang, Oscar Clivio, and Fabian Falck. <i>AAAI (2024), workshop paper.</i> [<a href="https://arxiv.org/abs/2407.08029" target="_blank">arXiv</a>]</p>
-												<p>We conduct a comprehensive review of benchmarks for evaluating LLM capabilities in causal inference. We identify limitations in existing benchmarks and propose criteria for designing robust assessments that incorporate interventional and counterfactual reasoning.</p>
-											</div>
-										</article>
-										<article>
-											<div class="inner">
-												<h4>Rethinking recidivism through a causal lens</h4>
-												<p>With Choudur K. Lakshminarayan. <i>Submitted.</i> [<a href="https://arxiv.org/abs/2011.11483" target="_blank">arXiv</a>] [<a href="https://github.com/vshirvaikar/recidivism" target="_blank">Github</a>]</p>
-												<p>We propose a novel reframing of recidivism prediction that allows us to assess the effect of incarceration on recidivism using modern causal methods. We find evidence that longer prison sentences increase the likelihood of re-offending, offering insights for criminal justice policy.</p>
-											</div>
-										</article>
-									</div>
-								</div>
-							</section>
+						<!-- Research -->
+							<article id="research" class="panel">
+								<header>
+									<h2>Industry R&D</h2>
+								</header>
+								<p>
+									I am currently the Foundational AI/ML Engineer at Gyre Energy, an early-stage startup developing dynamic control systems to optimize energy efficiency for cooling-intensive infrastructure. 
+									My work focuses on designing physics-informed digital twins to refine and validate automation strategies for real-world operations. 
+									<a href="https://www.gyreenergy.com/" target="_blank">Learn more about our mission.</a>
+								</p>
+								<header>
+									<h2>Selected Papers</h2>
+								</header>
+								<p>
+									My doctoral research focused on Bayesian prediction, causal inference, and model uncertainty, with applications to healthcare, public policy, and large language model (LLM) evaluation. 
+								</p>
+								<ul class="post-list">
+									<li class="post-list-divider">
+										As lead author
+									</li>
+									<li>
+										<a class="title" href="https://ora.ox.ac.uk/objects/uuid:dbf13fb5-677f-46e4-a7df-605632c7ad07" target="_blank">Prediction-powered machine learning for model selection and uncertainty</a>
+										<span class="meta">PhD Dissertation · [Github (<a href="https://github.com/vshirvaikar/MPModel" target="_blank">model uncertainty</a>, <a href="https://github.com/vshirvaikar/MPPrediction" target="_blank">predictive coherence</a>)]</span>
+									</li>
+									<li>
+										<a class="title" href="https://arxiv.org/abs/2309.15793" target="_blank">Targeting relative risk heterogeneity with causal forests</a>
+										<span class="meta">With Andrea Storås, Xi Lin, and Chris Holmes · Under journal revision · [<a href="https://github.com/vshirvaikar/rrcf" target="_blank">Github</a>]</span>
+									</li>
+									<li>
+										<a class="title" href="https://arxiv.org/abs/2011.11483" target="_blank">Rethinking recidivism through a causal lens</a>
+										<span class="meta">With Choudur K. Lakshminarayan · [<a href="https://github.com/vshirvaikar/recidivism" target="_blank">Github</a>]</span>
+									</li>
+									<li class="post-list-divider">
+										As contributing author
+									</li>
+									<li>
+										<a class="title" href="https://arxiv.org/abs/2509.20013" target="_blank">A decision-theoretic framework for uncertainty quantification in epidemiology</a>
+										<span class="meta">Lead author Nic Steyn · Under journal revision</span>
+									</li>
+									<li>
+										<a class="title" href="https://proceedings.mlr.press/v267/pituk25a.html" target="_blank">Do Bayesian neural networks actually behave like Bayesian models?</a>
+										<span class="meta">Lead author Gábor Pituk · ICML (2025)</span>
+									</li>
+									<li>
+										<a class="title" href="https://arxiv.org/abs/2407.08029" target="_blank">A critical review of causal reasoning benchmarks for large language models</a>
+										<span class="meta">Lead author Linying Yang · AAAI (2024) Workshop</span>
+									</li>
 
-						<!-- Four -->
-							<section id="four">
-								<div class="container">
-									<h3>Contact Me</h3>
-									<p>vik.shirvaikar (at) gmail.com / <a href="https://www.linkedin.com/in/vik-shirvaikar/" target="_blank">LinkedIn</a></p>
+								</ul>
+							</article>
+
+						<!-- CV -->
+							<article id="cv" class="panel">
+								<header>
+									<h2>CV</h2>
+								</header>
+								<p>
+									See below, or <a href="assets/docs/VS Website Resume.pdf" target="_blank" download>download the file</a>.
+								</p>
+								<div class="table-wrapper" style="border: solid 1px #cccccc; border-radius: 8px; overflow: hidden; background: #ffffff;">
+									<iframe
+										title="Vik Shirvaikar CV"
+										src="assets/docs/VS Website Resume.pdf#view=FitH"
+										style="display: block; width: 100%; height: 75vh; min-height: 480px; border: 0;"
+									></iframe>
 								</div>
-							</section>
+							</article>
+
 					</div>
 
 				<!-- Footer -->
-					<section id="footer">
-						<div class="container">
-							<ul class="copyright">
-								<li>&copy; 2021. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-							</ul>
-						</div>
-					</section>
+					<div id="footer">
+						<ul class="copyright">
+							<li>&copy; 2026. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
 
 			</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>

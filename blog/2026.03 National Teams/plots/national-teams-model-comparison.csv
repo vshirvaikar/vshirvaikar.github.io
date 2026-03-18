@@ -1,0 +1,4 @@
+model,nobs,aic,pseudo_r2_mcfadden
+plus_w_centered_by_sport,400,397.569534,0.102702
+plus_w,400,413.553068,0.065887
+pop_gdp_only,400,416.566041,0.054341

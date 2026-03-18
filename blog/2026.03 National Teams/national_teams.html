@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>National Teams: Allocation, Strength, and Fit</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../../../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../../../assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<div id="wrapper">
+
+			<nav id="nav">
+				<a href="../../../index.html" class="icon solid fa-home"><span>Home</span></a>
+				<a id="nav-work-link" href="../../../index.html#work" class="icon solid fa-folder active"><span>Work</span></a>
+				<a href="../../../index.html#contact" class="icon solid fa-envelope"><span>Contact</span></a>
+			</nav>
+
+			<div id="main">
+				<article class="panel">
+					<p><a href="../../../index.html#work">&larr; Back to Analysis</a></p>
+					<header>
+						<h2>National Teams: Allocation, Strength, and Fit</h2>
+						<p>Mar 2026</p>
+					</header>
+
+					<p>
+						This post is plain content with static exports from notebook analysis.
+					</p>
+
+					<h3>Key Plot</h3>
+					<p>
+						<img src="../plots/national-teams-sports5.png" alt="Allocation vs strength by sport" style="max-width: 100%; height: auto;" />
+					</p>
+
+					<h3>Model Comparison Table</h3>
+					<div class="table-wrapper">
+						<table>
+							<thead>
+								<tr>
+									<th>Model</th>
+									<th>N</th>
+									<th>AIC</th>
+									<th>McFadden pseudo-R2</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>pop_gdp_only</td>
+									<td>240</td>
+									<td>190.6</td>
+									<td>0.102</td>
+								</tr>
+								<tr>
+									<td>plus_w</td>
+									<td>240</td>
+									<td>176.3</td>
+									<td>0.161</td>
+								</tr>
+								<tr>
+									<td>plus_w_centered_by_sport</td>
+									<td>240</td>
+									<td>170.9</td>
+									<td>0.193</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<p>
+						Full CSV export:
+						<a href="../plots/national-teams-model-comparison.csv">national-teams-model-comparison.csv</a>
+					</p>
+				</article>
+			</div>
+
+			<div id="footer">
+				<ul class="copyright">
+					<li>&copy; 2026. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</div>
+
+		</div>
+
+		<script src="../../../assets/js/jquery.min.js"></script>
+		<script src="../../../assets/js/browser.min.js"></script>
+		<script src="../../../assets/js/breakpoints.min.js"></script>
+		<script src="../../../assets/js/util.js"></script>
+		<script src="../../../assets/js/main.js"></script>
+		<script>
+			// On standalone post pages, keep only the Work icon active.
+			document.querySelectorAll('#nav a').forEach(function(link) {
+				link.classList.remove('active');
+			});
+			var workLink = document.getElementById('nav-work-link');
+			if (workLink)
+				workLink.classList.add('active');
+		</script>
+
+	</body>
+</html>
