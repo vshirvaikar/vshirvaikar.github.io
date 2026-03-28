@@ -20,14 +20,13 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<a href="#" class="icon solid fa-home"><span>Home</span></a>
-						<!-- <a href="#blog" class="icon solid fa-th"><span>Blog</span></a> -->
+					<a href="#blog" class="icon solid fa-th"><span>Blog</span></a>
 						<a href="#research" class="icon solid fa-graduation-cap"><span>Research</span></a>
 						<a href="#cv" class="icon solid fa-id-card"><span>CV</span></a>
 					</nav>
 
 				<!-- Main -->
 					<div id="main">
-
 						<!-- Me -->
 							<article id="home" class="panel intro">
 								<header>
@@ -43,28 +42,23 @@
 								</span>
 							</article>
 
-						<!-- Confusion Matrix
+						<!-- Confusion Matrix -->
 							<article id="blog" class="panel">
 								<header>
 									<h2>Confusion Matrix</h2>
 								</header>
 								<p>
-									Blog posts on applied ML, modeling decisions, and practical analysis writeups.
+									The internet's only sports analytics blog.
 								</p>
 								<section>
 									<ul class="post-list">
 										<li>
-											<a class="title" href="blog/2026.03%20National%20Teams/national_teams.html">National Teams: Allocation, Strength, and Fit</a>
-											<span class="meta">Mar 2026 · Static plot and table exported from notebook outputs.</span>
-										</li>
-										<li>
-											<a class="title" href="#">Template: Next Post Title</a>
-											<span class="meta">MMM YYYY · One-line summary for future post.</span>
+											<a class="title" href="blog/2026.03%20National%20Teams/national_teams.html">Are National Team Sports a Zero-Sum Game?</a>
+											<span class="meta">March 2026 · An Early Look at the 2038 World Cup</span>
 										</li>
 									</ul>
 								</section>
 							</article>
-						-->
 
 						<!-- Research -->
 							<article id="research" class="panel">
@@ -119,19 +113,26 @@
 
 						<!-- CV -->
 							<article id="cv" class="panel">
-								<header>
-									<h2>CV</h2>
-								</header>
 								<p>
 									See below, or <a href="assets/docs/VS Website Resume.pdf" target="_blank" download>download the file</a>.
 								</p>
-								<div class="table-wrapper" style="border: solid 1px #cccccc; border-radius: 8px; overflow: hidden; background: #ffffff;">
+								<style>
+									@media (max-width: 736px) {
+										.cv-iframe-wrapper { display: none; }
+										.cv-mobile-link { display: block !important; }
+									}
+								</style>
+								<div class="cv-iframe-wrapper table-wrapper" style="border: solid 1px #cccccc; border-radius: 8px; overflow: hidden; background: #ffffff;">
 									<iframe
 										title="Vik Shirvaikar CV"
 										src="assets/docs/VS Website Resume.pdf#view=FitH"
 										style="display: block; width: 100%; height: 75vh; min-height: 480px; border: 0;"
 									></iframe>
 								</div>
+								<a class="cv-mobile-link" href="assets/docs/VS Website Resume.pdf" target="_blank"
+									style="display: none; text-align: center; padding: 0.9em; background: #f5f5f5; border: solid 1px #cccccc; border-radius: 8px; font-weight: 600;">
+									Open CV (PDF)
+								</a>
 							</article>
 
 					</div>

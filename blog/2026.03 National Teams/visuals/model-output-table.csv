@@ -1,0 +1,10 @@
+Model,Covariate,Coefficient,SE,Z-score,p-value
+Model 1: Population + GDP per capita | McFadden pseudo-R²: 0.0543,,,,,
+,Intercept,-10.501,2.397,-4.382,<0.001
+,Population,0.251,0.076,3.296,<0.001
+,GDP per capita,0.614,0.139,4.412,<0.001
+Model 2: Population + GDP per capita + Allocation | McFadden pseudo-R²: 0.1213,,,,,
+,Intercept,-10.412,2.513,-4.143,<0.001
+,Population,0.301,0.083,3.641,<0.001
+,GDP per capita,0.526,0.144,3.658,<0.001
+,Allocation,0.447,0.091,4.903,<0.001

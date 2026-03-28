@@ -1,0 +1,35 @@
+BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
+
+1) Run the notebook and export figures
+- Run all cells to generate model outputs and figures.
+- Use export helpers to save figures to ../visuals with per-figure control.
+- Keep output paths relative to the post folder.
+
+2) Write markdown article
+- Add YAML frontmatter for title/subtitle:
+  ---
+  title: "..."
+  subtitle: "..."
+  ---
+- For images: use <img class="post-figure" src="./visuals/file.png" />
+- For complex tables: use HTML with class-based CSS for layout control.
+- For equations: use display math ($$...$$) for proper LaTeX rendering.
+- Add CSS block at top:
+  <style>
+  .post-figure { width: 100%; height: auto; display: block; margin: 0.5rem auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 0.35rem 0.5rem; text-align: left; }
+  </style>
+
+3) Compile to single-file HTML
+  cd blog/<post-folder>
+  pandoc <post>.md \
+    -o <post>_share.html \
+    --standalone \
+    --self-contained \
+    --resource-path=".:visuals" \
+    --mathjax
+
+4) Verify output
+- Open HTML in browser.
+- Check: images load, tables render, equations display, no warnings.
