@@ -21,7 +21,7 @@ Our argument is that within any given country, elite team sports compete for spa
 
 With a pool of developed top-flight athletes in place, the next question is how they are allocated across sports. Our measure of national attention comes from [Google Trends](https://trends.google.com/trends/), a tool that tracks the relative popularity of search terms across different time periods and regions. Its accessibility is precisely why it has launched a thousand lazy social science papers, but for our purposes, it is surprisingly well-suited. It allows us to sidestep the manual labor of collecting data about government spending or stadium attendance, and jump straight to where a nation's eyes are collectively focused. 
 
-To predict world performance in 2026, we use Trends data from 2006 to 2015. The ten-year lag reflects the time needed to develop players, and avoids the boondoggle of reverse causality: you hear the U.S. cricket team just pulled off a [big upset](bbc.com/sport/cricket/articles/cv22me263jmo), so you look up what a “wicket” is (and become even more confused), but that search doesn’t help the players who are already on the pitch. 
+To predict world performance in 2026, we use Trends data from 2006 to 2015. The ten-year lag reflects the time needed to develop players, and avoids the boondoggle of reverse causality: you hear the U.S. cricket team just pulled off a [big upset](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/pakistan-vs-united-states-of-america-12th-match-group-a-1512730/full-scorecard), so you look up what a “wicket” is (and become even more confused), but that search doesn’t help the players who are already on the pitch. 
 
 For each of our 40 countries, we get a breakdown that sums to 100%, showing the allocation of national interest to our five key sports – soccer, basketball, rugby, cricket, and volleyball – along with six others that are broadly popular enough to siphon athletes away – field hockey, ice hockey, handball, baseball, American football, and water polo. (To see how we get from raw Trends data to a clean numerical breakdown, see the appendix.)
 
@@ -44,7 +44,7 @@ We first fit the rankings to population and GDP per capita, then add the sport-s
 The results are below: the model with just population and GDP has a [pseudo R-squared](https://en.wikipedia.org/wiki/Pseudo-R-squared) of 5.43%, and adding attention boosts that to 12.68%. On the one hand, we’ve more than doubled the explained variance, a substantial improvement that suggests "interest" really is a primary driver. On the other hand, we’re still only accounting for about one-eighth of what makes a team good.
 
 <div style="text-align: center;">
-<table style="display: inline-block; margin: 0 auto;">
+<table style="width: 100%; margin: 0 auto;">
 	<colgroup>
 		<col style="width: 30%;">
 		<col style="width: 20%;">
