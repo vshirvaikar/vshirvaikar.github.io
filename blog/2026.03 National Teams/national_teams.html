@@ -78,6 +78,15 @@
       border-collapse: collapse;
       margin: 0 auto 2.25rem auto !important;
     }
+    .table-wrap {
+      margin: 0 0 2.25rem 0;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .table-wrap table {
+      margin-bottom: 0 !important;
+      min-width: 640px;
+    }
     th, td {
       padding: 0.35rem 0.5rem;
       text-align: left;
@@ -198,7 +207,7 @@
       <p>This forces a fixed spacing between the entries, but I argue that’s actually a feature, not a bug. World rankings are the relevant target because of how fans communicate. When people talk about their national team, they say “we’re 5 spots higher than you”, not “we exceed you by 27.34 weighted average points according to the <a href="https://inside.fifa.com/fifa-world-ranking/procedure-men">proprietary FIFA Coca-Cola © methodology</a>.”</p>
       <p>We first fit the rankings to population and GDP per capita, then add the sport-specific attention coefficients. I’ve logged all the covariates, to keep outliers from breaking the scale, and centered the attention values around the mean for each sport, to focus on which countries are over-indexing their interest.</p>
       <p>The results are below: the model with just population and GDP has a <a href="https://en.wikipedia.org/wiki/Pseudo-R-squared">pseudo R-squared</a> of 5.43%, and adding attention boosts that to 12.68%. On the one hand, we’ve more than doubled the explained variance, a substantial improvement that suggests “interest” really is a primary driver. On the other hand, we’re still only accounting for about one-eighth of what makes a team good.</p>
-      <div style="text-align: center;">
+      <div class="table-wrap">
       <table style="width: 100%; margin: 0 auto;">
       <colgroup>
       <col style="width: 30%;">

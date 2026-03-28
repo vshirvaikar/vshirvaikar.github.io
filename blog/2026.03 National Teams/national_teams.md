@@ -43,7 +43,7 @@ We first fit the rankings to population and GDP per capita, then add the sport-s
 
 The results are below: the model with just population and GDP has a [pseudo R-squared](https://en.wikipedia.org/wiki/Pseudo-R-squared) of 5.43%, and adding attention boosts that to 12.68%. On the one hand, we’ve more than doubled the explained variance, a substantial improvement that suggests "interest" really is a primary driver. On the other hand, we’re still only accounting for about one-eighth of what makes a team good.
 
-<div style="text-align: center;">
+<div class="table-wrap">
 <table style="width: 100%; margin: 0 auto;">
 	<colgroup>
 		<col style="width: 30%;">
