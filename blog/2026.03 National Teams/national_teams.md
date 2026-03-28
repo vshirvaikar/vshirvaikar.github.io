@@ -3,31 +3,6 @@ title: "Are National Team Sports a Zero-Sum Game?"
 subtitle: "An Early Look at the 2038 World Cup"
 ---
 
-<style>
-.post-figure {
-	display: block;
-	width: 100%;
-	max-width: 100%;
-	height: auto;
-	margin: 0.5rem auto;
-}
-
-table {
-	width: 100%;
-	border-collapse: collapse;
-}
-
-th, td {
-	padding: 0.35rem 0.5rem;
-	text-align: left;
-	vertical-align: top;
-}
-
-td[colspan="5"] {
-	font-weight: 600;
-}
-</style>
-
 As an American in the U.K., I spend a non-trivial amount of time rationalizing our persistent futility in men’s soccer. (The word “soccer” was [invented in Oxford](https://www.britannica.com/story/why-do-some-people-call-football-soccer), and I will not be discussing this point any further.) My usual defense is a simple and familiar one: the U.S. has an enormous wealth of elite athletic talent, but we spend it all on things that the rest of the world doesn’t really care about, like the NFL, NBA, MLB, and NHL. 
 
 This isn’t an insult to Christian Pulisic and Weston McKennie. If anything, they deserve extra credit for surviving our coordinated national effort to lure them into literally any other sport. The career math just isn’t very inviting when the [highest-paid American in the MLS](https://mlsplayers.org/resources/salary-guide) (Walker Zimmerman, at \$3.5 million) makes less than the [median starting NFL kicker](https://overthecap.com/position/kicker) (\$4 million, by my count). Compare that to Argentina and France, where any three-year-old who can run fast is immediately enlisted in an academy, and it’s no wonder we can’t compete.
@@ -46,11 +21,11 @@ Our argument is that within any given country, elite team sports compete for spa
 
 With a pool of developed top-flight athletes in place, the next question is how they are allocated across sports. Our measure of national attention comes from [Google Trends](https://trends.google.com/trends/), a tool that tracks the relative popularity of search terms across different time periods and regions. Its accessibility is precisely why it has launched a thousand lazy social science papers, but for our purposes, it is surprisingly well-suited. It allows us to sidestep the manual labor of collecting data about government spending or stadium attendance, and jump straight to where a nation's eyes are collectively focused. 
 
-To predict world sports performance in 2026, we use Trends data from 2006 to 2015. The ten-year lag reflects the time needed to develop players, and avoids the boondoggle of reverse causality: you hear the U.S. cricket team just pulled off a [big upset](bbc.com/sport/cricket/articles/cv22me263jmo), so you look up what a “wicket” is (and become even more confused), but that search doesn’t help the players who are already on the pitch. 
+To predict world performance in 2026, we use Trends data from 2006 to 2015. The ten-year lag reflects the time needed to develop players, and avoids the boondoggle of reverse causality: you hear the U.S. cricket team just pulled off a [big upset](bbc.com/sport/cricket/articles/cv22me263jmo), so you look up what a “wicket” is (and become even more confused), but that search doesn’t help the players who are already on the pitch. 
 
 For each of our 40 countries, we get a breakdown that sums to 100%, showing the allocation of national interest to our five key sports – soccer, basketball, rugby, cricket, and volleyball – along with six others that are broadly popular enough to siphon athletes away – field hockey, ice hockey, handball, baseball, American football, and water polo. (To see how we get from raw Trends data to a clean numerical breakdown, see the appendix.)
 
-A few examples are plotted below. The average country spends 61% of its attention budget on soccer, a huge monopoly compared to the next-most-popular sport, which is basketball at a 9% average. India's single-minded obsession with cricket stands out, as do other specific sports in places where you'd expect them -- ice hockey for Canada and Sweden, rugby for France, baseball for Japan. 
+A few examples are plotted below. The average country spends 61% of its attention budget on soccer, a huge monopoly compared to the next-most-popular sport, which is basketball at 9%. India's single-minded obsession with cricket stands out, as do other specific sports in places you'd expect -- ice hockey for Canada and Sweden, rugby for France, baseball for Japan. 
 
 Interestingly, the U.S. isn't nearly as dominated by American football as expected. Between the generally fractured landscape and the broad popularity of soccer as a youth sport, American football only commands 27% of the attention, with soccer close behind at 26%. Basketball at 18% and baseball at 15% round out a uniquely competitive internal market.
 
@@ -66,14 +41,14 @@ This forces a fixed spacing between the entries, but I argue that’s actually a
 
 We first fit the rankings to population and GDP per capita, then add the sport-specific attention coefficients. I’ve logged all the covariates, to keep outliers from breaking the scale, and centered the attention values around the mean for each sport, to focus on which countries are over-indexing their interest. 
 
-The results are below: the model with just population and GDP has a [pseudo R-squared](https://en.wikipedia.org/wiki/Pseudo-R-squared) of 5.43%, and adding attention boosts that to 12.68%. On the one hand, we’ve more than doubled the amount of variance explained, a substantial improvement that suggests "interest" really is a primary driver. On the other hand, we’re still only accounting for about one-eighth of what makes a team good.
+The results are below: the model with just population and GDP has a [pseudo R-squared](https://en.wikipedia.org/wiki/Pseudo-R-squared) of 5.43%, and adding attention boosts that to 12.68%. On the one hand, we’ve more than doubled the explained variance, a substantial improvement that suggests "interest" really is a primary driver. On the other hand, we’re still only accounting for about one-eighth of what makes a team good.
 
 <div style="text-align: center;">
 <table style="display: inline-block; margin: 0 auto;">
 	<colgroup>
-		<col style="width: 40%;">
-		<col style="width: 15%;">
-		<col style="width: 15%;">
+		<col style="width: 30%;">
+		<col style="width: 20%;">
+		<col style="width: 20%;">
 		<col style="width: 15%;">
 		<col style="width: 15%;">
 	</colgroup>
@@ -81,7 +56,7 @@ The results are below: the model with just population and GDP has a [pseudo R-sq
 		<tr>
 			<th>Covariate</th>
 			<th>Coefficient</th>
-			<th>SE</th>
+			<th>Std. error</th>
 			<th>Z-score</th>
 			<th>p-value</th>
 		</tr>
@@ -108,7 +83,7 @@ When we fit individual models for each sport, first with population and GDP only
 
 ![](./visuals/r2-by-sport.png)
 
-We essentially end up with three distinct stories.
+We end up with three distinct stories.
 
 * Cricket and rugby: Niche sports where attention is the primary driver of success, and including it improves the model by an order of magnitude. These are cultural obsessions in specific corners of the world, so population and wealth alone tell you very little.
 

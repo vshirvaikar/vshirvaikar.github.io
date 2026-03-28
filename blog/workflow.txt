@@ -14,20 +14,17 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 - For images: use <img class="post-figure" src="./visuals/file.png" />
 - For complex tables: use HTML with class-based CSS for layout control.
 - For equations: use display math ($$...$$) for proper LaTeX rendering.
-- Add CSS block at top:
-  <style>
-  .post-figure { width: 100%; height: auto; display: block; margin: 0.5rem auto; }
-  table { width: 100%; border-collapse: collapse; }
-  th, td { padding: 0.35rem 0.5rem; text-align: left; }
-  </style>
+- The back-link and site chrome are injected by blog-template.html; no back-link needed in the MD.
+- Figure and table styling are centralized in blog-template.html; only add a CSS block in MD for true one-off overrides.
 
 3) Compile to single-file HTML
   cd blog/<post-folder>
   pandoc <post>.md \
-    -o <post>_share.html \
+    -o <post>.html \
     --standalone \
     --self-contained \
     --resource-path=".:visuals" \
+    --template=../blog-template.html \
     --mathjax
 
 4) Verify output

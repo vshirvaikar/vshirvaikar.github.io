@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <title>$if(title)$$title$ | Confusion Matrix$else$Confusion Matrix$endif$</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic" />
+  $if(math)$$math$$endif$
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 300;
+      font-size: 15pt;
+      line-height: 1.75em;
+      color: #555555;
+    }
+    @media screen and (max-width: 1280px) { html, body { font-size: 14pt; } }
+    @media screen and (max-width: 736px)  { html, body { font-size: 12pt; } }
+
+    strong, b { font-weight: 400; color: #363636; }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: 400;
+      color: #363636;
+      letter-spacing: -0.015em;
+      margin: 1.5em 0 0.5em 0;
+    }
+    h1 { font-size: 2.4em; }
+    h2 { font-size: 1.8em; }
+    h3, h4, h5, h6 { font-size: 1.25em; }
+    @media screen and (max-width: 736px) {
+      h1 { font-size: 1.75em; }
+      h2 { font-size: 1.375em; }
+      h3, h4, h5, h6 { font-size: 1em; }
+    }
+
+    p, ul, ol, dl, table, blockquote { margin-bottom: 1.5em; }
+
+    a { color: #555555; text-decoration: underline; }
+    a:hover { color: #222222; }
+
+    em, i { font-style: italic; }
+
+    ul { list-style: disc; padding-left: 1.5em; }
+    ul li { padding-left: 0.5em; margin-bottom: 0.25em; }
+    ol { list-style: decimal; padding-left: 1.75em; }
+
+    hr { border: 0; border-top: solid 1px #dddddd; margin: 2em 0; }
+
+    blockquote {
+      border-left: solid 0.5em #dddddd;
+      padding: 1em 0 1em 2em;
+      font-style: italic;
+    }
+
+    code, pre {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.875em;
+      background: #f4f4f4;
+      padding: 0.1em 0.3em;
+    }
+    pre { padding: 1em; overflow-x: auto; }
+    pre code { background: none; padding: 0; }
+
+    img { max-width: 100%; height: auto; display: block; }
+    .post-figure {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      margin: 0.5rem auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0 auto 2.25rem auto !important;
+    }
+    th, td {
+      padding: 0.35rem 0.5rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    thead th {
+      font-weight: 400;
+      color: #363636;
+      border-bottom: 2px solid #bdbdbd;
+    }
+    tbody td {
+      border-bottom: 1px solid #c8c8c8;
+    }
+    tbody tr:last-child td {
+      border-bottom: 0;
+    }
+    td[colspan="5"] {
+      font-weight: 600;
+    }
+
+    /* Page layout */
+    body {
+      background-color: #d8b79d;
+      background-image: url("../../assets/css/images/overlay.png"), url("../../assets/css/images/bg.jpg");
+      background-repeat: repeat, no-repeat;
+      background-size: auto, 100% 100%;
+      background-attachment: fixed;
+      min-height: 100vh;
+      padding: 3em 1em;
+    }
+
+    .page-wrapper {
+      width: 45em;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+
+    /* Back nav */
+    .site-header {
+      margin-bottom: 0.75em;
+      font-size: 0.85em;
+    }
+    .site-header a {
+      color: #555555;
+      text-decoration: none;
+      letter-spacing: 0.02em;
+    }
+    .site-header a:hover { color: #222222; text-decoration: underline; }
+
+    /* White article panel matching Astral #main .panel */
+    .post-panel {
+      background: #ffffff;
+      box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+      padding: 3.5em 2.5em 2.5em 2.5em;
+    }
+    @media screen and (max-width: 736px) {
+      .post-panel { padding: 2em 1.5em 1.5em 1.5em; }
+    }
+
+    /* Title block */
+    .post-title {
+      border-bottom: solid 1px #dddddd;
+      padding-bottom: 1em;
+      margin-bottom: 1.75em;
+    }
+    .post-title h1 {
+      margin: 0 0 0.2em 0;
+      font-size: 2em;
+      line-height: 1.2em;
+    }
+    .post-title .subtitle {
+      color: #888888;
+      font-size: 1.2em;
+      font-weight: 300;
+    }
+
+    /* Footer */
+    .site-footer {
+      margin-top: 1em;
+      text-align: center;
+      font-size: 0.75em;
+      color: #aaaaaa;
+    }
+    .site-footer a { color: #aaaaaa; text-decoration: none; }
+    .site-footer a:hover { color: #777777; }
+  </style>
+</head>
+<body>
+  <div class="page-wrapper">
+
+    <header class="site-header">
+      <a href="../../index.html#blog">← Confusion Matrix</a>
+    </header>
+
+    <article class="post-panel">
+      $if(title)$
+      <div class="post-title">
+        <h1>$title$</h1>
+        $if(subtitle)$<p class="subtitle">$subtitle$</p>$endif$
+      </div>
+      $endif$
+
+      $body$
+    </article>
+
+    <footer class="site-footer">
+      <p>&copy; 2026 Vik Shirvaikar &middot; <a href="../../index.html">vshirvaikar.github.io</a></p>
+    </footer>
+
+  </div>
+</body>
+</html>
