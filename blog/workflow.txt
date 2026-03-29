@@ -35,4 +35,5 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 - Add a new <item> block to blog/feed.xml with:
   <title>, <link>, <pubDate> (RFC 822 format), <guid>, and <description> (excerpt)
 - Update <lastBuildDate> in the <channel> to today's date.
+- Use real page URLs only in RSS (no fragment links like #blog in <channel><link> or <item><link>). 
 - Feed readers will auto-discover via the <link rel="alternate"> in the template.
