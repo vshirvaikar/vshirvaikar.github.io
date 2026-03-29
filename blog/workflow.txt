@@ -30,3 +30,9 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 4) Verify output
 - Open HTML in browser.
 - Check: images load, tables render, equations display, no warnings.
+
+5) Update RSS feed
+- Add a new <item> block to blog/feed.xml with:
+  <title>, <link>, <pubDate> (RFC 822 format), <guid>, and <description> (excerpt)
+- Update <lastBuildDate> in the <channel> to today's date.
+- Feed readers will auto-discover via the <link rel="alternate"> in the template.

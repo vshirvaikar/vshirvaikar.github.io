@@ -66,7 +66,7 @@ The results are below: the model with just population and GDP has a [pseudo R-sq
 		<tr><td>Intercept</td><td>-10.501</td><td>2.397</td><td>-4.382</td><td>&lt;0.001</td></tr>
 		<tr><td>Population</td><td>0.251</td><td>0.076</td><td>3.296</td><td>&lt;0.001</td></tr>
 		<tr><td>GDP per capita</td><td>0.614</td><td>0.139</td><td>4.412</td><td>&lt;0.001</td></tr>
-		<tr><td colspan="5"><strong>Model 2: Model 1 + Allocation | Pseudo-R²: 0.1268</strong></td></tr>
+		<tr><td colspan="5"><strong>Model 2: Model 1 + Attention | Pseudo-R²: 0.1268</strong></td></tr>
 		<tr><td>Intercept</td><td>-10.412</td><td>2.513</td><td>-4.143</td><td>&lt;0.001</td></tr>
 		<tr><td>Population</td><td>0.301</td><td>0.083</td><td>3.641</td><td>&lt;0.001</td></tr>
 		<tr><td>GDP per capita</td><td>0.526</td><td>0.144</td><td>3.658</td><td>&lt;0.001</td></tr>
