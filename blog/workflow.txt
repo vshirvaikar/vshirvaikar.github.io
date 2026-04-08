@@ -2,8 +2,13 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 
 1) Run the notebook and export figures
 - Run all cells to generate model outputs and figures.
-- Use export helpers to save figures to ../visuals with per-figure control.
-- Keep output paths relative to the post folder.
+- Export figures to `../visuals`, and keep all output paths relative to the post folder.
+- Save each figure you want to export as a named matplotlib object, for example `fig_name = fig`.
+- Keep a reusable export helper in the notebook that sets figure size from `width_px`, `aspect`, and `dpi`, 
+  optionally resets font sizes, saves to `../visuals`, and prints a markdown `<img ... />` snippet for the exported file.
+- For all picture formatting and export conventions, use these notebooks as the reference implementation:
+  `blog/2026.03 National Teams/analysis/model.ipynb`
+  `blog/2026.04 CFB Preseason/analysis/model.ipynb`
 
 2) Write markdown article
 - Add YAML frontmatter for title/subtitle:

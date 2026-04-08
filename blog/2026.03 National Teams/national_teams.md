@@ -107,7 +107,7 @@ I promised you an early prediction of the 2038 World Cup (a 96-team tournament t
 
 ### Appendix
 
-I'm always happy to discuss collaboration ideas, or share code and data; my contact information is available under the CV tab.
+Code and data are [available on Github](https://github.com/vshirvaikar/vshirvaikar.github.io/tree/main/blog). I'm always happy to discuss collaboration ideas; my contact information can be found under the CV tab.
 
 First, we'll cover how the Google Trends data for each country was converted to an allocation vector. Credit goes to the deep minds at Google for the “Topics” mechanism within the tool, which saves us from the rabbit hole of determining which specific search terms to include. We don’t have to decide between “Champions League” and “Super Bowl” or (god forbid) “FIFA” and “NFL” as our lookup keys. They have handed us “soccer”, “American football”, etc. as pre-defined groupings that we can neatly put in our shopping basket. 
 
