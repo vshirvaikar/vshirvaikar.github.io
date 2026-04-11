@@ -24,13 +24,8 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 
 3) Compile to single-file HTML
   cd blog/<post-folder>
-  pandoc <post>.md \
-    -o <post>.html \
-    --standalone \
-    --self-contained \
-    --resource-path=".:visuals" \
-    --template=../blog-template.html \
-    --mathjax
+  pandoc <post>.md -o <post>.html --standalone --self-contained \
+    --resource-path=".:visuals" --template=../blog-template.html --mathjax
 
 4) Verify output
 - Open HTML in browser.
@@ -42,3 +37,7 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 - Update <lastBuildDate> in the <channel> to today's date.
 - Use real page URLs only in RSS (no fragment links like #blog in <channel><link> or <item><link>). 
 - Feed readers will auto-discover via the <link rel="alternate"> in the template.
+
+6) Update sitemap
+- Add the new post URL to /sitemap.xml.
+- Update that URL's <lastmod> timestamp.
