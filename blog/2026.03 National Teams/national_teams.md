@@ -1,6 +1,6 @@
 ---
 title: "Are National Team Sports a Zero-Sum Game?"
-subtitle: "An Early Look at the 2038 World Cup"
+subtitle: "An early look at the 2038 World Cup"
 ---
 
 As an American in the U.K., I spend a non-trivial amount of time rationalizing our persistent futility in men’s soccer. (The word “soccer” was [invented in Oxford](https://www.britannica.com/story/why-do-some-people-call-football-soccer), and I will not be discussing this point any further.) My usual defense is a simple and familiar one: the U.S. has an enormous wealth of elite athletic talent, but we spend it all on things that the rest of the world doesn’t really care about, like the NFL, NBA, MLB, and NHL. 
@@ -86,9 +86,7 @@ When we fit individual models for each sport, first with population and GDP only
 We end up with three distinct stories.
 
 * Cricket and rugby: Niche sports where attention is the primary driver of success, and including it improves the model by an order of magnitude. These are cultural obsessions in specific corners of the world, so population and wealth alone tell you very little.
-
 * Basketball and volleyball: Global average sports where attention is roughly half the story, in line with the pooled model. They are popular enough that scale matters, but they haven’t hit a ceiling yet. They sit at a “sweet spot” where more national attention translates directly into a better team.
-
 * Soccer: The outlier, where attention has almost zero predictive power.
 
 ### What does it all mean? 
@@ -114,9 +112,7 @@ First, we'll cover how the Google Trends data for each country was converted to 
 Google rescales every query pull to a 0–100 index, so values from different searches aren't directly comparable. Furthermore, soccer’s massive popularity often "breaks" the scale, flattening the variance of smaller sports. To solve this, I used an anchor set of four sports (volleyball, basketball, cricket, and rugby union) as a common denominator across three separate data pulls:
 
 * Group 1: Anchor set plus soccer
-
 * Group 2: Anchor set plus baseball, ice hockey, and handball
-
 * Group 3: Anchor set plus American football, water polo, and field hockey
 
 For each country, I calculated the mean topic interest for every sport within each group. To normalize these across the three pulls, I rescaled each sport relative to that file's anchor mean (the average of the four anchors). I then averaged these rescaled values across the three files and kept the 11 team-sport topics used in the article. Finally, I normalized the shares so that they sum to 1. This gives each country a clean allocation vector representing the share of national interest dedicated to each sport.

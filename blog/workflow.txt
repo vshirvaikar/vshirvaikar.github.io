@@ -1,14 +1,12 @@
 BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 
-1) Run the notebook and export figures
-- Run all cells to generate model outputs and figures.
-- Export figures to `../visuals`, and keep all output paths relative to the post folder.
-- Save each figure you want to export as a named matplotlib object, for example `fig_name = fig`.
-- Keep a reusable export helper in the notebook that sets figure size from `width_px`, `aspect`, and `dpi`, 
-  optionally resets font sizes, saves to `../visuals`, and prints a markdown `<img ... />` snippet for the exported file.
-- For all picture formatting and export conventions, use these notebooks as the reference implementation:
-  `blog/2026.03 National Teams/analysis/model.ipynb`
-  `blog/2026.04 CFB Preseason/analysis/model.ipynb`
+1) Notebook structure
+- Cell 1: Copy verbatim from a previous notebook in the same blog series (imports, data paths, config).
+- Cell 2: Shared export helper functions (figure export and markdown image markup).
+- Cell 3+: Analysis-specific cells for this post.
+- In plot cells, set explicit text scale and spacing (axis labels, ticks, legend, and layout pads) instead of relying on defaults.
+- Final cell: Export calls only (no helper definitions).
+- In the final cell, call `export_figure(...)` with explicit `width_px` and `aspect` for each figure so exported PNG size is consistent across posts.
 
 2) Write markdown article
 - Add YAML frontmatter for title/subtitle:
