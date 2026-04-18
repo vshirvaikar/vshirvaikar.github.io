@@ -4,22 +4,26 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://vikshirvaikar.com/</loc>
-  <lastmod>2026-04-08T20:17:31+00:00</lastmod>
+  <lastmod>2026-03-15T12:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://vikshirvaikar.com/blog/2026.03%20National%20Teams/national_teams.html</loc>
-  <lastmod>2026-04-11T10:02:21+00:00</lastmod>
+  <lastmod>2026-03-28T12:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vikshirvaikar.com/blog/2026.04%20Chess%20Candidates/chess_candidates.html</loc>
+  <lastmod>2026-04-18T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vikshirvaikar.com/assets/docs/VS%20Website%20Resume.pdf</loc>
-  <lastmod>2026-04-08T20:17:31+00:00</lastmod>
+  <lastmod>2026-03-15T12:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 

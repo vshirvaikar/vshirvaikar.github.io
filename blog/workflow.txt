@@ -1,12 +1,11 @@
 BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 
 1) Notebook structure
-- Cell 1: Copy verbatim from a previous notebook in the same blog series (imports, data paths, config).
-- Cell 2: Shared export helper functions (figure export and markdown image markup).
-- Cell 3+: Analysis-specific cells for this post.
+- Plot formatting: Copy verbatim from a previous notebook in the same blog series (imports, data paths, config).
+- Shared export helper functions (figure export and markdown image markup).
 - In plot cells, set explicit text scale and spacing (axis labels, ticks, legend, and layout pads) instead of relying on defaults.
 - Final cell: Export calls only (no helper definitions).
-- In the final cell, call `export_figure(...)` with explicit `width_px` and `aspect` for each figure so exported PNG size is consistent across posts.
+- In the final cell, call `export_figure(...)` with explicit `width_px` and `aspect` for each figure so exported PNG size is consistent.
 
 2) Write markdown article
 - Add YAML frontmatter for title/subtitle:
@@ -29,13 +28,16 @@ BLOG POST WORKFLOW (NOTEBOOK -> MARKDOWN -> HTML)
 - Open HTML in browser.
 - Check: images load, tables render, equations display, no warnings.
 
-5) Update RSS feed
+5) Update HTML index
+- Add new post to main index listing
+
+6) Update RSS feed
 - Add a new <item> block to blog/feed.xml with:
   <title>, <link>, <pubDate> (RFC 822 format), <guid>, and <description> (excerpt)
 - Update <lastBuildDate> in the <channel> to today's date.
 - Use real page URLs only in RSS (no fragment links like #blog in <channel><link> or <item><link>). 
 - Feed readers will auto-discover via the <link rel="alternate"> in the template.
 
-6) Update sitemap
+7) Update sitemap
 - Add the new post URL to /sitemap.xml.
 - Update that URL's <lastmod> timestamp.
