@@ -1,0 +1,1008 @@
+year,poll,rank,team
+2014,post,1,Ohio State
+2014,post,2,Oregon
+2014,post,3,TCU
+2014,post,4,Alabama
+2014,post,5,Florida State
+2014,post,5,Michigan State
+2014,post,7,Baylor
+2014,post,8,Georgia Tech
+2014,post,9,Georgia
+2014,post,10,UCLA
+2014,post,11,Mississippi State
+2014,post,12,Arizona State
+2014,post,13,Wisconsin
+2014,post,14,Missouri
+2014,post,15,Clemson
+2014,post,16,Boise State
+2014,post,17,Ole Miss
+2014,post,18,Kansas State
+2014,post,19,Arizona
+2014,post,20,USC
+2014,post,21,Utah
+2014,post,22,Auburn
+2014,post,23,Marshall
+2014,post,24,Louisville
+2014,post,25,Memphis
+2014,post,26,Notre Dame
+2014,post,27,Stanford
+2014,post,28,Nebraska
+2014,post,29,Air Force
+2014,post,30,Duke
+2014,post,31,LSU
+2014,post,32,Utah State
+2014,post,33,Arkansas
+2014,post,34,Minnesota
+2014,post,35,Oklahoma
+2014,post,35,Texas A&M
+2014,post,37,Northern Illinois
+2014,post,38,Colorado State
+2014,pre,1,Florida State
+2014,pre,2,Alabama
+2014,pre,3,Oregon
+2014,pre,4,Oklahoma
+2014,pre,5,Ohio State
+2014,pre,6,Auburn
+2014,pre,7,UCLA
+2014,pre,8,Michigan State
+2014,pre,9,South Carolina
+2014,pre,10,Baylor
+2014,pre,11,Stanford
+2014,pre,12,Georgia
+2014,pre,13,LSU
+2014,pre,14,Wisconsin
+2014,pre,15,USC
+2014,pre,16,Clemson
+2014,pre,17,Notre Dame
+2014,pre,18,Ole Miss
+2014,pre,19,Arizona State
+2014,pre,20,Kansas State
+2014,pre,21,Texas A&M
+2014,pre,22,Nebraska
+2014,pre,23,North Carolina
+2014,pre,24,Missouri
+2014,pre,25,Washington
+2014,pre,26,UCF
+2014,pre,27,Florida
+2014,pre,28,Texas
+2014,pre,29,Duke
+2014,pre,30,Iowa
+2014,pre,31,Louisville
+2014,pre,32,Marshall
+2014,pre,33,Oklahoma State
+2014,pre,34,Virginia Tech
+2014,pre,35,TCU
+2014,pre,36,Mississippi State
+2014,pre,37,Michigan
+2014,pre,37,Texas Tech
+2014,pre,39,Miami
+2014,pre,40,Cincinnati
+2014,pre,41,Boise State
+2014,pre,41,Oregon State
+2014,pre,43,BYU
+2014,pre,43,Northwestern
+2014,pre,45,Penn State
+2014,pre,46,Navy
+2014,pre,46,Vanderbilt
+2014,pre,48,Louisiana
+2014,pre,48,Nevada
+2014,pre,48,Utah State
+2015,post,1,Alabama
+2015,post,2,Clemson
+2015,post,3,Stanford
+2015,post,4,Ohio State
+2015,post,5,Oklahoma
+2015,post,6,Michigan State
+2015,post,7,TCU
+2015,post,8,Houston
+2015,post,9,Iowa
+2015,post,10,Ole Miss
+2015,post,11,Notre Dame
+2015,post,12,Michigan
+2015,post,13,Baylor
+2015,post,14,Florida State
+2015,post,15,North Carolina
+2015,post,16,LSU
+2015,post,17,Utah
+2015,post,18,Navy
+2015,post,19,Oregon
+2015,post,20,Oklahoma State
+2015,post,21,Wisconsin
+2015,post,22,Tennessee
+2015,post,23,Northwestern
+2015,post,24,Western Kentucky
+2015,post,25,Florida
+2015,post,26,Georgia
+2015,post,27,Washington State
+2015,post,28,Mississippi State
+2015,post,29,San Diego State
+2015,post,30,Arkansas
+2015,post,30,Toledo
+2015,post,32,USC
+2015,post,33,Appalachian State
+2015,post,34,Boise State
+2015,post,35,Duke
+2015,post,36,Temple
+2015,post,37,BYU
+2015,pre,1,Ohio State
+2015,pre,2,TCU
+2015,pre,3,Alabama
+2015,pre,4,Baylor
+2015,pre,5,Michigan State
+2015,pre,6,Auburn
+2015,pre,7,Oregon
+2015,pre,8,USC
+2015,pre,9,Georgia
+2015,pre,10,Florida State
+2015,pre,11,Notre Dame
+2015,pre,12,Clemson
+2015,pre,13,UCLA
+2015,pre,14,LSU
+2015,pre,15,Arizona State
+2015,pre,16,Georgia Tech
+2015,pre,17,Ole Miss
+2015,pre,18,Arkansas
+2015,pre,19,Oklahoma
+2015,pre,20,Wisconsin
+2015,pre,21,Stanford
+2015,pre,22,Arizona
+2015,pre,23,Boise State
+2015,pre,24,Missouri
+2015,pre,25,Tennessee
+2015,pre,26,Mississippi State
+2015,pre,27,Texas A&M
+2015,pre,28,Oklahoma State
+2015,pre,29,Virginia Tech
+2015,pre,30,Utah
+2015,pre,31,Penn State
+2015,pre,32,Louisville
+2015,pre,33,Cincinnati
+2015,pre,34,Nebraska
+2015,pre,35,Kansas State
+2015,pre,36,Florida
+2015,pre,36,NC State
+2015,pre,38,Texas
+2015,pre,39,BYU
+2015,pre,39,Michigan
+2015,pre,39,Northern Illinois
+2015,pre,42,California
+2015,pre,42,West Virginia
+2015,pre,42,Western Kentucky
+2016,post,1,Clemson
+2016,post,2,Alabama
+2016,post,3,USC
+2016,post,4,Washington
+2016,post,5,Oklahoma
+2016,post,6,Ohio State
+2016,post,7,Penn State
+2016,post,8,Florida State
+2016,post,9,Wisconsin
+2016,post,10,Michigan
+2016,post,11,Oklahoma State
+2016,post,12,Stanford
+2016,post,13,LSU
+2016,post,14,Florida
+2016,post,15,Western Michigan
+2016,post,16,Virginia Tech
+2016,post,17,Colorado
+2016,post,18,West Virginia
+2016,post,19,South Florida
+2016,post,20,Miami
+2016,post,21,Louisville
+2016,post,22,Tennessee
+2016,post,23,Utah
+2016,post,24,Auburn
+2016,post,25,San Diego State
+2016,post,26,Kansas State
+2016,post,27,Georgia Tech
+2016,post,28,Nebraska
+2016,post,29,Western Kentucky
+2016,post,30,Air Force
+2016,post,31,Pittsburgh
+2016,post,32,Boise State
+2016,post,33,Iowa
+2016,post,34,Minnesota
+2016,post,35,Tulsa
+2016,post,36,BYU
+2016,post,37,Houston
+2016,post,37,North Carolina
+2016,post,37,Temple
+2016,post,40,Navy
+2016,post,40,Washington State
+2016,pre,1,Alabama
+2016,pre,2,Clemson
+2016,pre,3,Oklahoma
+2016,pre,4,Florida State
+2016,pre,5,LSU
+2016,pre,6,Ohio State
+2016,pre,7,Michigan
+2016,pre,8,Stanford
+2016,pre,9,Tennessee
+2016,pre,10,Notre Dame
+2016,pre,11,Ole Miss
+2016,pre,12,Michigan State
+2016,pre,13,TCU
+2016,pre,14,Washington
+2016,pre,15,Houston
+2016,pre,16,UCLA
+2016,pre,17,Iowa
+2016,pre,18,Georgia
+2016,pre,19,Louisville
+2016,pre,20,USC
+2016,pre,21,Oklahoma State
+2016,pre,22,North Carolina
+2016,pre,23,Baylor
+2016,pre,24,Oregon
+2016,pre,25,Florida
+2016,pre,26,Miami
+2016,pre,27,Texas A&M
+2016,pre,28,Utah
+2016,pre,29,Washington State
+2016,pre,30,Boise State
+2016,pre,31,San Diego State
+2016,pre,32,Wisconsin
+2016,pre,33,Auburn
+2016,pre,34,Pittsburgh
+2016,pre,35,Arkansas
+2016,pre,36,Texas
+2016,pre,37,Nebraska
+2016,pre,38,Navy
+2016,pre,39,Northwestern
+2016,pre,40,Western Kentucky
+2016,pre,41,South Florida
+2016,pre,41,Toledo
+2017,post,1,Alabama
+2017,post,2,Georgia
+2017,post,3,Oklahoma
+2017,post,4,Clemson
+2017,post,5,Ohio State
+2017,post,6,UCF
+2017,post,7,Wisconsin
+2017,post,8,Penn State
+2017,post,9,TCU
+2017,post,10,Auburn
+2017,post,11,Notre Dame
+2017,post,12,USC
+2017,post,13,Miami
+2017,post,14,Oklahoma State
+2017,post,15,Michigan State
+2017,post,16,Washington
+2017,post,17,Northwestern
+2017,post,18,LSU
+2017,post,19,Mississippi State
+2017,post,20,Stanford
+2017,post,21,South Florida
+2017,post,22,Boise State
+2017,post,23,NC State
+2017,post,24,Virginia Tech
+2017,post,25,Memphis
+2017,post,26,Washington State
+2017,post,27,South Carolina
+2017,post,28,Iowa State
+2017,post,29,Army
+2017,post,30,Florida Atlantic
+2017,post,31,Troy
+2017,post,32,Fresno State
+2017,post,33,San Diego State
+2017,post,34,Iowa
+2017,pre,1,Alabama
+2017,pre,2,Ohio State
+2017,pre,3,Florida State
+2017,pre,4,USC
+2017,pre,5,Clemson
+2017,pre,6,Penn State
+2017,pre,7,Oklahoma
+2017,pre,8,Washington
+2017,pre,9,Wisconsin
+2017,pre,10,Oklahoma State
+2017,pre,11,Michigan
+2017,pre,12,Auburn
+2017,pre,13,LSU
+2017,pre,14,Stanford
+2017,pre,15,Georgia
+2017,pre,16,Louisville
+2017,pre,17,Florida
+2017,pre,18,Miami
+2017,pre,19,South Florida
+2017,pre,20,Kansas State
+2017,pre,21,Virginia Tech
+2017,pre,22,West Virginia
+2017,pre,23,Texas
+2017,pre,24,Washington State
+2017,pre,25,Tennessee
+2017,pre,26,TCU
+2017,pre,27,Utah
+2017,pre,28,Notre Dame
+2017,pre,29,Boise State
+2017,pre,30,NC State
+2017,pre,31,Northwestern
+2017,pre,32,Pittsburgh
+2017,pre,33,Oregon
+2017,pre,34,Houston
+2017,pre,35,Colorado
+2017,pre,36,San Diego State
+2017,pre,36,UCLA
+2017,pre,38,BYU
+2017,pre,39,Appalachian State
+2017,pre,39,Nebraska
+2017,pre,39,Tulsa
+2017,pre,42,Kentucky
+2017,pre,42,Texas A&M
+2017,pre,44,Michigan State
+2018,post,1,Clemson
+2018,post,2,Alabama
+2018,post,3,Ohio State
+2018,post,4,Oklahoma
+2018,post,5,Notre Dame
+2018,post,6,LSU
+2018,post,7,Florida
+2018,post,7,Georgia
+2018,post,9,Texas
+2018,post,10,Washington State
+2018,post,11,UCF
+2018,post,12,Kentucky
+2018,post,13,Washington
+2018,post,14,Michigan
+2018,post,15,Syracuse
+2018,post,16,Texas A&M
+2018,post,17,Penn State
+2018,post,18,Fresno State
+2018,post,19,Army
+2018,post,20,West Virginia
+2018,post,21,Northwestern
+2018,post,22,Utah State
+2018,post,23,Boise State
+2018,post,24,Cincinnati
+2018,post,25,Iowa
+2018,post,26,Appalachian State
+2018,post,27,Stanford
+2018,post,28,Mississippi State
+2018,post,29,Utah
+2018,post,30,UAB
+2018,post,31,Iowa State
+2018,post,32,Auburn
+2018,post,33,Oregon
+2018,post,34,Missouri
+2018,post,35,Georgia Southern
+2018,post,35,Troy
+2018,post,37,Oklahoma State
+2018,post,38,NC State
+2018,post,38,Wisconsin
+2018,pre,1,Alabama
+2018,pre,2,Clemson
+2018,pre,3,Georgia
+2018,pre,4,Wisconsin
+2018,pre,5,Ohio State
+2018,pre,6,Washington
+2018,pre,7,Oklahoma
+2018,pre,8,Miami
+2018,pre,9,Auburn
+2018,pre,10,Penn State
+2018,pre,11,Michigan State
+2018,pre,12,Notre Dame
+2018,pre,13,Stanford
+2018,pre,14,Michigan
+2018,pre,15,USC
+2018,pre,16,TCU
+2018,pre,17,West Virginia
+2018,pre,18,Mississippi State
+2018,pre,19,Florida State
+2018,pre,20,Virginia Tech
+2018,pre,21,UCF
+2018,pre,22,Boise State
+2018,pre,23,Texas
+2018,pre,24,Oregon
+2018,pre,25,LSU
+2018,pre,26,South Carolina
+2018,pre,27,Florida
+2018,pre,28,Utah
+2018,pre,29,Oklahoma State
+2018,pre,30,Florida Atlantic
+2018,pre,31,Arizona
+2018,pre,32,NC State
+2018,pre,33,Texas A&M
+2018,pre,34,Boston College
+2018,pre,35,Northwestern
+2018,pre,36,Kansas State
+2018,pre,37,Iowa State
+2018,pre,38,Houston
+2018,pre,39,Memphis
+2018,pre,40,Iowa
+2018,pre,40,Troy
+2018,pre,42,Arkansas State
+2018,pre,42,Fresno State
+2018,pre,42,Kentucky
+2019,post,1,LSU
+2019,post,2,Clemson
+2019,post,3,Ohio State
+2019,post,4,Georgia
+2019,post,5,Oregon
+2019,post,6,Florida
+2019,post,7,Oklahoma
+2019,post,8,Alabama
+2019,post,9,Penn State
+2019,post,10,Minnesota
+2019,post,11,Wisconsin
+2019,post,12,Notre Dame
+2019,post,13,Baylor
+2019,post,14,Auburn
+2019,post,15,Iowa
+2019,post,16,Utah
+2019,post,17,Memphis
+2019,post,18,Michigan
+2019,post,19,Appalachian State
+2019,post,20,Navy
+2019,post,21,Cincinnati
+2019,post,22,Air Force
+2019,post,23,Boise State
+2019,post,24,UCF
+2019,post,25,Texas
+2019,post,26,Texas A&M
+2019,post,27,Florida Atlantic
+2019,post,28,Washington
+2019,post,29,Virginia
+2019,post,30,USC
+2019,post,31,San Diego State
+2019,post,32,Arizona State
+2019,post,33,SMU
+2019,post,34,Tennessee
+2019,post,35,California
+2019,post,36,Kansas State
+2019,post,36,Kentucky
+2019,post,36,Louisiana
+2019,post,36,Louisiana Tech
+2019,post,36,North Dakota State
+2019,pre,1,Clemson
+2019,pre,2,Alabama
+2019,pre,3,Georgia
+2019,pre,4,Oklahoma
+2019,pre,5,Ohio State
+2019,pre,6,LSU
+2019,pre,7,Michigan
+2019,pre,8,Florida
+2019,pre,9,Notre Dame
+2019,pre,10,Texas
+2019,pre,11,Oregon
+2019,pre,12,Texas A&M
+2019,pre,13,Washington
+2019,pre,14,Utah
+2019,pre,15,Penn State
+2019,pre,16,Auburn
+2019,pre,17,UCF
+2019,pre,18,Michigan State
+2019,pre,19,Wisconsin
+2019,pre,20,Iowa
+2019,pre,21,Iowa State
+2019,pre,22,Syracuse
+2019,pre,23,Washington State
+2019,pre,24,Nebraska
+2019,pre,25,Stanford
+2019,pre,26,Missouri
+2019,pre,27,Army
+2019,pre,28,Mississippi State
+2019,pre,29,Miami
+2019,pre,30,Northwestern
+2019,pre,31,TCU
+2019,pre,32,Virginia
+2019,pre,33,Boise State
+2019,pre,34,Cincinnati
+2019,pre,35,South Carolina
+2019,pre,36,Virginia Tech
+2019,pre,37,Fresno State
+2019,pre,37,Utah State
+2019,pre,39,Minnesota
+2019,pre,40,Memphis
+2019,pre,41,Appalachian State
+2019,pre,42,Arizona State
+2019,pre,42,Oklahoma State
+2019,pre,42,UAB
+2019,pre,42,West Virginia
+2019,pre,46,Arizona
+2019,pre,46,USC
+2020,post,1,Alabama
+2020,post,2,Ohio State
+2020,post,3,Clemson
+2020,post,4,Texas A&M
+2020,post,5,Notre Dame
+2020,post,6,Oklahoma
+2020,post,7,Georgia
+2020,post,8,Cincinnati
+2020,post,9,Iowa State
+2020,post,10,Northwestern
+2020,post,11,BYU
+2020,post,12,Indiana
+2020,post,13,Florida
+2020,post,14,Coastal Carolina
+2020,post,15,Louisiana
+2020,post,16,Iowa
+2020,post,17,Liberty
+2020,post,18,North Carolina
+2020,post,19,Texas
+2020,post,20,Oklahoma State
+2020,post,21,USC
+2020,post,22,Miami
+2020,post,23,Ball State
+2020,post,24,San Jose State
+2020,post,25,Buffalo
+2020,post,26,Appalachian State
+2020,post,27,Tulsa
+2020,post,28,Army
+2020,post,29,Oregon
+2020,post,30,Memphis
+2020,post,30,TCU
+2020,post,32,UAB
+2020,post,32,Washington
+2020,post,34,NC State
+2020,post,34,Nevada
+2020,post,36,Wisconsin
+2020,post,37,Marshall
+2020,post,37,West Virginia
+2020,pre,1,Clemson
+2020,pre,2,Ohio State
+2020,pre,3,Alabama
+2020,pre,4,Georgia
+2020,pre,5,Oklahoma
+2020,pre,6,LSU
+2020,pre,7,Penn State
+2020,pre,8,Florida
+2020,pre,9,Oregon
+2020,pre,10,Notre Dame
+2020,pre,11,Auburn
+2020,pre,12,Wisconsin
+2020,pre,13,Texas A&M
+2020,pre,14,Texas
+2020,pre,15,Oklahoma State
+2020,pre,16,Michigan
+2020,pre,17,USC
+2020,pre,18,North Carolina
+2020,pre,19,Minnesota
+2020,pre,20,Cincinnati
+2020,pre,21,UCF
+2020,pre,22,Utah
+2020,pre,23,Iowa State
+2020,pre,24,Iowa
+2020,pre,25,Tennessee
+2020,pre,26,Memphis
+2020,pre,27,Virginia Tech
+2020,pre,28,Boise State
+2020,pre,29,Arizona State
+2020,pre,30,Miami
+2020,pre,31,Louisville
+2020,pre,32,Appalachian State
+2020,pre,33,Washington
+2020,pre,34,Kentucky
+2020,pre,35,Indiana
+2020,pre,36,Baylor
+2020,pre,37,California
+2020,pre,38,TCU
+2020,pre,39,Virginia
+2020,pre,40,Florida State
+2020,pre,40,Navy
+2020,pre,42,Air Force
+2020,pre,42,Mississippi State
+2020,pre,42,SMU
+2020,pre,45,Northwestern
+2020,pre,45,UAB
+2021,post,1,Georgia
+2021,post,2,Alabama
+2021,post,3,Michigan
+2021,post,4,Cincinnati
+2021,post,5,Baylor
+2021,post,6,Ohio State
+2021,post,7,Oklahoma State
+2021,post,8,Notre Dame
+2021,post,9,Michigan State
+2021,post,10,Oklahoma
+2021,post,11,Ole Miss
+2021,post,12,Utah
+2021,post,13,Pittsburgh
+2021,post,14,Clemson
+2021,post,15,Wake Forest
+2021,post,16,Louisiana
+2021,post,17,Houston
+2021,post,18,Kentucky
+2021,post,19,BYU
+2021,post,20,NC State
+2021,post,21,Arkansas
+2021,post,22,Oregon
+2021,post,23,Iowa
+2021,post,24,Utah State
+2021,post,25,San Diego State
+2021,post,26,Texas A&M
+2021,post,27,Wisconsin
+2021,post,28,Minnesota
+2021,post,29,Purdue
+2021,post,30,UTSA
+2021,post,31,Army
+2021,post,32,Coastal Carolina
+2021,post,32,Fresno State
+2021,post,34,Air Force
+2021,post,34,UAB
+2021,pre,1,Alabama
+2021,pre,2,Oklahoma
+2021,pre,3,Clemson
+2021,pre,4,Ohio State
+2021,pre,5,Georgia
+2021,pre,6,Texas A&M
+2021,pre,7,Iowa State
+2021,pre,8,Cincinnati
+2021,pre,9,Notre Dame
+2021,pre,10,North Carolina
+2021,pre,11,Oregon
+2021,pre,12,Wisconsin
+2021,pre,13,Florida
+2021,pre,14,Miami
+2021,pre,15,USC
+2021,pre,16,LSU
+2021,pre,17,Indiana
+2021,pre,18,Iowa
+2021,pre,19,Penn State
+2021,pre,20,Washington
+2021,pre,21,Texas
+2021,pre,22,Coastal Carolina
+2021,pre,23,Louisiana
+2021,pre,24,Utah
+2021,pre,25,Arizona State
+2021,pre,26,Oklahoma State
+2021,pre,27,Ole Miss
+2021,pre,28,TCU
+2021,pre,29,Liberty
+2021,pre,30,Auburn
+2021,pre,31,NC State
+2021,pre,32,Michigan
+2021,pre,33,Northwestern
+2021,pre,34,Boise State
+2021,pre,34,Nevada
+2021,pre,36,BYU
+2021,pre,36,Ball State
+2021,pre,38,Boston College
+2021,pre,38,Houston
+2021,pre,38,UCF
+2021,pre,41,West Virginia
+2021,pre,42,Army
+2021,pre,42,UAB
+2021,pre,42,UCLA
+2022,post,1,Georgia
+2022,post,2,TCU
+2022,post,3,Michigan
+2022,post,4,Ohio State
+2022,post,5,Alabama
+2022,post,6,Tennessee
+2022,post,7,Penn State
+2022,post,8,Washington
+2022,post,9,Tulane
+2022,post,10,Utah
+2022,post,11,Florida State
+2022,post,12,USC
+2022,post,13,Clemson
+2022,post,14,Kansas State
+2022,post,15,Oregon
+2022,post,16,LSU
+2022,post,17,Oregon State
+2022,post,18,Notre Dame
+2022,post,19,Troy
+2022,post,20,Mississippi State
+2022,post,21,UCLA
+2022,post,22,Pittsburgh
+2022,post,23,South Carolina
+2022,post,24,Fresno State
+2022,post,25,Texas
+2022,post,26,Duke
+2022,post,27,UTSA
+2022,post,28,Air Force
+2022,post,29,Boise State
+2022,post,30,Minnesota
+2022,post,31,Texas Tech
+2022,post,32,North Carolina
+2022,post,33,NC State
+2022,post,34,Iowa
+2022,post,35,Louisville
+2022,post,35,Purdue
+2022,post,37,Marshall
+2022,post,37,Maryland
+2022,post,39,Cincinnati
+2022,post,39,Illinois
+2022,pre,1,Alabama
+2022,pre,2,Ohio State
+2022,pre,3,Georgia
+2022,pre,4,Clemson
+2022,pre,5,Notre Dame
+2022,pre,6,Texas A&M
+2022,pre,7,Utah
+2022,pre,8,Michigan
+2022,pre,9,Oklahoma
+2022,pre,10,Baylor
+2022,pre,11,Oregon
+2022,pre,12,Oklahoma State
+2022,pre,13,NC State
+2022,pre,14,USC
+2022,pre,15,Michigan State
+2022,pre,16,Miami
+2022,pre,17,Pittsburgh
+2022,pre,18,Wisconsin
+2022,pre,19,Arkansas
+2022,pre,20,Kentucky
+2022,pre,21,Ole Miss
+2022,pre,22,Wake Forest
+2022,pre,23,Cincinnati
+2022,pre,24,Houston
+2022,pre,25,BYU
+2022,pre,26,Tennessee
+2022,pre,27,Texas
+2022,pre,28,Iowa
+2022,pre,29,Penn State
+2022,pre,30,LSU
+2022,pre,31,Fresno State
+2022,pre,32,Minnesota
+2022,pre,33,UCF
+2022,pre,34,Purdue
+2022,pre,35,Auburn
+2022,pre,35,Mississippi State
+2022,pre,37,Florida
+2022,pre,37,Kansas State
+2022,pre,39,North Carolina
+2022,pre,40,Boise State
+2022,pre,41,Air Force
+2022,pre,41,Appalachian State
+2022,pre,43,San Diego State
+2022,pre,43,South Carolina
+2022,pre,43,UCLA
+2022,pre,43,Utah State
+2022,pre,47,Nebraska
+2023,post,1,Michigan
+2023,post,2,Washington
+2023,post,3,Texas
+2023,post,4,Georgia
+2023,post,5,Alabama
+2023,post,6,Florida State
+2023,post,6,Oregon
+2023,post,8,Missouri
+2023,post,9,Ole Miss
+2023,post,10,Ohio State
+2023,post,11,Arizona
+2023,post,12,LSU
+2023,post,13,Penn State
+2023,post,14,Notre Dame
+2023,post,15,Oklahoma
+2023,post,16,Oklahoma State
+2023,post,17,Tennessee
+2023,post,18,Kansas State
+2023,post,19,Louisville
+2023,post,20,Clemson
+2023,post,21,NC State
+2023,post,22,SMU
+2023,post,23,Kansas
+2023,post,24,Iowa
+2023,post,25,Liberty
+2023,post,26,Oregon State
+2023,post,27,West Virginia
+2023,post,28,Tulane
+2023,post,29,James Madison
+2023,post,30,USC
+2023,post,31,Memphis
+2023,post,32,Utah
+2023,post,33,Troy
+2023,post,34,Air Force
+2023,post,35,Toledo
+2023,post,36,Duke
+2023,post,37,Kentucky
+2023,post,37,Miami (OH)
+2023,post,37,UCLA
+2023,post,40,UTSA
+2023,post,41,Northwestern
+2023,post,41,Wyoming
+2023,post,43,Ohio
+2023,pre,1,Georgia
+2023,pre,2,Michigan
+2023,pre,3,Ohio State
+2023,pre,4,Alabama
+2023,pre,5,LSU
+2023,pre,6,USC
+2023,pre,7,Penn State
+2023,pre,8,Florida State
+2023,pre,9,Clemson
+2023,pre,10,Washington
+2023,pre,11,Texas
+2023,pre,12,Tennessee
+2023,pre,13,Notre Dame
+2023,pre,14,Utah
+2023,pre,15,Oregon
+2023,pre,16,Kansas State
+2023,pre,17,TCU
+2023,pre,18,Oregon State
+2023,pre,19,Wisconsin
+2023,pre,20,Oklahoma
+2023,pre,21,North Carolina
+2023,pre,22,Ole Miss
+2023,pre,23,Texas A&M
+2023,pre,24,Tulane
+2023,pre,25,Iowa
+2023,pre,26,Texas Tech
+2023,pre,27,South Carolina
+2023,pre,28,UCLA
+2023,pre,29,UTSA
+2023,pre,30,Arkansas
+2023,pre,31,Boise State
+2023,pre,32,Pittsburgh
+2023,pre,33,Kentucky
+2023,pre,34,Kansas
+2023,pre,34,Louisville
+2023,pre,34,Troy
+2023,pre,37,Auburn
+2023,pre,38,Minnesota
+2023,pre,39,Duke
+2023,pre,39,Florida
+2023,pre,39,Mississippi State
+2023,pre,39,Toledo
+2023,pre,43,Baylor
+2023,pre,43,Coastal Carolina
+2023,pre,43,Illinois
+2023,pre,46,James Madison
+2023,pre,46,Liberty
+2023,pre,46,NC State
+2023,pre,46,South Alabama
+2024,post,1,Ohio State
+2024,post,2,Notre Dame
+2024,post,3,Oregon
+2024,post,4,Texas
+2024,post,5,Penn State
+2024,post,6,Georgia
+2024,post,7,Arizona State
+2024,post,8,Boise State
+2024,post,9,Tennessee
+2024,post,10,Indiana
+2024,post,11,Ole Miss
+2024,post,12,SMU
+2024,post,13,BYU
+2024,post,14,Clemson
+2024,post,15,Iowa State
+2024,post,16,Illinois
+2024,post,17,Alabama
+2024,post,18,Miami
+2024,post,19,South Carolina
+2024,post,20,Syracuse
+2024,post,21,Army
+2024,post,22,Missouri
+2024,post,23,UNLV
+2024,post,24,Memphis
+2024,post,25,Colorado
+2024,post,26,Navy
+2024,post,27,LSU
+2024,post,28,Louisville
+2024,post,29,Michigan
+2024,post,30,Kansas State
+2024,post,31,Marshall
+2024,post,31,Ohio
+2024,post,33,Florida
+2024,post,34,TCU
+2024,post,35,Texas A&M
+2024,pre,1,Georgia
+2024,pre,2,Ohio State
+2024,pre,3,Oregon
+2024,pre,4,Texas
+2024,pre,5,Alabama
+2024,pre,6,Ole Miss
+2024,pre,7,Notre Dame
+2024,pre,8,Penn State
+2024,pre,9,Michigan
+2024,pre,10,Florida State
+2024,pre,11,Missouri
+2024,pre,12,Utah
+2024,pre,13,LSU
+2024,pre,14,Clemson
+2024,pre,15,Tennessee
+2024,pre,16,Oklahoma
+2024,pre,17,Oklahoma State
+2024,pre,18,Kansas State
+2024,pre,19,Miami
+2024,pre,20,Texas A&M
+2024,pre,21,Arizona
+2024,pre,22,Kansas
+2024,pre,23,USC
+2024,pre,24,NC State
+2024,pre,25,Iowa
+2024,pre,26,Louisville
+2024,pre,27,Virginia Tech
+2024,pre,28,Boise State
+2024,pre,29,Iowa State
+2024,pre,29,SMU
+2024,pre,31,Liberty
+2024,pre,32,Washington
+2024,pre,33,West Virginia
+2024,pre,34,Memphis
+2024,pre,34,Nebraska
+2024,pre,36,Wisconsin
+2024,pre,37,UTSA
+2024,pre,38,Tulane
+2024,pre,39,Appalachian State
+2024,pre,40,Kentucky
+2024,pre,41,Auburn
+2024,pre,42,Colorado
+2025,post,1,Indiana
+2025,post,2,Miami
+2025,post,3,Ole Miss
+2025,post,4,Oregon
+2025,post,5,Ohio State
+2025,post,6,Georgia
+2025,post,7,Texas Tech
+2025,post,8,Texas A&M
+2025,post,9,Alabama
+2025,post,10,Notre Dame
+2025,post,11,BYU
+2025,post,12,Texas
+2025,post,13,Oklahoma
+2025,post,14,Utah
+2025,post,15,Vanderbilt
+2025,post,16,Virginia
+2025,post,17,Iowa
+2025,post,18,Tulane
+2025,post,19,James Madison
+2025,post,20,USC
+2025,post,21,Michigan
+2025,post,22,Houston
+2025,post,23,Navy
+2025,post,24,North Texas
+2025,post,25,TCU
+2025,post,26,Illinois
+2025,post,27,Washington
+2025,post,28,SMU
+2025,post,29,Duke
+2025,post,30,Arizona
+2025,post,31,Georgia Tech
+2025,post,32,Tennessee
+2025,post,33,Missouri
+2025,post,34,Louisville
+2025,post,35,Old Dominion
+2025,post,36,Wake Forest
+2025,post,36,Western Michigan
+2025,post,38,Boise State
+2025,post,38,Hawai'i
+2025,pre,1,Texas
+2025,pre,2,Penn State
+2025,pre,3,Ohio State
+2025,pre,4,Clemson
+2025,pre,5,Georgia
+2025,pre,6,Notre Dame
+2025,pre,7,Oregon
+2025,pre,8,Alabama
+2025,pre,9,LSU
+2025,pre,10,Miami
+2025,pre,11,Arizona State
+2025,pre,12,Illinois
+2025,pre,13,South Carolina
+2025,pre,14,Michigan
+2025,pre,15,Florida
+2025,pre,16,SMU
+2025,pre,17,Kansas State
+2025,pre,18,Oklahoma
+2025,pre,19,Texas A&M
+2025,pre,20,Indiana
+2025,pre,21,Ole Miss
+2025,pre,22,Iowa State
+2025,pre,23,Texas Tech
+2025,pre,24,Tennessee
+2025,pre,25,Boise State
+2025,pre,26,BYU
+2025,pre,27,Utah
+2025,pre,28,Baylor
+2025,pre,29,Louisville
+2025,pre,30,USC
+2025,pre,31,Georgia Tech
+2025,pre,32,Missouri
+2025,pre,33,Nebraska
+2025,pre,33,Tulane
+2025,pre,35,UNLV
+2025,pre,36,Toledo
+2025,pre,37,Auburn
+2025,pre,38,James Madison
+2025,pre,38,Memphis
+2025,pre,40,Florida State
+2025,pre,41,Duke
+2025,pre,42,Iowa
+2025,pre,42,Liberty
+2025,pre,42,Navy
+2025,pre,45,TCU
+2025,pre,46,Pittsburgh
+2025,pre,47,Army
+2025,pre,48,Colorado
+2025,pre,48,Louisiana
