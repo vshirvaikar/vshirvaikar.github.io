@@ -1,6 +1,7 @@
+assets/archive
+
 blog/**/raw_*
 blog/**/process_data.ipynb
-blog/**/*.md
 blog/**/model
 
 blog/2026.06 Expected Shots
