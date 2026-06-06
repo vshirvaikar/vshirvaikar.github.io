@@ -1,0 +1,1824 @@
+match_id,league,team1,team2
+3890259,1. Bundesliga,Bayern Munich,Hamburger SV
+3890260,1. Bundesliga,Bayer Leverkusen,Hoffenheim
+3890261,1. Bundesliga,Borussia Dortmund,Borussia Mönchengladbach
+3890262,1. Bundesliga,Darmstadt 98,Hannover 96
+3890263,1. Bundesliga,FSV Mainz 05,Ingolstadt
+3890264,1. Bundesliga,Werder Bremen,Schalke 04
+3890265,1. Bundesliga,Augsburg,Hertha Berlin
+3890266,1. Bundesliga,VfB Stuttgart,FC Köln
+3890267,1. Bundesliga,Wolfsburg,Eintracht Frankfurt
+3890268,1. Bundesliga,Hertha Berlin,Werder Bremen
+3890269,1. Bundesliga,Hamburger SV,VfB Stuttgart
+3890270,1. Bundesliga,Hoffenheim,Bayern Munich
+3890271,1. Bundesliga,Schalke 04,Darmstadt 98
+3890272,1. Bundesliga,Eintracht Frankfurt,Augsburg
+3890273,1. Bundesliga,Hannover 96,Bayer Leverkusen
+3890274,1. Bundesliga,FC Köln,Wolfsburg
+3890275,1. Bundesliga,Ingolstadt,Borussia Dortmund
+3890276,1. Bundesliga,Borussia Mönchengladbach,FSV Mainz 05
+3890277,1. Bundesliga,Wolfsburg,Schalke 04
+3890278,1. Bundesliga,Bayern Munich,Bayer Leverkusen
+3890279,1. Bundesliga,VfB Stuttgart,Eintracht Frankfurt
+3890280,1. Bundesliga,FC Köln,Hamburger SV
+3890281,1. Bundesliga,Augsburg,Ingolstadt
+3890282,1. Bundesliga,FSV Mainz 05,Hannover 96
+3890283,1. Bundesliga,Darmstadt 98,Hoffenheim
+3890284,1. Bundesliga,Borussia Dortmund,Hertha Berlin
+3890285,1. Bundesliga,Werder Bremen,Borussia Mönchengladbach
+3890286,1. Bundesliga,Borussia Mönchengladbach,Hamburger SV
+3890287,1. Bundesliga,Bayern Munich,Augsburg
+3890288,1. Bundesliga,Bayer Leverkusen,Darmstadt 98
+3890289,1. Bundesliga,Eintracht Frankfurt,FC Köln
+3890290,1. Bundesliga,Hertha Berlin,VfB Stuttgart
+3890291,1. Bundesliga,Ingolstadt,Wolfsburg
+3890292,1. Bundesliga,Hannover 96,Borussia Dortmund
+3890293,1. Bundesliga,Schalke 04,FSV Mainz 05
+3890294,1. Bundesliga,Hoffenheim,Werder Bremen
+3890295,1. Bundesliga,FSV Mainz 05,Hoffenheim
+3890296,1. Bundesliga,Darmstadt 98,Bayern Munich
+3890297,1. Bundesliga,Hamburger SV,Eintracht Frankfurt
+3890298,1. Bundesliga,Wolfsburg,Hertha Berlin
+3890299,1. Bundesliga,FC Köln,Borussia Mönchengladbach
+3890300,1. Bundesliga,Werder Bremen,Ingolstadt
+3890301,1. Bundesliga,Borussia Dortmund,Bayer Leverkusen
+3890302,1. Bundesliga,Augsburg,Hannover 96
+3890303,1. Bundesliga,VfB Stuttgart,Schalke 04
+3890304,1. Bundesliga,Ingolstadt,Hamburger SV
+3890305,1. Bundesliga,Bayern Munich,Wolfsburg
+3890306,1. Bundesliga,Hertha Berlin,FC Köln
+3890307,1. Bundesliga,Darmstadt 98,Werder Bremen
+3890308,1. Bundesliga,Borussia Mönchengladbach,Augsburg
+3890309,1. Bundesliga,Hannover 96,VfB Stuttgart
+3890310,1. Bundesliga,Hoffenheim,Borussia Dortmund
+3890311,1. Bundesliga,Schalke 04,Eintracht Frankfurt
+3890312,1. Bundesliga,Bayer Leverkusen,FSV Mainz 05
+3890313,1. Bundesliga,FC Köln,Ingolstadt
+3890314,1. Bundesliga,Augsburg,Hoffenheim
+3890315,1. Bundesliga,Werder Bremen,Bayer Leverkusen
+3890316,1. Bundesliga,FSV Mainz 05,Bayern Munich
+3890317,1. Bundesliga,Hamburger SV,Schalke 04
+3890318,1. Bundesliga,VfB Stuttgart,Borussia Mönchengladbach
+3890319,1. Bundesliga,Wolfsburg,Hannover 96
+3890320,1. Bundesliga,Eintracht Frankfurt,Hertha Berlin
+3890321,1. Bundesliga,Borussia Dortmund,Darmstadt 98
+3890322,1. Bundesliga,Darmstadt 98,FSV Mainz 05
+3890323,1. Bundesliga,Borussia Mönchengladbach,Wolfsburg
+3890324,1. Bundesliga,Hertha Berlin,Hamburger SV
+3890325,1. Bundesliga,Hannover 96,Werder Bremen
+3890326,1. Bundesliga,Ingolstadt,Eintracht Frankfurt
+3890327,1. Bundesliga,Hoffenheim,VfB Stuttgart
+3890328,1. Bundesliga,Schalke 04,FC Köln
+3890329,1. Bundesliga,Bayern Munich,Borussia Dortmund
+3890330,1. Bundesliga,Bayer Leverkusen,Augsburg
+3890331,1. Bundesliga,FSV Mainz 05,Borussia Dortmund
+3890332,1. Bundesliga,Werder Bremen,Bayern Munich
+3890333,1. Bundesliga,Augsburg,Darmstadt 98
+3890334,1. Bundesliga,Eintracht Frankfurt,Borussia Mönchengladbach
+3890335,1. Bundesliga,Wolfsburg,Hoffenheim
+3890336,1. Bundesliga,Schalke 04,Hertha Berlin
+3890337,1. Bundesliga,Hamburger SV,Bayer Leverkusen
+3890338,1. Bundesliga,VfB Stuttgart,Ingolstadt
+3890339,1. Bundesliga,FC Köln,Hannover 96
+3890340,1. Bundesliga,Hoffenheim,Hamburger SV
+3890341,1. Bundesliga,Bayern Munich,FC Köln
+3890342,1. Bundesliga,Darmstadt 98,Wolfsburg
+3890343,1. Bundesliga,Ingolstadt,Hertha Berlin
+3890344,1. Bundesliga,FSV Mainz 05,Werder Bremen
+3890345,1. Bundesliga,Hannover 96,Eintracht Frankfurt
+3890346,1. Bundesliga,Bayer Leverkusen,VfB Stuttgart
+3890347,1. Bundesliga,Borussia Dortmund,Augsburg
+3890348,1. Bundesliga,Borussia Mönchengladbach,Schalke 04
+3890349,1. Bundesliga,Eintracht Frankfurt,Bayern Munich
+3890350,1. Bundesliga,Wolfsburg,Bayer Leverkusen
+3890351,1. Bundesliga,Hertha Berlin,Borussia Mönchengladbach
+3890352,1. Bundesliga,FC Köln,Hoffenheim
+3890353,1. Bundesliga,Werder Bremen,Borussia Dortmund
+3890354,1. Bundesliga,Augsburg,FSV Mainz 05
+3890355,1. Bundesliga,Schalke 04,Ingolstadt
+3890356,1. Bundesliga,Hamburger SV,Hannover 96
+3890357,1. Bundesliga,VfB Stuttgart,Darmstadt 98
+3890358,1. Bundesliga,Hannover 96,Hertha Berlin
+3890359,1. Bundesliga,Bayer Leverkusen,FC Köln
+3890360,1. Bundesliga,Darmstadt 98,Hamburger SV
+3890361,1. Bundesliga,FSV Mainz 05,Wolfsburg
+3890362,1. Bundesliga,Hoffenheim,Eintracht Frankfurt
+3890363,1. Bundesliga,Borussia Mönchengladbach,Ingolstadt
+3890364,1. Bundesliga,Bayern Munich,VfB Stuttgart
+3890365,1. Bundesliga,Borussia Dortmund,Schalke 04
+3890366,1. Bundesliga,Augsburg,Werder Bremen
+3890367,1. Bundesliga,Hamburger SV,Borussia Dortmund
+3890368,1. Bundesliga,Wolfsburg,Werder Bremen
+3890369,1. Bundesliga,Schalke 04,Bayern Munich
+3890370,1. Bundesliga,Eintracht Frankfurt,Bayer Leverkusen
+3890371,1. Bundesliga,FC Köln,FSV Mainz 05
+3890372,1. Bundesliga,VfB Stuttgart,Augsburg
+3890373,1. Bundesliga,Borussia Mönchengladbach,Hannover 96
+3890374,1. Bundesliga,Ingolstadt,Darmstadt 98
+3890375,1. Bundesliga,Hertha Berlin,Hoffenheim
+3890376,1. Bundesliga,Darmstadt 98,FC Köln
+3890377,1. Bundesliga,Hoffenheim,Borussia Mönchengladbach
+3890378,1. Bundesliga,Bayern Munich,Hertha Berlin
+3890379,1. Bundesliga,Werder Bremen,Hamburger SV
+3890380,1. Bundesliga,Hannover 96,Ingolstadt
+3890381,1. Bundesliga,FSV Mainz 05,Eintracht Frankfurt
+3890382,1. Bundesliga,Bayer Leverkusen,Schalke 04
+3890383,1. Bundesliga,Augsburg,Wolfsburg
+3890384,1. Bundesliga,Borussia Dortmund,VfB Stuttgart
+3890385,1. Bundesliga,Schalke 04,Hannover 96
+3890386,1. Bundesliga,Hamburger SV,FSV Mainz 05
+3890387,1. Bundesliga,Borussia Mönchengladbach,Bayern Munich
+3890388,1. Bundesliga,Wolfsburg,Borussia Dortmund
+3890389,1. Bundesliga,Ingolstadt,Hoffenheim
+3890390,1. Bundesliga,Hertha Berlin,Bayer Leverkusen
+3890391,1. Bundesliga,FC Köln,Augsburg
+3890392,1. Bundesliga,VfB Stuttgart,Werder Bremen
+3890393,1. Bundesliga,Eintracht Frankfurt,Darmstadt 98
+3890394,1. Bundesliga,FSV Mainz 05,VfB Stuttgart
+3890395,1. Bundesliga,Bayer Leverkusen,Borussia Mönchengladbach
+3890396,1. Bundesliga,Wolfsburg,Hamburger SV
+3890397,1. Bundesliga,Hoffenheim,Hannover 96
+3890398,1. Bundesliga,Darmstadt 98,Hertha Berlin
+3890399,1. Bundesliga,Bayern Munich,Ingolstadt
+3890400,1. Bundesliga,Werder Bremen,FC Köln
+3890401,1. Bundesliga,Borussia Dortmund,Eintracht Frankfurt
+3890402,1. Bundesliga,Augsburg,Schalke 04
+3890403,1. Bundesliga,Schalke 04,Hoffenheim
+3890404,1. Bundesliga,Hamburger SV,Augsburg
+3890405,1. Bundesliga,Eintracht Frankfurt,Werder Bremen
+3890406,1. Bundesliga,FC Köln,Borussia Dortmund
+3890407,1. Bundesliga,Hannover 96,Bayern Munich
+3890408,1. Bundesliga,VfB Stuttgart,Wolfsburg
+3890409,1. Bundesliga,Ingolstadt,Bayer Leverkusen
+3890410,1. Bundesliga,Borussia Mönchengladbach,Darmstadt 98
+3890411,1. Bundesliga,Hertha Berlin,FSV Mainz 05
+3890412,1. Bundesliga,Hamburger SV,Bayern Munich
+3890413,1. Bundesliga,FC Köln,VfB Stuttgart
+3890414,1. Bundesliga,Hertha Berlin,Augsburg
+3890415,1. Bundesliga,Hoffenheim,Bayer Leverkusen
+3890416,1. Bundesliga,Ingolstadt,FSV Mainz 05
+3890417,1. Bundesliga,Borussia Mönchengladbach,Borussia Dortmund
+3890418,1. Bundesliga,Hannover 96,Darmstadt 98
+3890419,1. Bundesliga,Schalke 04,Werder Bremen
+3890420,1. Bundesliga,Eintracht Frankfurt,Wolfsburg
+3890421,1. Bundesliga,FSV Mainz 05,Borussia Mönchengladbach
+3890422,1. Bundesliga,Borussia Dortmund,Ingolstadt
+3890423,1. Bundesliga,VfB Stuttgart,Hamburger SV
+3890424,1. Bundesliga,Darmstadt 98,Schalke 04
+3890425,1. Bundesliga,Werder Bremen,Hertha Berlin
+3890426,1. Bundesliga,Augsburg,Eintracht Frankfurt
+3890427,1. Bundesliga,Bayer Leverkusen,Hannover 96
+3890428,1. Bundesliga,Bayern Munich,Hoffenheim
+3890429,1. Bundesliga,Wolfsburg,FC Köln
+3890430,1. Bundesliga,Borussia Mönchengladbach,Werder Bremen
+3890431,1. Bundesliga,Bayer Leverkusen,Bayern Munich
+3890432,1. Bundesliga,Schalke 04,Wolfsburg
+3890433,1. Bundesliga,Eintracht Frankfurt,VfB Stuttgart
+3890434,1. Bundesliga,Hannover 96,FSV Mainz 05
+3890435,1. Bundesliga,Hertha Berlin,Borussia Dortmund
+3890436,1. Bundesliga,Ingolstadt,Augsburg
+3890437,1. Bundesliga,Hoffenheim,Darmstadt 98
+3890438,1. Bundesliga,Hamburger SV,FC Köln
+3890439,1. Bundesliga,FSV Mainz 05,Schalke 04
+3890440,1. Bundesliga,FC Köln,Eintracht Frankfurt
+3890441,1. Bundesliga,VfB Stuttgart,Hertha Berlin
+3890442,1. Bundesliga,Borussia Dortmund,Hannover 96
+3890443,1. Bundesliga,Werder Bremen,Hoffenheim
+3890444,1. Bundesliga,Darmstadt 98,Bayer Leverkusen
+3890445,1. Bundesliga,Wolfsburg,Ingolstadt
+3890446,1. Bundesliga,Augsburg,Bayern Munich
+3890447,1. Bundesliga,Hamburger SV,Borussia Mönchengladbach
+3890448,1. Bundesliga,Eintracht Frankfurt,Hamburger SV
+3890449,1. Bundesliga,Ingolstadt,Werder Bremen
+3890450,1. Bundesliga,Borussia Mönchengladbach,FC Köln
+3890451,1. Bundesliga,Hertha Berlin,Wolfsburg
+3890452,1. Bundesliga,Hoffenheim,FSV Mainz 05
+3890453,1. Bundesliga,Bayern Munich,Darmstadt 98
+3890454,1. Bundesliga,Hannover 96,Augsburg
+3890455,1. Bundesliga,Schalke 04,VfB Stuttgart
+3890456,1. Bundesliga,Bayer Leverkusen,Borussia Dortmund
+3890457,1. Bundesliga,FC Köln,Hertha Berlin
+3890458,1. Bundesliga,Wolfsburg,Bayern Munich
+3890459,1. Bundesliga,Werder Bremen,Darmstadt 98
+3890460,1. Bundesliga,VfB Stuttgart,Hannover 96
+3890461,1. Bundesliga,Hamburger SV,Ingolstadt
+3890462,1. Bundesliga,Augsburg,Borussia Mönchengladbach
+3890463,1. Bundesliga,FSV Mainz 05,Bayer Leverkusen
+3890464,1. Bundesliga,Borussia Dortmund,Hoffenheim
+3890465,1. Bundesliga,Eintracht Frankfurt,Schalke 04
+3890466,1. Bundesliga,Hannover 96,Wolfsburg
+3890467,1. Bundesliga,Ingolstadt,FC Köln
+3890468,1. Bundesliga,Darmstadt 98,Borussia Dortmund
+3890469,1. Bundesliga,Hoffenheim,Augsburg
+3890470,1. Bundesliga,Hertha Berlin,Eintracht Frankfurt
+3890471,1. Bundesliga,Borussia Mönchengladbach,VfB Stuttgart
+3890472,1. Bundesliga,Bayer Leverkusen,Werder Bremen
+3890473,1. Bundesliga,Schalke 04,Hamburger SV
+3890474,1. Bundesliga,Bayern Munich,FSV Mainz 05
+3890475,1. Bundesliga,Wolfsburg,Borussia Mönchengladbach
+3890476,1. Bundesliga,VfB Stuttgart,Hoffenheim
+3890477,1. Bundesliga,Augsburg,Bayer Leverkusen
+3890478,1. Bundesliga,Werder Bremen,Hannover 96
+3890479,1. Bundesliga,Eintracht Frankfurt,Ingolstadt
+3890480,1. Bundesliga,FC Köln,Schalke 04
+3890481,1. Bundesliga,Borussia Dortmund,Bayern Munich
+3890482,1. Bundesliga,FSV Mainz 05,Darmstadt 98
+3890483,1. Bundesliga,Hamburger SV,Hertha Berlin
+3890484,1. Bundesliga,Hertha Berlin,Schalke 04
+3890485,1. Bundesliga,Ingolstadt,VfB Stuttgart
+3890486,1. Bundesliga,Hoffenheim,Wolfsburg
+3890487,1. Bundesliga,Darmstadt 98,Augsburg
+3890488,1. Bundesliga,Borussia Mönchengladbach,Eintracht Frankfurt
+3890489,1. Bundesliga,Bayern Munich,Werder Bremen
+3890490,1. Bundesliga,Hannover 96,FC Köln
+3890491,1. Bundesliga,Borussia Dortmund,FSV Mainz 05
+3890492,1. Bundesliga,Bayer Leverkusen,Hamburger SV
+3890493,1. Bundesliga,Schalke 04,Borussia Mönchengladbach
+3890494,1. Bundesliga,Werder Bremen,FSV Mainz 05
+3890495,1. Bundesliga,FC Köln,Bayern Munich
+3890496,1. Bundesliga,Hertha Berlin,Ingolstadt
+3890497,1. Bundesliga,Eintracht Frankfurt,Hannover 96
+3890498,1. Bundesliga,Wolfsburg,Darmstadt 98
+3890499,1. Bundesliga,Hamburger SV,Hoffenheim
+3890500,1. Bundesliga,VfB Stuttgart,Bayer Leverkusen
+3890501,1. Bundesliga,Augsburg,Borussia Dortmund
+3890502,1. Bundesliga,Bayer Leverkusen,Wolfsburg
+3890503,1. Bundesliga,FSV Mainz 05,Augsburg
+3890504,1. Bundesliga,Hannover 96,Hamburger SV
+3890505,1. Bundesliga,Bayern Munich,Eintracht Frankfurt
+3890506,1. Bundesliga,Darmstadt 98,VfB Stuttgart
+3890507,1. Bundesliga,Borussia Dortmund,Werder Bremen
+3890508,1. Bundesliga,Ingolstadt,Schalke 04
+3890509,1. Bundesliga,Hoffenheim,FC Köln
+3890510,1. Bundesliga,Borussia Mönchengladbach,Hertha Berlin
+3890511,1. Bundesliga,Hertha Berlin,Hannover 96
+3890512,1. Bundesliga,Eintracht Frankfurt,Hoffenheim
+3890513,1. Bundesliga,Wolfsburg,FSV Mainz 05
+3890514,1. Bundesliga,Werder Bremen,Augsburg
+3890515,1. Bundesliga,Hamburger SV,Darmstadt 98
+3890516,1. Bundesliga,VfB Stuttgart,Bayern Munich
+3890517,1. Bundesliga,Ingolstadt,Borussia Mönchengladbach
+3890518,1. Bundesliga,Schalke 04,Borussia Dortmund
+3890519,1. Bundesliga,FC Köln,Bayer Leverkusen
+3890520,1. Bundesliga,Hannover 96,Borussia Mönchengladbach
+3890521,1. Bundesliga,Bayer Leverkusen,Eintracht Frankfurt
+3890522,1. Bundesliga,Augsburg,VfB Stuttgart
+3890523,1. Bundesliga,Werder Bremen,Wolfsburg
+3890524,1. Bundesliga,Hoffenheim,Hertha Berlin
+3890525,1. Bundesliga,Darmstadt 98,Ingolstadt
+3890526,1. Bundesliga,Bayern Munich,Schalke 04
+3890527,1. Bundesliga,FSV Mainz 05,FC Köln
+3890528,1. Bundesliga,Borussia Dortmund,Hamburger SV
+3890529,1. Bundesliga,Hamburger SV,Werder Bremen
+3890530,1. Bundesliga,VfB Stuttgart,Borussia Dortmund
+3890531,1. Bundesliga,FC Köln,Darmstadt 98
+3890532,1. Bundesliga,Ingolstadt,Hannover 96
+3890533,1. Bundesliga,Hertha Berlin,Bayern Munich
+3890534,1. Bundesliga,Schalke 04,Bayer Leverkusen
+3890535,1. Bundesliga,Wolfsburg,Augsburg
+3890536,1. Bundesliga,Borussia Mönchengladbach,Hoffenheim
+3890537,1. Bundesliga,Eintracht Frankfurt,FSV Mainz 05
+3890538,1. Bundesliga,Augsburg,FC Köln
+3890539,1. Bundesliga,Darmstadt 98,Eintracht Frankfurt
+3890540,1. Bundesliga,Bayer Leverkusen,Hertha Berlin
+3890541,1. Bundesliga,Bayern Munich,Borussia Mönchengladbach
+3890542,1. Bundesliga,Borussia Dortmund,Wolfsburg
+3890543,1. Bundesliga,Hannover 96,Schalke 04
+3890544,1. Bundesliga,Hoffenheim,Ingolstadt
+3890545,1. Bundesliga,FSV Mainz 05,Hamburger SV
+3890546,1. Bundesliga,Werder Bremen,VfB Stuttgart
+3890547,1. Bundesliga,Hannover 96,Hoffenheim
+3890548,1. Bundesliga,Ingolstadt,Bayern Munich
+3890549,1. Bundesliga,Schalke 04,Augsburg
+3890550,1. Bundesliga,Borussia Mönchengladbach,Bayer Leverkusen
+3890551,1. Bundesliga,Hamburger SV,Wolfsburg
+3890552,1. Bundesliga,VfB Stuttgart,FSV Mainz 05
+3890553,1. Bundesliga,Eintracht Frankfurt,Borussia Dortmund
+3890554,1. Bundesliga,FC Köln,Werder Bremen
+3890555,1. Bundesliga,Hertha Berlin,Darmstadt 98
+3890556,1. Bundesliga,Wolfsburg,VfB Stuttgart
+3890557,1. Bundesliga,Werder Bremen,Eintracht Frankfurt
+3890558,1. Bundesliga,FSV Mainz 05,Hertha Berlin
+3890559,1. Bundesliga,Bayern Munich,Hannover 96
+3890560,1. Bundesliga,Darmstadt 98,Borussia Mönchengladbach
+3890561,1. Bundesliga,Hoffenheim,Schalke 04
+3890562,1. Bundesliga,Borussia Dortmund,FC Köln
+3890563,1. Bundesliga,Bayer Leverkusen,Ingolstadt
+3890564,1. Bundesliga,Augsburg,Hamburger SV
+265839,La Liga,Barcelona,Sevilla
+265894,La Liga,Málaga,Barcelona
+265944,La Liga,Barcelona,Sporting Gijón
+265958,La Liga,Barcelona,Espanyol
+266056,La Liga,Eibar,Barcelona
+266106,La Liga,Villarreal,Barcelona
+266149,La Liga,Barcelona,Athletic Club
+266160,La Liga,Levante UD,Barcelona
+266166,La Liga,Atlético Madrid,Barcelona
+266236,La Liga,Athletic Club,Barcelona
+266254,La Liga,Barcelona,Celta Vigo
+266310,La Liga,RC Deportivo La Coruña,Barcelona
+266424,La Liga,Real Madrid,Barcelona
+266467,La Liga,Celta Vigo,Barcelona
+266490,La Liga,Barcelona,Levante UD
+266498,La Liga,Barcelona,Getafe
+266557,La Liga,Barcelona,Valencia
+266620,La Liga,Barcelona,Granada
+266653,La Liga,Rayo Vallecano,Barcelona
+266664,La Liga,Real Sociedad,Barcelona
+266670,La Liga,Espanyol,Barcelona
+266815,La Liga,Sporting Gijón,Barcelona
+266885,La Liga,Barcelona,Real Sociedad
+266961,La Liga,Barcelona,RC Deportivo La Coruña
+266986,La Liga,Real Betis,Barcelona
+267273,La Liga,Las Palmas,Barcelona
+267274,La Liga,Valencia,Barcelona
+267327,La Liga,Barcelona,Real Betis
+267422,La Liga,Barcelona,Málaga
+267506,La Liga,Granada,Barcelona
+267533,La Liga,Barcelona,Real Madrid
+267576,La Liga,Barcelona,Atlético Madrid
+267611,La Liga,Barcelona,Las Palmas
+3825562,La Liga,Málaga,Sevilla
+3825563,La Liga,Atlético Madrid,Las Palmas
+3825564,La Liga,RC Deportivo La Coruña,Real Sociedad
+3825565,La Liga,Espanyol,Getafe
+3825566,La Liga,Rayo Vallecano,Valencia
+3825567,La Liga,Sporting Gijón,Real Madrid
+3825568,La Liga,Real Betis,Villarreal
+3825569,La Liga,Levante UD,Celta Vigo
+3825570,La Liga,Granada,Eibar
+3825571,La Liga,Villarreal,Espanyol
+3825572,La Liga,Real Madrid,Real Betis
+3825573,La Liga,Real Sociedad,Sporting Gijón
+3825574,La Liga,Celta Vigo,Rayo Vallecano
+3825575,La Liga,Las Palmas,Levante UD
+3825576,La Liga,Valencia,RC Deportivo La Coruña
+3825577,La Liga,Getafe,Granada
+3825578,La Liga,Eibar,Athletic Club
+3825579,La Liga,Sevilla,Atlético Madrid
+3825580,La Liga,Levante UD,Sevilla
+3825581,La Liga,Espanyol,Real Madrid
+3825582,La Liga,Real Betis,Real Sociedad
+3825583,La Liga,Sporting Gijón,Valencia
+3825584,La Liga,Granada,Villarreal
+3825585,La Liga,Celta Vigo,Las Palmas
+3825586,La Liga,Málaga,Eibar
+3825587,La Liga,Athletic Club,Getafe
+3825588,La Liga,Rayo Vallecano,RC Deportivo La Coruña
+3825589,La Liga,Getafe,Málaga
+3825590,La Liga,Real Madrid,Granada
+3825591,La Liga,Valencia,Real Betis
+3825592,La Liga,Real Sociedad,Espanyol
+3825593,La Liga,Eibar,Atlético Madrid
+3825594,La Liga,Sevilla,Celta Vigo
+3825595,La Liga,Villarreal,Athletic Club
+3825596,La Liga,RC Deportivo La Coruña,Sporting Gijón
+3825597,La Liga,Las Palmas,Rayo Vallecano
+3825598,La Liga,Atlético Madrid,Getafe
+3825599,La Liga,Espanyol,Valencia
+3825600,La Liga,Málaga,Villarreal
+3825601,La Liga,Rayo Vallecano,Sporting Gijón
+3825602,La Liga,Athletic Club,Real Madrid
+3825603,La Liga,Real Betis,RC Deportivo La Coruña
+3825604,La Liga,Valencia,Granada
+3825605,La Liga,Sevilla,Rayo Vallecano
+3825606,La Liga,Real Madrid,Málaga
+3825607,La Liga,Villarreal,Atlético Madrid
+3825608,La Liga,Eibar,Celta Vigo
+3825609,La Liga,Real Sociedad,Athletic Club
+3825610,La Liga,Sporting Gijón,Real Betis
+3825611,La Liga,RC Deportivo La Coruña,Espanyol
+3825612,La Liga,Getafe,Levante UD
+3825613,La Liga,Celta Vigo,Getafe
+3825614,La Liga,Granada,RC Deportivo La Coruña
+3825615,La Liga,Espanyol,Sporting Gijón
+3825616,La Liga,Málaga,Real Sociedad
+3825617,La Liga,Sevilla,Barcelona
+3825618,La Liga,Las Palmas,Eibar
+3825619,La Liga,Levante UD,Villarreal
+3825620,La Liga,Rayo Vallecano,Real Betis
+3825621,La Liga,Atlético Madrid,Real Madrid
+3825622,La Liga,Athletic Club,Valencia
+3825623,La Liga,Valencia,Málaga
+3825624,La Liga,Eibar,Sevilla
+3825625,La Liga,Real Madrid,Levante UD
+3825626,La Liga,Real Betis,Espanyol
+3825627,La Liga,Barcelona,Rayo Vallecano
+3825628,La Liga,Getafe,Las Palmas
+3825629,La Liga,Villarreal,Celta Vigo
+3825630,La Liga,RC Deportivo La Coruña,Athletic Club
+3825631,La Liga,Real Sociedad,Atlético Madrid
+3825632,La Liga,Sporting Gijón,Granada
+3825633,La Liga,Rayo Vallecano,Espanyol
+3825634,La Liga,Granada,Real Betis
+3825635,La Liga,Celta Vigo,Real Madrid
+3825636,La Liga,Málaga,RC Deportivo La Coruña
+3825637,La Liga,Barcelona,Eibar
+3825638,La Liga,Atlético Madrid,Valencia
+3825639,La Liga,Las Palmas,Villarreal
+3825640,La Liga,Levante UD,Real Sociedad
+3825641,La Liga,Athletic Club,Sporting Gijón
+3825642,La Liga,RC Deportivo La Coruña,Atlético Madrid
+3825643,La Liga,Real Madrid,Las Palmas
+3825644,La Liga,Real Sociedad,Celta Vigo
+3825645,La Liga,Getafe,Barcelona
+3825646,La Liga,Villarreal,Sevilla
+3825647,La Liga,Valencia,Levante UD
+3825648,La Liga,Eibar,Rayo Vallecano
+3825649,La Liga,Sporting Gijón,Málaga
+3825650,La Liga,Real Betis,Athletic Club
+3825651,La Liga,Espanyol,Granada
+3825652,La Liga,Las Palmas,Real Sociedad
+3825653,La Liga,Eibar,Getafe
+3825654,La Liga,Celta Vigo,Valencia
+3825655,La Liga,Rayo Vallecano,Granada
+3825656,La Liga,Levante UD,RC Deportivo La Coruña
+3825657,La Liga,Málaga,Real Betis
+3825658,La Liga,Atlético Madrid,Sporting Gijón
+3825659,La Liga,Athletic Club,Espanyol
+3825660,La Liga,Barcelona,Villarreal
+3825661,La Liga,Sevilla,Real Madrid
+3825662,La Liga,RC Deportivo La Coruña,Celta Vigo
+3825663,La Liga,Espanyol,Málaga
+3825664,La Liga,Real Sociedad,Sevilla
+3825665,La Liga,Granada,Athletic Club
+3825666,La Liga,Real Betis,Atlético Madrid
+3825667,La Liga,Villarreal,Eibar
+3825668,La Liga,Sporting Gijón,Levante UD
+3825669,La Liga,Getafe,Rayo Vallecano
+3825670,La Liga,Levante UD,Real Betis
+3825671,La Liga,Celta Vigo,Sporting Gijón
+3825672,La Liga,Málaga,Granada
+3825673,La Liga,Las Palmas,RC Deportivo La Coruña
+3825674,La Liga,Atlético Madrid,Espanyol
+3825675,La Liga,Rayo Vallecano,Athletic Club
+3825676,La Liga,Getafe,Villarreal
+3825677,La Liga,Sevilla,Valencia
+3825678,La Liga,Eibar,Real Madrid
+3825679,La Liga,Real Betis,Celta Vigo
+3825680,La Liga,RC Deportivo La Coruña,Sevilla
+3825681,La Liga,Real Madrid,Getafe
+3825682,La Liga,Granada,Atlético Madrid
+3825683,La Liga,Real Sociedad,Eibar
+3825684,La Liga,Villarreal,Rayo Vallecano
+3825685,La Liga,Sporting Gijón,Las Palmas
+3825686,La Liga,Athletic Club,Málaga
+3825687,La Liga,Espanyol,Levante UD
+3825688,La Liga,Getafe,Real Sociedad
+3825689,La Liga,Celta Vigo,Espanyol
+3825690,La Liga,Las Palmas,Real Betis
+3825691,La Liga,Levante UD,Granada
+3825692,La Liga,Sevilla,Sporting Gijón
+3825693,La Liga,Atlético Madrid,Athletic Club
+3825694,La Liga,Eibar,Valencia
+3825695,La Liga,Villarreal,Real Madrid
+3825696,La Liga,Rayo Vallecano,Málaga
+3825697,La Liga,Valencia,Getafe
+3825698,La Liga,RC Deportivo La Coruña,Eibar
+3825699,La Liga,Real Betis,Sevilla
+3825700,La Liga,Real Madrid,Rayo Vallecano
+3825701,La Liga,Málaga,Atlético Madrid
+3825702,La Liga,Real Sociedad,Villarreal
+3825703,La Liga,Athletic Club,Levante UD
+3825704,La Liga,Granada,Celta Vigo
+3825705,La Liga,Eibar,Sporting Gijón
+3825706,La Liga,Celta Vigo,Athletic Club
+3825707,La Liga,Las Palmas,Granada
+3825708,La Liga,Levante UD,Málaga
+3825709,La Liga,Sevilla,Espanyol
+3825710,La Liga,Real Madrid,Real Sociedad
+3825711,La Liga,Rayo Vallecano,Atlético Madrid
+3825712,La Liga,Getafe,RC Deportivo La Coruña
+3825713,La Liga,Villarreal,Valencia
+3825714,La Liga,Atlético Madrid,Levante UD
+3825715,La Liga,Málaga,Celta Vigo
+3825716,La Liga,Rayo Vallecano,Real Sociedad
+3825717,La Liga,Granada,Sevilla
+3825718,La Liga,Valencia,Real Madrid
+3825719,La Liga,Athletic Club,Las Palmas
+3825720,La Liga,Real Betis,Eibar
+3825721,La Liga,RC Deportivo La Coruña,Villarreal
+3825722,La Liga,Sporting Gijón,Getafe
+3825723,La Liga,Levante UD,Rayo Vallecano
+3825724,La Liga,Real Madrid,RC Deportivo La Coruña
+3825725,La Liga,Getafe,Real Betis
+3825726,La Liga,Sevilla,Athletic Club
+3825727,La Liga,Eibar,Espanyol
+3825728,La Liga,Celta Vigo,Atlético Madrid
+3825729,La Liga,Villarreal,Sporting Gijón
+3825730,La Liga,Real Sociedad,Valencia
+3825731,La Liga,Las Palmas,Málaga
+3825732,La Liga,Celta Vigo,Levante UD
+3825733,La Liga,Sevilla,Málaga
+3825734,La Liga,Real Sociedad,RC Deportivo La Coruña
+3825735,La Liga,Villarreal,Real Betis
+3825736,La Liga,Valencia,Rayo Vallecano
+3825737,La Liga,Getafe,Espanyol
+3825738,La Liga,Las Palmas,Atlético Madrid
+3825739,La Liga,Real Madrid,Sporting Gijón
+3825740,La Liga,Eibar,Granada
+3825741,La Liga,Sporting Gijón,Real Sociedad
+3825742,La Liga,Granada,Getafe
+3825743,La Liga,Rayo Vallecano,Celta Vigo
+3825744,La Liga,Espanyol,Villarreal
+3825745,La Liga,RC Deportivo La Coruña,Valencia
+3825746,La Liga,Real Betis,Real Madrid
+3825747,La Liga,Athletic Club,Eibar
+3825748,La Liga,Atlético Madrid,Sevilla
+3825749,La Liga,Levante UD,Las Palmas
+3825750,La Liga,Real Sociedad,Real Betis
+3825751,La Liga,Getafe,Athletic Club
+3825752,La Liga,Eibar,Málaga
+3825753,La Liga,Villarreal,Granada
+3825754,La Liga,Las Palmas,Celta Vigo
+3825755,La Liga,Valencia,Sporting Gijón
+3825756,La Liga,Sevilla,Levante UD
+3825757,La Liga,Real Madrid,Espanyol
+3825758,La Liga,RC Deportivo La Coruña,Rayo Vallecano
+3825759,La Liga,Málaga,Getafe
+3825760,La Liga,Atlético Madrid,Eibar
+3825761,La Liga,Athletic Club,Villarreal
+3825762,La Liga,Sporting Gijón,RC Deportivo La Coruña
+3825763,La Liga,Rayo Vallecano,Las Palmas
+3825764,La Liga,Granada,Real Madrid
+3825765,La Liga,Celta Vigo,Sevilla
+3825766,La Liga,Real Betis,Valencia
+3825767,La Liga,Espanyol,Real Sociedad
+3825768,La Liga,Sporting Gijón,Rayo Vallecano
+3825769,La Liga,Villarreal,Málaga
+3825770,La Liga,Real Madrid,Athletic Club
+3825771,La Liga,RC Deportivo La Coruña,Real Betis
+3825772,La Liga,Valencia,Espanyol
+3825773,La Liga,Eibar,Levante UD
+3825774,La Liga,Getafe,Atlético Madrid
+3825775,La Liga,Real Sociedad,Granada
+3825776,La Liga,Sevilla,Las Palmas
+3825777,La Liga,Levante UD,Getafe
+3825778,La Liga,Real Betis,Sporting Gijón
+3825779,La Liga,Celta Vigo,Eibar
+3825780,La Liga,Espanyol,RC Deportivo La Coruña
+3825781,La Liga,Rayo Vallecano,Sevilla
+3825782,La Liga,Granada,Valencia
+3825783,La Liga,Athletic Club,Real Sociedad
+3825784,La Liga,Atlético Madrid,Villarreal
+3825785,La Liga,Málaga,Real Madrid
+3825786,La Liga,Eibar,Las Palmas
+3825787,La Liga,Real Madrid,Atlético Madrid
+3825788,La Liga,Getafe,Celta Vigo
+3825789,La Liga,Real Sociedad,Málaga
+3825790,La Liga,Sporting Gijón,Espanyol
+3825791,La Liga,Real Betis,Rayo Vallecano
+3825792,La Liga,RC Deportivo La Coruña,Granada
+3825793,La Liga,Valencia,Athletic Club
+3825794,La Liga,Villarreal,Levante UD
+3825795,La Liga,Atlético Madrid,Real Sociedad
+3825796,La Liga,Las Palmas,Getafe
+3825797,La Liga,Athletic Club,RC Deportivo La Coruña
+3825798,La Liga,Levante UD,Real Madrid
+3825799,La Liga,Málaga,Valencia
+3825800,La Liga,Celta Vigo,Villarreal
+3825801,La Liga,Sevilla,Eibar
+3825802,La Liga,Espanyol,Real Betis
+3825803,La Liga,Granada,Sporting Gijón
+3825804,La Liga,RC Deportivo La Coruña,Málaga
+3825805,La Liga,Villarreal,Las Palmas
+3825806,La Liga,Real Madrid,Celta Vigo
+3825807,La Liga,Valencia,Atlético Madrid
+3825808,La Liga,Sporting Gijón,Athletic Club
+3825809,La Liga,Real Betis,Granada
+3825810,La Liga,Real Sociedad,Levante UD
+3825811,La Liga,Espanyol,Rayo Vallecano
+3825812,La Liga,Málaga,Sporting Gijón
+3825813,La Liga,Atlético Madrid,RC Deportivo La Coruña
+3825814,La Liga,Celta Vigo,Real Sociedad
+3825815,La Liga,Levante UD,Valencia
+3825816,La Liga,Sevilla,Villarreal
+3825817,La Liga,Getafe,Eibar
+3825818,La Liga,Real Sociedad,Las Palmas
+3825819,La Liga,Valencia,Celta Vigo
+3825820,La Liga,Real Madrid,Sevilla
+3825821,La Liga,Espanyol,Athletic Club
+3825822,La Liga,Las Palmas,Valencia
+3825823,La Liga,Sevilla,Real Sociedad
+3825824,La Liga,Eibar,Villarreal
+3825825,La Liga,Levante UD,Sporting Gijón
+3825826,La Liga,Granada,Málaga
+3825827,La Liga,Real Betis,Levante UD
+3825828,La Liga,Espanyol,Atlético Madrid
+3825829,La Liga,Athletic Club,Rayo Vallecano
+3825830,La Liga,Villarreal,Getafe
+3825831,La Liga,Valencia,Sevilla
+3825832,La Liga,Sporting Gijón,Celta Vigo
+3825833,La Liga,Getafe,Real Madrid
+3825834,La Liga,Atlético Madrid,Granada
+3825835,La Liga,Málaga,Athletic Club
+3825836,La Liga,Rayo Vallecano,Villarreal
+3825837,La Liga,Real Betis,Las Palmas
+3825838,La Liga,Athletic Club,Atlético Madrid
+3825839,La Liga,Sporting Gijón,Sevilla
+3825840,La Liga,Valencia,Eibar
+3825841,La Liga,Real Sociedad,Getafe
+3825842,La Liga,Levante UD,Athletic Club
+3825843,La Liga,Málaga,Rayo Vallecano
+3825844,La Liga,Athletic Club,Real Betis
+3825845,La Liga,Espanyol,Sevilla
+3825846,La Liga,RC Deportivo La Coruña,Real Madrid
+3825847,La Liga,Eibar,RC Deportivo La Coruña
+3825848,La Liga,Levante UD,Eibar
+3825849,La Liga,Valencia,Real Sociedad
+3825850,La Liga,Celta Vigo,Málaga
+3825851,La Liga,Villarreal,RC Deportivo La Coruña
+3825852,La Liga,Las Palmas,Sporting Gijón
+3825853,La Liga,Sevilla,Granada
+3825854,La Liga,Sporting Gijón,Eibar
+3825855,La Liga,Málaga,Levante UD
+3825856,La Liga,Real Madrid,Eibar
+3825857,La Liga,Levante UD,Espanyol
+3825858,La Liga,Rayo Vallecano,Eibar
+3825859,La Liga,Granada,Las Palmas
+3825860,La Liga,Levante UD,Atlético Madrid
+3825861,La Liga,Real Sociedad,Rayo Vallecano
+3825862,La Liga,Espanyol,Celta Vigo
+3825863,La Liga,RC Deportivo La Coruña,Las Palmas
+3825864,La Liga,Real Sociedad,Real Madrid
+3825865,La Liga,Getafe,Sporting Gijón
+3825866,La Liga,Las Palmas,Athletic Club
+3825867,La Liga,Getafe,Sevilla
+3825868,La Liga,Celta Vigo,Granada
+3825869,La Liga,Athletic Club,Sevilla
+3825870,La Liga,Athletic Club,Celta Vigo
+3825871,La Liga,Las Palmas,Espanyol
+3825872,La Liga,Atlético Madrid,Real Betis
+3825873,La Liga,Valencia,Villarreal
+3825874,La Liga,Sevilla,Getafe
+3825875,La Liga,Villarreal,Real Sociedad
+3825876,La Liga,Real Betis,Getafe
+3825877,La Liga,Athletic Club,Granada
+3825878,La Liga,Atlético Madrid,Rayo Vallecano
+3825879,La Liga,Las Palmas,Real Madrid
+3825880,La Liga,RC Deportivo La Coruña,Levante UD
+3825881,La Liga,Granada,Espanyol
+3825882,La Liga,Atlético Madrid,Celta Vigo
+3825883,La Liga,Málaga,Las Palmas
+3825884,La Liga,Sevilla,Real Betis
+3825885,La Liga,Rayo Vallecano,Getafe
+3825886,La Liga,Rayo Vallecano,Real Madrid
+3825887,La Liga,Granada,Rayo Vallecano
+3825888,La Liga,Valencia,Las Palmas
+3825889,La Liga,Celta Vigo,Real Betis
+3825890,La Liga,Atlético Madrid,Málaga
+3825891,La Liga,Espanyol,Las Palmas
+3825892,La Liga,Granada,Real Sociedad
+3825893,La Liga,Real Madrid,Villarreal
+3825894,La Liga,RC Deportivo La Coruña,Getafe
+3825895,La Liga,Las Palmas,Sevilla
+3825896,La Liga,Granada,Levante UD
+3825897,La Liga,Eibar,Real Sociedad
+3825898,La Liga,Celta Vigo,RC Deportivo La Coruña
+3825899,La Liga,Getafe,Valencia
+3825900,La Liga,Sporting Gijón,Villarreal
+3825901,La Liga,Real Madrid,Valencia
+3825902,La Liga,Rayo Vallecano,Levante UD
+3825903,La Liga,Real Betis,Málaga
+3825904,La Liga,Eibar,Real Betis
+3825905,La Liga,Málaga,Espanyol
+3825906,La Liga,Sevilla,RC Deportivo La Coruña
+3825907,La Liga,Sporting Gijón,Atlético Madrid
+3825908,La Liga,Espanyol,Eibar
+3829413,Ligue 1,Lille,Paris Saint-Germain
+3829414,Ligue 1,Marseille,Caen
+3829415,Ligue 1,Bastia,Rennes
+3829416,Ligue 1,OGC Nice,AS Monaco
+3829417,Ligue 1,Troyes,Gazélec Ajaccio
+3829418,Ligue 1,Nantes,Guingamp
+3829419,Ligue 1,Montpellier,Angers
+3829420,Ligue 1,Bordeaux,Stade de Reims
+3829421,Ligue 1,Toulouse,Saint-Étienne
+3829422,Ligue 1,Lyon,Lorient
+3829423,Ligue 1,AS Monaco,Lille
+3829424,Ligue 1,Saint-Étienne,Bordeaux
+3829425,Ligue 1,Angers,Nantes
+3829426,Ligue 1,Guingamp,Lyon
+3829427,Ligue 1,Troyes,OGC Nice
+3829428,Ligue 1,Caen,Toulouse
+3829429,Ligue 1,Rennes,Montpellier
+3829430,Ligue 1,Stade de Reims,Marseille
+3829431,Ligue 1,Lorient,Bastia
+3829432,Ligue 1,Paris Saint-Germain,Gazélec Ajaccio
+3829433,Ligue 1,Montpellier,Paris Saint-Germain
+3829434,Ligue 1,Bastia,Guingamp
+3829435,Ligue 1,Lyon,Rennes
+3829436,Ligue 1,Nantes,Stade de Reims
+3829437,Ligue 1,Gazélec Ajaccio,Angers
+3829438,Ligue 1,OGC Nice,Caen
+3829439,Ligue 1,Toulouse,AS Monaco
+3829440,Ligue 1,Lorient,Saint-Étienne
+3829441,Ligue 1,Marseille,Troyes
+3829442,Ligue 1,Lille,Bordeaux
+3829443,Ligue 1,Guingamp,Marseille
+3829444,Ligue 1,Caen,Lyon
+3829445,Ligue 1,Angers,OGC Nice
+3829446,Ligue 1,Troyes,Montpellier
+3829447,Ligue 1,Lille,Gazélec Ajaccio
+3829448,Ligue 1,Stade de Reims,Lorient
+3829449,Ligue 1,Rennes,Toulouse
+3829450,Ligue 1,AS Monaco,Paris Saint-Germain
+3829451,Ligue 1,Saint-Étienne,Bastia
+3829452,Ligue 1,Bordeaux,Nantes
+3829453,Ligue 1,Paris Saint-Germain,Bordeaux
+3829454,Ligue 1,Lyon,Lille
+3829455,Ligue 1,Troyes,Caen
+3829456,Ligue 1,Lorient,Angers
+3829457,Ligue 1,Montpellier,Saint-Étienne
+3829458,Ligue 1,Toulouse,Stade de Reims
+3829459,Ligue 1,OGC Nice,Guingamp
+3829460,Ligue 1,Nantes,Rennes
+3829461,Ligue 1,Marseille,Bastia
+3829462,Ligue 1,Gazélec Ajaccio,AS Monaco
+3829463,Ligue 1,Rennes,Lille
+3829464,Ligue 1,Bastia,OGC Nice
+3829465,Ligue 1,Stade de Reims,Paris Saint-Germain
+3829466,Ligue 1,Angers,Troyes
+3829467,Ligue 1,Caen,Montpellier
+3829468,Ligue 1,Guingamp,Gazélec Ajaccio
+3829469,Ligue 1,AS Monaco,Lorient
+3829470,Ligue 1,Saint-Étienne,Nantes
+3829471,Ligue 1,Bordeaux,Toulouse
+3829472,Ligue 1,Marseille,Lyon
+3829473,Ligue 1,Paris Saint-Germain,Guingamp
+3829474,Ligue 1,Angers,Stade de Reims
+3829475,Ligue 1,OGC Nice,Bordeaux
+3829476,Ligue 1,Lyon,Bastia
+3829477,Ligue 1,Toulouse,Marseille
+3829478,Ligue 1,Gazélec Ajaccio,Rennes
+3829479,Ligue 1,Lorient,Caen
+3829480,Ligue 1,Troyes,Saint-Étienne
+3829481,Ligue 1,Montpellier,AS Monaco
+3829482,Ligue 1,Stade de Reims,Lille
+3829483,Ligue 1,Nantes,Paris Saint-Germain
+3829484,Ligue 1,Bordeaux,Lyon
+3829485,Ligue 1,Rennes,Troyes
+3829486,Ligue 1,Bastia,Toulouse
+3829487,Ligue 1,Caen,Gazélec Ajaccio
+3829488,Ligue 1,Guingamp,AS Monaco
+3829489,Ligue 1,Montpellier,Lorient
+3829490,Ligue 1,Saint-Étienne,OGC Nice
+3829491,Ligue 1,Marseille,Angers
+3829492,Ligue 1,Lille,Nantes
+3829493,Ligue 1,Lille,Montpellier
+3829494,Ligue 1,Gazélec Ajaccio,Toulouse
+3829495,Ligue 1,Lyon,Stade de Reims
+3829496,Ligue 1,Angers,Bastia
+3829497,Ligue 1,Troyes,Guingamp
+3829498,Ligue 1,Lorient,Bordeaux
+3829499,Ligue 1,Caen,Saint-Étienne
+3829500,Ligue 1,Paris Saint-Germain,Marseille
+3829501,Ligue 1,AS Monaco,Rennes
+3829502,Ligue 1,AS Monaco,Lyon
+3829503,Ligue 1,Nantes,Troyes
+3829504,Ligue 1,Bastia,Paris Saint-Germain
+3829505,Ligue 1,Saint-Étienne,Gazélec Ajaccio
+3829506,Ligue 1,Guingamp,Lille
+3829507,Ligue 1,Toulouse,Angers
+3829508,Ligue 1,Stade de Reims,Caen
+3829509,Ligue 1,Marseille,Lorient
+3829510,Ligue 1,Rennes,OGC Nice
+3829511,Ligue 1,Bordeaux,Montpellier
+3829512,Ligue 1,Lyon,Toulouse
+3829513,Ligue 1,Caen,Nantes
+3829514,Ligue 1,Angers,Guingamp
+3829515,Ligue 1,Montpellier,Bastia
+3829516,Ligue 1,Lorient,Rennes
+3829517,Ligue 1,Gazélec Ajaccio,OGC Nice
+3829518,Ligue 1,Lille,Marseille
+3829519,Ligue 1,Paris Saint-Germain,Saint-Étienne
+3829520,Ligue 1,Stade de Reims,AS Monaco
+3829521,Ligue 1,Bordeaux,Troyes
+3829522,Ligue 1,OGC Nice,Nantes
+3900490,Ligue 1,Rennes,Paris Saint-Germain
+3900491,Ligue 1,Saint-Étienne,Stade de Reims
+3900492,Ligue 1,Guingamp,Lorient
+3900493,Ligue 1,Troyes,Lyon
+3900494,Ligue 1,Gazélec Ajaccio,Bordeaux
+3900495,Ligue 1,Bastia,Caen
+3900496,Ligue 1,Toulouse,Montpellier
+3900497,Ligue 1,OGC Nice,Lille
+3900498,Ligue 1,AS Monaco,Angers
+3900499,Ligue 1,Nantes,Marseille
+3900500,Ligue 1,Angers,Rennes
+3900501,Ligue 1,Paris Saint-Germain,Toulouse
+3900502,Ligue 1,Lorient,Troyes
+3900503,Ligue 1,Lille,Bastia
+3900504,Ligue 1,Montpellier,Nantes
+3900505,Ligue 1,Caen,Guingamp
+3900506,Ligue 1,Stade de Reims,Gazélec Ajaccio
+3900507,Ligue 1,Marseille,OGC Nice
+3900508,Ligue 1,Bordeaux,AS Monaco
+3900509,Ligue 1,Lyon,Saint-Étienne
+3900510,Ligue 1,OGC Nice,Lyon
+3900511,Ligue 1,Lorient,Paris Saint-Germain
+3900512,Ligue 1,Montpellier,Stade de Reims
+3900513,Ligue 1,Troyes,Lille
+3900514,Ligue 1,Guingamp,Toulouse
+3900515,Ligue 1,AS Monaco,Nantes
+3900516,Ligue 1,Saint-Étienne,Marseille
+3900518,Ligue 1,Caen,Angers
+3900519,Ligue 1,Rennes,Bordeaux
+3900520,Ligue 1,Lyon,Montpellier
+3900521,Ligue 1,Paris Saint-Germain,Troyes
+3900522,Ligue 1,Toulouse,OGC Nice
+3900523,Ligue 1,Stade de Reims,Rennes
+3900524,Ligue 1,Gazélec Ajaccio,Lorient
+3900525,Ligue 1,Nantes,Bastia
+3900526,Ligue 1,Angers,Lille
+3900527,Ligue 1,Marseille,AS Monaco
+3900528,Ligue 1,Bordeaux,Caen
+3900529,Ligue 1,Saint-Étienne,Guingamp
+3900530,Ligue 1,Nantes,Lyon
+3900531,Ligue 1,Lorient,OGC Nice
+3900532,Ligue 1,Angers,Paris Saint-Germain
+3900533,Ligue 1,AS Monaco,Caen
+3900534,Ligue 1,Bastia,Bordeaux
+3900535,Ligue 1,Lille,Saint-Étienne
+3900536,Ligue 1,Montpellier,Gazélec Ajaccio
+3900537,Ligue 1,Troyes,Toulouse
+3900538,Ligue 1,Guingamp,Stade de Reims
+3900539,Ligue 1,Rennes,Marseille
+3900540,Ligue 1,OGC Nice,Paris Saint-Germain
+3900541,Ligue 1,Bastia,AS Monaco
+3900542,Ligue 1,Caen,Lille
+3900543,Ligue 1,Stade de Reims,Troyes
+3900544,Ligue 1,Toulouse,Lorient
+3900545,Ligue 1,Lyon,Angers
+3900546,Ligue 1,Gazélec Ajaccio,Nantes
+3900547,Ligue 1,Marseille,Montpellier
+3900548,Ligue 1,Bordeaux,Guingamp
+3900549,Ligue 1,Saint-Étienne,Rennes
+3900550,Ligue 1,Rennes,Caen
+3900551,Ligue 1,Lille,Lorient
+3900552,Ligue 1,Montpellier,Guingamp
+3900553,Ligue 1,Stade de Reims,OGC Nice
+3900554,Ligue 1,Troyes,Bastia
+3900555,Ligue 1,Nantes,Toulouse
+3900556,Ligue 1,Angers,Bordeaux
+3900557,Ligue 1,Paris Saint-Germain,Lyon
+3900558,Ligue 1,AS Monaco,Saint-Étienne
+3900559,Ligue 1,Marseille,Gazélec Ajaccio
+3900560,Ligue 1,OGC Nice,Montpellier
+3900561,Ligue 1,Toulouse,Lille
+3900562,Ligue 1,Caen,Paris Saint-Germain
+3900563,Ligue 1,Guingamp,Rennes
+3900564,Ligue 1,Troyes,AS Monaco
+3900565,Ligue 1,Lorient,Nantes
+3900566,Ligue 1,Bastia,Stade de Reims
+3900567,Ligue 1,Bordeaux,Marseille
+3900568,Ligue 1,Gazélec Ajaccio,Lyon
+3900569,Ligue 1,Saint-Étienne,Angers
+3900570,Ligue 1,Paris Saint-Germain,Bastia
+3900571,Ligue 1,Rennes,Lorient
+3900572,Ligue 1,AS Monaco,Gazélec Ajaccio
+3900573,Ligue 1,Angers,Caen
+3900574,Ligue 1,Lyon,Troyes
+3900575,Ligue 1,Stade de Reims,Toulouse
+3900576,Ligue 1,Montpellier,Bordeaux
+3900577,Ligue 1,Marseille,Guingamp
+3900578,Ligue 1,Lille,OGC Nice
+3900579,Ligue 1,Nantes,Saint-Étienne
+3900580,Ligue 1,OGC Nice,Angers
+3900581,Ligue 1,Bordeaux,Lille
+3900582,Ligue 1,Gazélec Ajaccio,Stade de Reims
+3900583,Ligue 1,Troyes,Rennes
+3900584,Ligue 1,Bastia,Montpellier
+3900585,Ligue 1,Toulouse,Paris Saint-Germain
+3900586,Ligue 1,Guingamp,Nantes
+3900587,Ligue 1,Saint-Étienne,Lyon
+3900588,Ligue 1,Lorient,AS Monaco
+3900589,Ligue 1,Caen,Marseille
+3900590,Ligue 1,Rennes,Gazélec Ajaccio
+3900591,Ligue 1,Paris Saint-Germain,Angers
+3900592,Ligue 1,Montpellier,Caen
+3900593,Ligue 1,Lille,Troyes
+3900594,Ligue 1,Nantes,Bordeaux
+3900595,Ligue 1,OGC Nice,Lorient
+3900596,Ligue 1,Guingamp,Bastia
+3900597,Ligue 1,Lyon,Marseille
+3900598,Ligue 1,AS Monaco,Toulouse
+3900599,Ligue 1,Stade de Reims,Saint-Étienne
+3900600,Ligue 1,Marseille,Lille
+3900601,Ligue 1,Gazélec Ajaccio,Montpellier
+3900602,Ligue 1,Lorient,Stade de Reims
+3900603,Ligue 1,Toulouse,Guingamp
+3900604,Ligue 1,Angers,AS Monaco
+3900605,Ligue 1,Bastia,Lyon
+3900606,Ligue 1,Troyes,Nantes
+3900608,Ligue 1,Caen,OGC Nice
+3900609,Ligue 1,Bordeaux,Rennes
+3900610,Ligue 1,Montpellier,Marseille
+3900611,Ligue 1,AS Monaco,Bastia
+3900612,Ligue 1,Guingamp,Troyes
+3900613,Ligue 1,OGC Nice,Toulouse
+3900614,Ligue 1,Lille,Caen
+3900615,Ligue 1,Nantes,Gazélec Ajaccio
+3900616,Ligue 1,Lyon,Bordeaux
+3900617,Ligue 1,Stade de Reims,Angers
+3900618,Ligue 1,Paris Saint-Germain,Lorient
+3900619,Ligue 1,Rennes,Saint-Étienne
+3900620,Ligue 1,Caen,Stade de Reims
+3900621,Ligue 1,Toulouse,Nantes
+3900622,Ligue 1,Bastia,Troyes
+3900623,Ligue 1,Lorient,Montpellier
+3900624,Ligue 1,Angers,Lyon
+3900625,Ligue 1,AS Monaco,OGC Nice
+3900626,Ligue 1,Gazélec Ajaccio,Guingamp
+3900627,Ligue 1,Bordeaux,Saint-Étienne
+3900628,Ligue 1,Lille,Rennes
+3900629,Ligue 1,Marseille,Paris Saint-Germain
+3900630,Ligue 1,Rennes,Angers
+3900631,Ligue 1,Montpellier,Toulouse
+3900632,Ligue 1,Guingamp,Bordeaux
+3900633,Ligue 1,Gazélec Ajaccio,Troyes
+3900634,Ligue 1,Paris Saint-Germain,Lille
+3900635,Ligue 1,Stade de Reims,Bastia
+3900636,Ligue 1,Nantes,Lorient
+3900637,Ligue 1,OGC Nice,Marseille
+3900638,Ligue 1,Lyon,Caen
+3900639,Ligue 1,Saint-Étienne,AS Monaco
+3901144,Ligue 1,Bordeaux,OGC Nice
+3901145,Ligue 1,Angers,Montpellier
+3901146,Ligue 1,Paris Saint-Germain,Stade de Reims
+3901147,Ligue 1,Toulouse,Gazélec Ajaccio
+3901148,Ligue 1,Lorient,Guingamp
+3901149,Ligue 1,AS Monaco,Troyes
+3901150,Ligue 1,Marseille,Saint-Étienne
+3901151,Ligue 1,Lille,Lyon
+3901152,Ligue 1,Caen,Rennes
+3901153,Ligue 1,OGC Nice,Bastia
+3901154,Ligue 1,Troyes,Lorient
+3901155,Ligue 1,Montpellier,Lille
+3901156,Ligue 1,Guingamp,Angers
+3901157,Ligue 1,Stade de Reims,Bordeaux
+3901158,Ligue 1,Toulouse,Rennes
+3901159,Ligue 1,Lyon,Paris Saint-Germain
+3901160,Ligue 1,Nantes,AS Monaco
+3901161,Ligue 1,Saint-Étienne,Caen
+3901162,Ligue 1,Caen,AS Monaco
+3901163,Ligue 1,OGC Nice,Troyes
+3901164,Ligue 1,Angers,Saint-Étienne
+3901165,Ligue 1,Bordeaux,Gazélec Ajaccio
+3901166,Ligue 1,Paris Saint-Germain,Montpellier
+3901167,Ligue 1,Bastia,Lorient
+3901168,Ligue 1,Lille,Stade de Reims
+3901169,Ligue 1,Marseille,Toulouse
+3901170,Ligue 1,Rennes,Nantes
+3901171,Ligue 1,Lyon,Guingamp
+3901172,Ligue 1,Bastia,Nantes
+3901173,Ligue 1,Gazélec Ajaccio,Marseille
+3901174,Ligue 1,AS Monaco,Stade de Reims
+3901175,Ligue 1,Montpellier,OGC Nice
+3901176,Ligue 1,Toulouse,Bordeaux
+3901177,Ligue 1,Bastia,Lille
+3901178,Ligue 1,Lorient,Marseille
+3901179,Ligue 1,Gazélec Ajaccio,Caen
+3901180,Ligue 1,Guingamp,Saint-Étienne
+3901181,Ligue 1,Rennes,Lyon
+3901182,Ligue 1,Nantes,Angers
+3901183,Ligue 1,Troyes,Paris Saint-Germain
+3901184,Ligue 1,Marseille,Rennes
+3901185,Ligue 1,Stade de Reims,Guingamp
+3901186,Ligue 1,Lyon,Nantes
+3901187,Ligue 1,Angers,Lorient
+3901188,Ligue 1,Saint-Étienne,Montpellier
+3901189,Ligue 1,Lille,Toulouse
+3901190,Ligue 1,Caen,Troyes
+3901191,Ligue 1,OGC Nice,Gazélec Ajaccio
+3901192,Ligue 1,Bordeaux,Bastia
+3901193,Ligue 1,Paris Saint-Germain,AS Monaco
+3901194,Ligue 1,AS Monaco,Bordeaux
+3901195,Ligue 1,Gazélec Ajaccio,Saint-Étienne
+3901196,Ligue 1,Paris Saint-Germain,OGC Nice
+3901197,Ligue 1,Guingamp,Montpellier
+3901198,Ligue 1,Troyes,Angers
+3901199,Ligue 1,Rennes,Stade de Reims
+3901200,Ligue 1,Toulouse,Caen
+3901201,Ligue 1,Bastia,Marseille
+3901202,Ligue 1,Lorient,Lyon
+3901203,Ligue 1,Nantes,Lille
+3901204,Ligue 1,Montpellier,Lyon
+3901205,Ligue 1,Caen,Lorient
+3901206,Ligue 1,Toulouse,Bastia
+3901207,Ligue 1,Stade de Reims,Nantes
+3901208,Ligue 1,Guingamp,Paris Saint-Germain
+3901209,Ligue 1,Angers,Gazélec Ajaccio
+3901210,Ligue 1,Saint-Étienne,Troyes
+3901211,Ligue 1,Marseille,Bordeaux
+3901212,Ligue 1,Lille,AS Monaco
+3901213,Ligue 1,OGC Nice,Rennes
+3901214,Ligue 1,Lyon,OGC Nice
+3901215,Ligue 1,Gazélec Ajaccio,Lille
+3901216,Ligue 1,Paris Saint-Germain,Caen
+3901217,Ligue 1,Troyes,Stade de Reims
+3901218,Ligue 1,Bordeaux,Angers
+3901219,Ligue 1,Lorient,Toulouse
+3901220,Ligue 1,Bastia,Saint-Étienne
+3901221,Ligue 1,Rennes,Guingamp
+3901222,Ligue 1,Nantes,Montpellier
+3901223,Ligue 1,AS Monaco,Marseille
+3901224,Ligue 1,OGC Nice,Stade de Reims
+3901225,Ligue 1,Toulouse,Lyon
+3901226,Ligue 1,Montpellier,Troyes
+3901227,Ligue 1,Marseille,Nantes
+3901228,Ligue 1,Saint-Étienne,Lorient
+3901229,Ligue 1,Guingamp,Caen
+3901230,Ligue 1,Gazélec Ajaccio,Bastia
+3901231,Ligue 1,Rennes,AS Monaco
+3901232,Ligue 1,Lille,Angers
+3901233,Ligue 1,Paris Saint-Germain,Rennes
+3901234,Ligue 1,Stade de Reims,Montpellier
+3901235,Ligue 1,Lyon,Gazélec Ajaccio
+3901236,Ligue 1,Nantes,OGC Nice
+3901237,Ligue 1,Saint-Étienne,Toulouse
+3901238,Ligue 1,AS Monaco,Guingamp
+3901240,Ligue 1,Lorient,Lille
+3901241,Ligue 1,Caen,Bastia
+3901242,Ligue 1,Angers,Marseille
+3901243,Ligue 1,Bastia,Angers
+3901244,Ligue 1,Toulouse,Troyes
+3901245,Ligue 1,Bordeaux,Lorient
+3901246,Ligue 1,Nantes,Caen
+3901247,Ligue 1,Gazélec Ajaccio,Paris Saint-Germain
+3901248,Ligue 1,Lille,Guingamp
+3901249,Ligue 1,Montpellier,Rennes
+3901250,Ligue 1,OGC Nice,Saint-Étienne
+3901251,Ligue 1,Marseille,Stade de Reims
+3901252,Ligue 1,Lyon,AS Monaco
+3901253,Ligue 1,Bordeaux,Paris Saint-Germain
+3901254,Ligue 1,Stade de Reims,Lyon
+3901255,Ligue 1,Angers,Toulouse
+3901256,Ligue 1,AS Monaco,Montpellier
+3901257,Ligue 1,Saint-Étienne,Lille
+3901258,Ligue 1,Guingamp,OGC Nice
+3901259,Ligue 1,Troyes,Marseille
+3901260,Ligue 1,Lorient,Gazélec Ajaccio
+3901261,Ligue 1,Paris Saint-Germain,Nantes
+3901262,Ligue 1,Caen,Bordeaux
+3901263,Ligue 1,Rennes,Bastia
+3753972,Premier League,Swansea City,AFC Bournemouth
+3753973,Premier League,Chelsea,West Ham United
+3753974,Premier League,Newcastle United,Everton
+3753975,Premier League,Sunderland,AFC Bournemouth
+3753976,Premier League,Arsenal,Swansea City
+3753977,Premier League,Watford,Stoke City
+3753978,Premier League,Southampton,Swansea City
+3753979,Premier League,Crystal Palace,Sunderland
+3753980,Premier League,Everton,Arsenal
+3753981,Premier League,Aston Villa,Crystal Palace
+3753982,Premier League,Leicester City,Southampton
+3753983,Premier League,Swansea City,Arsenal
+3753984,Premier League,Liverpool,West Ham United
+3753985,Premier League,Stoke City,Liverpool
+3753986,Premier League,Liverpool,Stoke City
+3753987,Premier League,Leicester City,Tottenham Hotspur
+3753988,Premier League,AFC Bournemouth,Swansea City
+3753989,Premier League,Sunderland,Everton
+3753990,Premier League,Sunderland,Arsenal
+3753991,Premier League,Liverpool,Manchester City
+3753992,Premier League,Tottenham Hotspur,Southampton
+3753993,Premier League,Sunderland,Norwich City
+3753994,Premier League,Southampton,Crystal Palace
+3753995,Premier League,Chelsea,Southampton
+3753996,Premier League,Chelsea,Norwich City
+3753997,Premier League,West Ham United,Aston Villa
+3753998,Premier League,West Ham United,Southampton
+3753999,Premier League,Watford,Arsenal
+3754000,Premier League,Sunderland,Southampton
+3754001,Premier League,Newcastle United,Chelsea
+3754002,Premier League,Leicester City,Newcastle United
+3754003,Premier League,Manchester United,Liverpool
+3754004,Premier League,AFC Bournemouth,Norwich City
+3754005,Premier League,Stoke City,Newcastle United
+3754006,Premier League,West Bromwich Albion,Leicester City
+3754007,Premier League,Stoke City,West Bromwich Albion
+3754008,Premier League,Manchester United,Sunderland
+3754009,Premier League,Arsenal,Crystal Palace
+3754010,Premier League,Newcastle United,Watford
+3754011,Premier League,Southampton,Manchester United
+3754012,Premier League,Southampton,Chelsea
+3754013,Premier League,Leicester City,Chelsea
+3754014,Premier League,Stoke City,Manchester United
+3754015,Premier League,Manchester United,Manchester City
+3754016,Premier League,Southampton,Newcastle United
+3754017,Premier League,Aston Villa,Swansea City
+3754018,Premier League,Swansea City,Liverpool
+3754019,Premier League,Manchester United,Chelsea
+3754020,Premier League,Liverpool,AFC Bournemouth
+3754021,Premier League,AFC Bournemouth,West Ham United
+3754022,Premier League,Crystal Palace,Norwich City
+3754023,Premier League,AFC Bournemouth,Leicester City
+3754024,Premier League,Newcastle United,Swansea City
+3754025,Premier League,Chelsea,Sunderland
+3754026,Premier League,Crystal Palace,Stoke City
+3754027,Premier League,Tottenham Hotspur,Sunderland
+3754028,Premier League,Manchester City,Southampton
+3754029,Premier League,Tottenham Hotspur,Aston Villa
+3754030,Premier League,Watford,Everton
+3754031,Premier League,Sunderland,Manchester United
+3754032,Premier League,Stoke City,Norwich City
+3754033,Premier League,Leicester City,Everton
+3754034,Premier League,Southampton,Everton
+3754035,Premier League,Manchester City,West Bromwich Albion
+3754036,Premier League,Sunderland,Aston Villa
+3754037,Premier League,Everton,AFC Bournemouth
+3754038,Premier League,Norwich City,Arsenal
+3754039,Premier League,Crystal Palace,Watford
+3754040,Premier League,Liverpool,Norwich City
+3754041,Premier League,Arsenal,Aston Villa
+3754042,Premier League,West Bromwich Albion,Liverpool
+3754043,Premier League,Tottenham Hotspur,AFC Bournemouth
+3754044,Premier League,Manchester United,Norwich City
+3754045,Premier League,Leicester City,Manchester City
+3754046,Premier League,Everton,Crystal Palace
+3754047,Premier League,Liverpool,Swansea City
+3754048,Premier League,Crystal Palace,Everton
+3754049,Premier League,Leicester City,Norwich City
+3754050,Premier League,Sunderland,Crystal Palace
+3754051,Premier League,Watford,Liverpool
+3754052,Premier League,West Bromwich Albion,Norwich City
+3754053,Premier League,Aston Villa,Tottenham Hotspur
+3754054,Premier League,Manchester City,Sunderland
+3754055,Premier League,Liverpool,Chelsea
+3754056,Premier League,Everton,Stoke City
+3754057,Premier League,Tottenham Hotspur,Norwich City
+3754058,Premier League,Leicester City,AFC Bournemouth
+3754059,Premier League,West Bromwich Albion,Chelsea
+3754060,Premier League,Everton,Liverpool
+3754061,Premier League,Chelsea,Stoke City
+3754062,Premier League,Chelsea,West Bromwich Albion
+3754063,Premier League,Watford,Aston Villa
+3754064,Premier League,Southampton,Liverpool
+3754065,Premier League,Tottenham Hotspur,Leicester City
+3754066,Premier League,Manchester City,Chelsea
+3754067,Premier League,Crystal Palace,West Ham United
+3754068,Premier League,Aston Villa,West Bromwich Albion
+3754069,Premier League,Arsenal,Newcastle United
+3754070,Premier League,Aston Villa,Newcastle United
+3754071,Premier League,Swansea City,Sunderland
+3754072,Premier League,Sunderland,Watford
+3754073,Premier League,Chelsea,AFC Bournemouth
+3754074,Premier League,Swansea City,Tottenham Hotspur
+3754075,Premier League,Aston Villa,Chelsea
+3754076,Premier League,Sunderland,West Ham United
+3754077,Premier League,Manchester City,West Ham United
+3754078,Premier League,Chelsea,Swansea City
+3754079,Premier League,Manchester City,Newcastle United
+3754080,Premier League,Tottenham Hotspur,Watford
+3754081,Premier League,West Bromwich Albion,Manchester United
+3754082,Premier League,Everton,Sunderland
+3754083,Premier League,Chelsea,Crystal Palace
+3754084,Premier League,West Bromwich Albion,Aston Villa
+3754085,Premier League,Swansea City,Leicester City
+3754086,Premier League,West Ham United,Watford
+3754087,Premier League,Liverpool,Tottenham Hotspur
+3754088,Premier League,Newcastle United,Manchester United
+3754089,Premier League,Crystal Palace,AFC Bournemouth
+3754090,Premier League,Newcastle United,Stoke City
+3754091,Premier League,Stoke City,Watford
+3754092,Premier League,Chelsea,Tottenham Hotspur
+3754093,Premier League,Tottenham Hotspur,Chelsea
+3754094,Premier League,Manchester United,Stoke City
+3754095,Premier League,Sunderland,Manchester City
+3754096,Premier League,West Ham United,Stoke City
+3754097,Premier League,Manchester United,Tottenham Hotspur
+3754098,Premier League,Chelsea,Liverpool
+3754099,Premier League,Crystal Palace,West Bromwich Albion
+3754100,Premier League,Newcastle United,Sunderland
+3754101,Premier League,Norwich City,Southampton
+3754102,Premier League,Newcastle United,Norwich City
+3754103,Premier League,Watford,Chelsea
+3754104,Premier League,Norwich City,Stoke City
+3754105,Premier League,West Bromwich Albion,Everton
+3754106,Premier League,Leicester City,Aston Villa
+3754107,Premier League,Aston Villa,Manchester United
+3754108,Premier League,Sunderland,Chelsea
+3754109,Premier League,Tottenham Hotspur,West Ham United
+3754110,Premier League,West Ham United,Manchester City
+3754111,Premier League,Arsenal,Chelsea
+3754112,Premier League,Newcastle United,Southampton
+3754113,Premier League,Southampton,Aston Villa
+3754114,Premier League,Crystal Palace,Chelsea
+3754115,Premier League,Chelsea,Aston Villa
+3754116,Premier League,Swansea City,Chelsea
+3754117,Premier League,Aston Villa,Arsenal
+3754118,Premier League,Arsenal,Watford
+3754119,Premier League,Sunderland,Newcastle United
+3754120,Premier League,Southampton,West Ham United
+3754121,Premier League,Watford,AFC Bournemouth
+3754122,Premier League,West Bromwich Albion,Stoke City
+3754123,Premier League,Everton,Norwich City
+3754124,Premier League,Manchester City,Manchester United
+3754125,Premier League,Chelsea,Everton
+3754126,Premier League,Arsenal,Everton
+3754127,Premier League,Stoke City,Everton
+3754128,Premier League,AFC Bournemouth,Aston Villa
+3754129,Premier League,Arsenal,Liverpool
+3754130,Premier League,Norwich City,Aston Villa
+3754131,Premier League,West Ham United,AFC Bournemouth
+3754132,Premier League,Stoke City,Sunderland
+3754133,Premier League,Norwich City,West Bromwich Albion
+3754134,Premier League,West Ham United,Manchester United
+3754135,Premier League,Stoke City,Manchester City
+3754136,Premier League,Newcastle United,Aston Villa
+3754137,Premier League,Everton,Southampton
+3754138,Premier League,Norwich City,Crystal Palace
+3754139,Premier League,Swansea City,Southampton
+3754140,Premier League,Everton,Tottenham Hotspur
+3754141,Premier League,Arsenal,West Ham United
+3754142,Premier League,Manchester City,Everton
+3754143,Premier League,Newcastle United,Liverpool
+3754144,Premier League,AFC Bournemouth,Manchester City
+3754145,Premier League,West Bromwich Albion,Manchester City
+3754146,Premier League,Stoke City,Leicester City
+3754147,Premier League,Manchester City,Tottenham Hotspur
+3754148,Premier League,Sunderland,Tottenham Hotspur
+3754149,Premier League,Swansea City,Manchester City
+3754150,Premier League,Sunderland,Stoke City
+3754151,Premier League,Swansea City,Norwich City
+3754152,Premier League,Sunderland,Leicester City
+3754153,Premier League,Stoke City,Crystal Palace
+3754154,Premier League,Liverpool,Newcastle United
+3754155,Premier League,West Bromwich Albion,Watford
+3754156,Premier League,Leicester City,Watford
+3754157,Premier League,AFC Bournemouth,Everton
+3754158,Premier League,West Ham United,Swansea City
+3754159,Premier League,Manchester United,AFC Bournemouth
+3754160,Premier League,Arsenal,Sunderland
+3754161,Premier League,Swansea City,Watford
+3754162,Premier League,AFC Bournemouth,Manchester United
+3754163,Premier League,Everton,Swansea City
+3754164,Premier League,Southampton,Sunderland
+3754165,Premier League,Manchester United,Leicester City
+3754166,Premier League,Everton,Leicester City
+3754167,Premier League,Manchester City,Norwich City
+3754168,Premier League,Southampton,West Bromwich Albion
+3754169,Premier League,AFC Bournemouth,Sunderland
+3754170,Premier League,Newcastle United,Crystal Palace
+3754171,Premier League,Arsenal,Manchester United
+3754172,Premier League,Norwich City,Sunderland
+3754173,Premier League,Arsenal,AFC Bournemouth
+3754174,Premier League,Leicester City,Arsenal
+3754175,Premier League,Sunderland,West Bromwich Albion
+3754176,Premier League,West Ham United,Crystal Palace
+3754177,Premier League,Newcastle United,AFC Bournemouth
+3754178,Premier League,Aston Villa,Watford
+3754179,Premier League,Crystal Palace,Tottenham Hotspur
+3754180,Premier League,Sunderland,Swansea City
+3754181,Premier League,Crystal Palace,Leicester City
+3754182,Premier League,Norwich City,Everton
+3754183,Premier League,Southampton,Watford
+3754184,Premier League,Arsenal,Norwich City
+3754185,Premier League,Watford,Manchester United
+3754186,Premier League,Leicester City,Manchester United
+3754187,Premier League,Stoke City,Tottenham Hotspur
+3754188,Premier League,Southampton,Tottenham Hotspur
+3754189,Premier League,Watford,Southampton
+3754190,Premier League,Crystal Palace,Aston Villa
+3754191,Premier League,Southampton,AFC Bournemouth
+3754192,Premier League,West Bromwich Albion,West Ham United
+3754193,Premier League,Manchester City,AFC Bournemouth
+3754194,Premier League,West Ham United,Everton
+3754195,Premier League,West Bromwich Albion,Newcastle United
+3754196,Premier League,Stoke City,Southampton
+3754197,Premier League,Tottenham Hotspur,Manchester City
+3754198,Premier League,Tottenham Hotspur,Liverpool
+3754199,Premier League,Stoke City,West Ham United
+3754200,Premier League,Manchester United,Southampton
+3754201,Premier League,Arsenal,Southampton
+3754202,Premier League,Stoke City,Arsenal
+3754203,Premier League,West Ham United,Leicester City
+3754204,Premier League,Aston Villa,Sunderland
+3754205,Premier League,Newcastle United,Arsenal
+3754206,Premier League,Newcastle United,Manchester City
+3754207,Premier League,Norwich City,Watford
+3754208,Premier League,Manchester City,Liverpool
+3754209,Premier League,Tottenham Hotspur,Manchester United
+3754210,Premier League,Norwich City,Manchester United
+3754211,Premier League,Newcastle United,Leicester City
+3754212,Premier League,Liverpool,Aston Villa
+3754213,Premier League,Watford,Swansea City
+3754214,Premier League,Aston Villa,Liverpool
+3754215,Premier League,West Bromwich Albion,Tottenham Hotspur
+3754216,Premier League,AFC Bournemouth,Liverpool
+3754217,Premier League,Chelsea,Arsenal
+3754218,Premier League,Crystal Palace,Southampton
+3754219,Premier League,West Bromwich Albion,AFC Bournemouth
+3754220,Premier League,Crystal Palace,Liverpool
+3754221,Premier League,Swansea City,Manchester United
+3754222,Premier League,Tottenham Hotspur,Crystal Palace
+3754223,Premier League,Crystal Palace,Manchester United
+3754224,Premier League,Swansea City,Aston Villa
+3754225,Premier League,AFC Bournemouth,West Bromwich Albion
+3754226,Premier League,Sunderland,Liverpool
+3754227,Premier League,Leicester City,West Ham United
+3754228,Premier League,Leicester City,Swansea City
+3754229,Premier League,Chelsea,Leicester City
+3754230,Premier League,Liverpool,Southampton
+3754231,Premier League,Leicester City,West Bromwich Albion
+3754232,Premier League,Manchester United,Watford
+3754233,Premier League,Everton,Manchester City
+3754234,Premier League,AFC Bournemouth,Tottenham Hotspur
+3754235,Premier League,West Ham United,West Bromwich Albion
+3754236,Premier League,West Bromwich Albion,Crystal Palace
+3754237,Premier League,Leicester City,Sunderland
+3754238,Premier League,AFC Bournemouth,Newcastle United
+3754239,Premier League,Manchester United,Arsenal
+3754240,Premier League,Arsenal,Stoke City
+3754241,Premier League,West Ham United,Arsenal
+3754242,Premier League,AFC Bournemouth,Chelsea
+3754243,Premier League,Norwich City,Newcastle United
+3754244,Premier League,Norwich City,West Ham United
+3754245,Premier League,West Bromwich Albion,Sunderland
+3754246,Premier League,Manchester City,Watford
+3754247,Premier League,Southampton,Stoke City
+3754248,Premier League,AFC Bournemouth,Crystal Palace
+3754249,Premier League,Manchester City,Aston Villa
+3754250,Premier League,Aston Villa,Leicester City
+3754251,Premier League,West Ham United,Liverpool
+3754252,Premier League,Everton,Newcastle United
+3754253,Premier League,AFC Bournemouth,Arsenal
+3754254,Premier League,Manchester United,Newcastle United
+3754255,Premier League,Liverpool,West Bromwich Albion
+3754256,Premier League,Everton,Manchester United
+3754257,Premier League,Crystal Palace,Manchester City
+3754258,Premier League,Aston Villa,Manchester City
+3754259,Premier League,Swansea City,West Ham United
+3754260,Premier League,Manchester City,Crystal Palace
+3754261,Premier League,Arsenal,Leicester City
+3754262,Premier League,Aston Villa,AFC Bournemouth
+3754263,Premier League,Leicester City,Crystal Palace
+3754264,Premier League,Chelsea,Newcastle United
+3754265,Premier League,Arsenal,Tottenham Hotspur
+3754266,Premier League,Watford,Crystal Palace
+3754267,Premier League,Watford,West Bromwich Albion
+3754268,Premier League,Tottenham Hotspur,Everton
+3754269,Premier League,Swansea City,Stoke City
+3754270,Premier League,Tottenham Hotspur,Stoke City
+3754271,Premier League,Watford,Newcastle United
+3754272,Premier League,Stoke City,Swansea City
+3754273,Premier League,Watford,West Ham United
+3754274,Premier League,AFC Bournemouth,Stoke City
+3754275,Premier League,Leicester City,Liverpool
+3754276,Premier League,Tottenham Hotspur,Newcastle United
+3754277,Premier League,Everton,West Ham United
+3754278,Premier League,AFC Bournemouth,Watford
+3754279,Premier League,Swansea City,West Bromwich Albion
+3754280,Premier League,Norwich City,Chelsea
+3754281,Premier League,Chelsea,Manchester United
+3754282,Premier League,Aston Villa,Southampton
+3754283,Premier League,Everton,Aston Villa
+3754284,Premier League,Arsenal,West Bromwich Albion
+3754285,Premier League,Aston Villa,West Ham United
+3754286,Premier League,Watford,Norwich City
+3754287,Premier League,Chelsea,Watford
+3754288,Premier League,West Ham United,Chelsea
+3754289,Premier League,Watford,Leicester City
+3754290,Premier League,Manchester City,Leicester City
+3754291,Premier League,Watford,Tottenham Hotspur
+3754292,Premier League,Newcastle United,West Bromwich Albion
+3754293,Premier League,Stoke City,Chelsea
+3754294,Premier League,Liverpool,Everton
+3754295,Premier League,Manchester United,Aston Villa
+3754296,Premier League,Arsenal,Manchester City
+3754297,Premier League,Manchester United,West Bromwich Albion
+3754298,Premier League,Swansea City,Everton
+3754299,Premier League,Manchester United,Everton
+3754300,Premier League,Everton,Watford
+3754301,Premier League,West Bromwich Albion,Arsenal
+3754302,Premier League,Southampton,Leicester City
+3754303,Premier League,Swansea City,Crystal Palace
+3754304,Premier League,Crystal Palace,Newcastle United
+3754305,Premier League,Liverpool,Arsenal
+3754306,Premier League,Aston Villa,Norwich City
+3754307,Premier League,Manchester City,Stoke City
+3754308,Premier League,Watford,Sunderland
+3754309,Premier League,Southampton,Arsenal
+3754310,Premier League,Manchester United,Crystal Palace
+3754311,Premier League,Norwich City,Swansea City
+3754312,Premier League,Crystal Palace,Arsenal
+3754313,Premier League,Norwich City,Manchester City
+3754314,Premier League,Manchester City,Arsenal
+3754315,Premier League,Norwich City,AFC Bournemouth
+3754316,Premier League,Liverpool,Sunderland
+3754317,Premier League,Norwich City,Tottenham Hotspur
+3754318,Premier League,Tottenham Hotspur,Arsenal
+3754319,Premier League,Manchester United,Swansea City
+3754320,Premier League,Southampton,Manchester City
+3754321,Premier League,Stoke City,Aston Villa
+3754322,Premier League,Chelsea,Manchester City
+3754323,Premier League,West Ham United,Norwich City
+3754324,Premier League,Tottenham Hotspur,Swansea City
+3754325,Premier League,West Bromwich Albion,Southampton
+3754326,Premier League,Crystal Palace,Swansea City
+3754327,Premier League,Aston Villa,Everton
+3754328,Premier League,Manchester City,Swansea City
+3754329,Premier League,West Ham United,Newcastle United
+3754330,Premier League,Aston Villa,Stoke City
+3754331,Premier League,West Ham United,Sunderland
+3754332,Premier League,Tottenham Hotspur,West Bromwich Albion
+3754333,Premier League,Newcastle United,Tottenham Hotspur
+3754334,Premier League,AFC Bournemouth,Southampton
+3754335,Premier League,Norwich City,Leicester City
+3754336,Premier League,Everton,Chelsea
+3754337,Premier League,Southampton,Norwich City
+3754338,Premier League,Newcastle United,West Ham United
+3754339,Premier League,Stoke City,AFC Bournemouth
+3754340,Premier League,West Bromwich Albion,Swansea City
+3754341,Premier League,Leicester City,Stoke City
+3754342,Premier League,Liverpool,Watford
+3754343,Premier League,Liverpool,Leicester City
+3754344,Premier League,Swansea City,Newcastle United
+3754345,Premier League,Liverpool,Manchester United
+3754346,Premier League,Watford,Manchester City
+3754347,Premier League,Manchester United,West Ham United
+3754348,Premier League,Norwich City,Liverpool
+3754349,Premier League,West Ham United,Tottenham Hotspur
+3754350,Premier League,Everton,West Bromwich Albion
+3754351,Premier League,Liverpool,Crystal Palace
+3878540,Serie A,Lazio,Bologna
+3878541,Serie A,Hellas Verona,AS Roma
+3878542,Serie A,Fiorentina,AC Milan
+3878543,Serie A,Inter Milan,Atalanta
+3878544,Serie A,Palermo,Genoa
+3878545,Serie A,Sampdoria,Carpi
+3878546,Serie A,Sassuolo,Napoli
+3878547,Serie A,Frosinone,Torino
+3878548,Serie A,Juventus,Udinese
+3878549,Serie A,Empoli,Chievo
+3878550,Serie A,Bologna,Sassuolo
+3878551,Serie A,AC Milan,Empoli
+3878552,Serie A,Carpi,Inter Milan
+3878553,Serie A,Chievo,Lazio
+3878554,Serie A,Genoa,Hellas Verona
+3878555,Serie A,AS Roma,Juventus
+3878556,Serie A,Torino,Fiorentina
+3878557,Serie A,Udinese,Palermo
+3878558,Serie A,Napoli,Sampdoria
+3878559,Serie A,Atalanta,Frosinone
+3878592,Serie A,Fiorentina,Genoa
+3878593,Serie A,Frosinone,AS Roma
+3878594,Serie A,Juventus,Chievo
+3878595,Serie A,Lazio,Udinese
+3878596,Serie A,Hellas Verona,Torino
+3878597,Serie A,Empoli,Napoli
+3878598,Serie A,Palermo,Carpi
+3878599,Serie A,Sassuolo,Atalanta
+3878600,Serie A,Inter Milan,AC Milan
+3878601,Serie A,Sampdoria,Bologna
+3878602,Serie A,AC Milan,Palermo
+3878603,Serie A,Udinese,Empoli
+3878604,Serie A,Napoli,Lazio
+3878605,Serie A,Carpi,Fiorentina
+3878606,Serie A,Torino,Sampdoria
+3878607,Serie A,AS Roma,Sassuolo
+3878608,Serie A,Bologna,Frosinone
+3878609,Serie A,Genoa,Juventus
+3878610,Serie A,Atalanta,Hellas Verona
+3878611,Serie A,Chievo,Inter Milan
+3879537,Serie A,Udinese,AC Milan
+3879538,Serie A,Lazio,Genoa
+3879539,Serie A,Carpi,Napoli
+3879540,Serie A,Chievo,Torino
+3879541,Serie A,Fiorentina,Bologna
+3879542,Serie A,Inter Milan,Hellas Verona
+3879543,Serie A,Juventus,Frosinone
+3879544,Serie A,Palermo,Sassuolo
+3879545,Serie A,Sampdoria,AS Roma
+3879546,Serie A,Empoli,Atalanta
+3879547,Serie A,AS Roma,Carpi
+3879548,Serie A,Napoli,Juventus
+3879549,Serie A,Genoa,AC Milan
+3879550,Serie A,Inter Milan,Fiorentina
+3879551,Serie A,Hellas Verona,Lazio
+3879552,Serie A,Bologna,Udinese
+3879553,Serie A,Sassuolo,Chievo
+3879554,Serie A,Torino,Palermo
+3879555,Serie A,Atalanta,Sampdoria
+3879556,Serie A,Frosinone,Empoli
+3879557,Serie A,Chievo,Hellas Verona
+3879558,Serie A,Carpi,Torino
+3879559,Serie A,Juventus,Bologna
+3879560,Serie A,Lazio,Frosinone
+3879561,Serie A,Fiorentina,Atalanta
+3879562,Serie A,AC Milan,Napoli
+3879563,Serie A,Empoli,Sassuolo
+3879564,Serie A,Palermo,AS Roma
+3879565,Serie A,Sampdoria,Inter Milan
+3879566,Serie A,Udinese,Genoa
+3879567,Serie A,AS Roma,Empoli
+3879568,Serie A,Torino,AC Milan
+3879569,Serie A,Bologna,Palermo
+3879570,Serie A,Genoa,Chievo
+3879571,Serie A,Atalanta,Carpi
+3879572,Serie A,Napoli,Fiorentina
+3879573,Serie A,Sassuolo,Lazio
+3879574,Serie A,Inter Milan,Juventus
+3879575,Serie A,Hellas Verona,Udinese
+3879576,Serie A,Frosinone,Sampdoria
+3879577,Serie A,Empoli,Genoa
+3879578,Serie A,Carpi,Bologna
+3879579,Serie A,Palermo,Inter Milan
+3879580,Serie A,Juventus,Atalanta
+3879581,Serie A,Chievo,Napoli
+3879582,Serie A,Lazio,Torino
+3879583,Serie A,Fiorentina,AS Roma
+3879584,Serie A,Udinese,Frosinone
+3879585,Serie A,AC Milan,Sassuolo
+3879586,Serie A,Sampdoria,Hellas Verona
+3879587,Serie A,Bologna,Inter Milan
+3879588,Serie A,Atalanta,Lazio
+3879589,Serie A,Frosinone,Carpi
+3879590,Serie A,Torino,Genoa
+3879591,Serie A,Sassuolo,Juventus
+3879592,Serie A,AS Roma,Udinese
+3879593,Serie A,Napoli,Palermo
+3879594,Serie A,AC Milan,Chievo
+3879595,Serie A,Hellas Verona,Fiorentina
+3879596,Serie A,Sampdoria,Empoli
+3879597,Serie A,Juventus,Torino
+3879598,Serie A,Inter Milan,AS Roma
+3879599,Serie A,Lazio,AC Milan
+3879600,Serie A,Carpi,Hellas Verona
+3879601,Serie A,Bologna,Atalanta
+3879602,Serie A,Fiorentina,Frosinone
+3879603,Serie A,Udinese,Sassuolo
+3879604,Serie A,Genoa,Napoli
+3879605,Serie A,Palermo,Empoli
+3879606,Serie A,Chievo,Sampdoria
+3879607,Serie A,AC Milan,Atalanta
+3879608,Serie A,Hellas Verona,Bologna
+3879609,Serie A,Napoli,Udinese
+3879610,Serie A,AS Roma,Lazio
+3879611,Serie A,Palermo,Chievo
+3879612,Serie A,Frosinone,Genoa
+3879613,Serie A,Empoli,Juventus
+3879614,Serie A,Torino,Inter Milan
+3879615,Serie A,Sassuolo,Carpi
+3879616,Serie A,Sampdoria,Fiorentina
+3879617,Serie A,Bologna,AS Roma
+3879618,Serie A,Juventus,AC Milan
+3879619,Serie A,Genoa,Sassuolo
+3879620,Serie A,Hellas Verona,Napoli
+3879621,Serie A,Atalanta,Torino
+3879622,Serie A,Carpi,Chievo
+3879623,Serie A,Fiorentina,Empoli
+3879624,Serie A,Lazio,Palermo
+3879625,Serie A,Udinese,Sampdoria
+3879626,Serie A,Inter Milan,Frosinone
+3879627,Serie A,Torino,Bologna
+3879628,Serie A,AC Milan,Sampdoria
+3879629,Serie A,Frosinone,Hellas Verona
+3879630,Serie A,Palermo,Juventus
+3879631,Serie A,Chievo,Udinese
+3879632,Serie A,AS Roma,Atalanta
+3879633,Serie A,Empoli,Lazio
+3879634,Serie A,Genoa,Carpi
+3879635,Serie A,Napoli,Inter Milan
+3879636,Serie A,Sassuolo,Fiorentina
+3879637,Serie A,Lazio,Juventus
+3879638,Serie A,Inter Milan,Genoa
+3879639,Serie A,Torino,AS Roma
+3879640,Serie A,Frosinone,Chievo
+3879641,Serie A,Hellas Verona,Empoli
+3879642,Serie A,Carpi,AC Milan
+3879643,Serie A,Sampdoria,Sassuolo
+3879644,Serie A,Atalanta,Palermo
+3879645,Serie A,Bologna,Napoli
+3879646,Serie A,Fiorentina,Udinese
+3879647,Serie A,Genoa,Bologna
+3879648,Serie A,Udinese,Inter Milan
+3879649,Serie A,Palermo,Frosinone
+3879650,Serie A,Empoli,Carpi
+3879651,Serie A,Napoli,AS Roma
+3879652,Serie A,AC Milan,Hellas Verona
+3879653,Serie A,Juventus,Fiorentina
+3879654,Serie A,Chievo,Atalanta
+3879655,Serie A,Lazio,Sampdoria
+3879656,Serie A,Bologna,Empoli
+3879657,Serie A,AS Roma,Genoa
+3879658,Serie A,Torino,Udinese
+3879659,Serie A,Inter Milan,Lazio
+3879660,Serie A,Carpi,Juventus
+3879661,Serie A,Atalanta,Napoli
+3879662,Serie A,Fiorentina,Chievo
+3879663,Serie A,Hellas Verona,Sassuolo
+3879664,Serie A,Sampdoria,Palermo
+3879665,Serie A,Frosinone,AC Milan
+3879666,Serie A,Genoa,Sampdoria
+3879667,Serie A,Sassuolo,Frosinone
+3879668,Serie A,Empoli,Inter Milan
+3879669,Serie A,Napoli,Torino
+3879670,Serie A,Juventus,Hellas Verona
+3879671,Serie A,Palermo,Fiorentina
+3879672,Serie A,Chievo,AS Roma
+3879673,Serie A,Udinese,Atalanta
+3879674,Serie A,AC Milan,Bologna
+3879675,Serie A,Lazio,Carpi
+3879676,Serie A,AS Roma,AC Milan
+3879677,Serie A,Fiorentina,Lazio
+3879678,Serie A,Carpi,Udinese
+3879679,Serie A,Frosinone,Napoli
+3879680,Serie A,Bologna,Chievo
+3879681,Serie A,Inter Milan,Sassuolo
+3879682,Serie A,Torino,Empoli
+3879683,Serie A,Hellas Verona,Palermo
+3879684,Serie A,Sampdoria,Juventus
+3879685,Serie A,Atalanta,Genoa
+3879686,Serie A,Napoli,Sassuolo
+3879687,Serie A,Torino,Frosinone
+3879688,Serie A,Atalanta,Inter Milan
+3879689,Serie A,Carpi,Sampdoria
+3879690,Serie A,AC Milan,Fiorentina
+3879691,Serie A,AS Roma,Hellas Verona
+3879692,Serie A,Chievo,Empoli
+3879693,Serie A,Udinese,Juventus
+3879694,Serie A,Bologna,Lazio
+3879695,Serie A,Genoa,Palermo
+3879696,Serie A,Sassuolo,Torino
+3879697,Serie A,Frosinone,Atalanta
+3879698,Serie A,Empoli,AC Milan
+3879699,Serie A,Sampdoria,Napoli
+3879700,Serie A,Palermo,Udinese
+3879701,Serie A,Juventus,AS Roma
+3879702,Serie A,Hellas Verona,Genoa
+3879703,Serie A,Lazio,Chievo
+3879704,Serie A,Inter Milan,Carpi
+3879705,Serie A,Sassuolo,Bologna
+3879706,Serie A,Fiorentina,Torino
+3879707,Serie A,AS Roma,Frosinone
+3879708,Serie A,Atalanta,Sassuolo
+3879709,Serie A,Carpi,Palermo
+3879710,Serie A,Bologna,Sampdoria
+3879711,Serie A,Udinese,Lazio
+3879712,Serie A,AC Milan,Inter Milan
+3879713,Serie A,Chievo,Juventus
+3879714,Serie A,Napoli,Empoli
+3879715,Serie A,Torino,Hellas Verona
+3879716,Serie A,Genoa,Fiorentina
+3879717,Serie A,Sassuolo,AS Roma
+3879718,Serie A,Empoli,Udinese
+3879719,Serie A,Sampdoria,Torino
+3879720,Serie A,Lazio,Napoli
+3879721,Serie A,Palermo,AC Milan
+3879722,Serie A,Hellas Verona,Atalanta
+3879723,Serie A,Inter Milan,Chievo
+3879724,Serie A,Fiorentina,Carpi
+3879725,Serie A,Frosinone,Bologna
+3879726,Serie A,Juventus,Genoa
+3879727,Serie A,Genoa,Lazio
+3879728,Serie A,Bologna,Fiorentina
+3879729,Serie A,Sassuolo,Palermo
+3879730,Serie A,Hellas Verona,Inter Milan
+3879731,Serie A,Napoli,Carpi
+3879732,Serie A,Torino,Chievo
+3879733,Serie A,Frosinone,Juventus
+3879734,Serie A,AC Milan,Udinese
+3879735,Serie A,Atalanta,Empoli
+3879736,Serie A,AS Roma,Sampdoria
+3879737,Serie A,Lazio,Hellas Verona
+3879738,Serie A,Carpi,AS Roma
+3879739,Serie A,Juventus,Napoli
+3879740,Serie A,Empoli,Frosinone
+3879741,Serie A,Chievo,Sassuolo
+3879742,Serie A,AC Milan,Genoa
+3879743,Serie A,Udinese,Bologna
+3879744,Serie A,Sampdoria,Atalanta
+3879745,Serie A,Palermo,Torino
+3879746,Serie A,Fiorentina,Inter Milan
+3879747,Serie A,Bologna,Juventus
+3879748,Serie A,Hellas Verona,Chievo
+3879749,Serie A,Inter Milan,Sampdoria
+3879750,Serie A,Atalanta,Fiorentina
+3879751,Serie A,AS Roma,Palermo
+3879752,Serie A,Genoa,Udinese
+3879753,Serie A,Sassuolo,Empoli
+3879754,Serie A,Torino,Carpi
+3879755,Serie A,Frosinone,Lazio
+3879756,Serie A,Napoli,AC Milan
+3879757,Serie A,Empoli,AS Roma
+3879758,Serie A,AC Milan,Torino
+3879759,Serie A,Juventus,Inter Milan
+3879760,Serie A,Palermo,Bologna
+3879761,Serie A,Carpi,Atalanta
+3879762,Serie A,Udinese,Hellas Verona
+3879763,Serie A,Sampdoria,Frosinone
+3879764,Serie A,Chievo,Genoa
+3879765,Serie A,Fiorentina,Napoli
+3879766,Serie A,Lazio,Sassuolo
+3879767,Serie A,AS Roma,Fiorentina
+3879768,Serie A,Hellas Verona,Sampdoria
+3879769,Serie A,Napoli,Chievo
+3879770,Serie A,Atalanta,Juventus
+3879771,Serie A,Sassuolo,AC Milan
+3879772,Serie A,Torino,Lazio
+3879773,Serie A,Frosinone,Udinese
+3879774,Serie A,Inter Milan,Palermo
+3879775,Serie A,Genoa,Empoli
+3879776,Serie A,Bologna,Carpi
+3879777,Serie A,Juventus,Sassuolo
+3879778,Serie A,Empoli,Sampdoria
+3879779,Serie A,Inter Milan,Bologna
+3879780,Serie A,Fiorentina,Hellas Verona
+3879781,Serie A,Chievo,AC Milan
+3879782,Serie A,Carpi,Frosinone
+3879783,Serie A,Udinese,AS Roma
+3879784,Serie A,Genoa,Torino
+3879785,Serie A,Lazio,Atalanta
+3879786,Serie A,Palermo,Napoli
+3879787,Serie A,AS Roma,Inter Milan
+3879788,Serie A,Empoli,Palermo
+3879789,Serie A,Frosinone,Fiorentina
+3879790,Serie A,Torino,Juventus
+3879791,Serie A,AC Milan,Lazio
+3879792,Serie A,Sampdoria,Chievo
+3879793,Serie A,Sassuolo,Udinese
+3879794,Serie A,Atalanta,Bologna
+3879795,Serie A,Hellas Verona,Carpi
+3879796,Serie A,Napoli,Genoa
+3879797,Serie A,Carpi,Sassuolo
+3879798,Serie A,Juventus,Empoli
+3879799,Serie A,Lazio,AS Roma
+3879800,Serie A,Fiorentina,Sampdoria
+3879801,Serie A,Inter Milan,Torino
+3879802,Serie A,Chievo,Palermo
+3879803,Serie A,Udinese,Napoli
+3879804,Serie A,Genoa,Frosinone
+3879805,Serie A,Atalanta,AC Milan
+3879806,Serie A,Bologna,Hellas Verona
+3879807,Serie A,Chievo,Carpi
+3879808,Serie A,Frosinone,Inter Milan
+3879809,Serie A,Sassuolo,Genoa
+3879810,Serie A,AC Milan,Juventus
+3879811,Serie A,Napoli,Hellas Verona
+3879812,Serie A,Palermo,Lazio
+3879813,Serie A,Sampdoria,Udinese
+3879814,Serie A,Empoli,Fiorentina
+3879815,Serie A,Torino,Atalanta
+3879816,Serie A,AS Roma,Bologna
+3879817,Serie A,Inter Milan,Napoli
+3879818,Serie A,Bologna,Torino
+3879819,Serie A,Carpi,Genoa
+3879820,Serie A,Juventus,Palermo
+3879821,Serie A,Fiorentina,Sassuolo
+3879822,Serie A,Udinese,Chievo
+3879823,Serie A,Atalanta,AS Roma
+3879824,Serie A,Sampdoria,AC Milan
+3879825,Serie A,Lazio,Empoli
+3879826,Serie A,Hellas Verona,Frosinone
+3879827,Serie A,Napoli,Bologna
+3879828,Serie A,AS Roma,Torino
+3879829,Serie A,Empoli,Hellas Verona
+3879830,Serie A,Genoa,Inter Milan
+3879831,Serie A,Sassuolo,Sampdoria
+3879832,Serie A,Palermo,Atalanta
+3879833,Serie A,Juventus,Lazio
+3879834,Serie A,Udinese,Fiorentina
+3879835,Serie A,Chievo,Frosinone
+3879836,Serie A,AC Milan,Carpi
+3879837,Serie A,Inter Milan,Udinese
+3879838,Serie A,Sampdoria,Lazio
+3879839,Serie A,Fiorentina,Juventus
+3879840,Serie A,Bologna,Genoa
+3879841,Serie A,Frosinone,Palermo
+3879842,Serie A,Atalanta,Chievo
+3879843,Serie A,Torino,Sassuolo
+3879844,Serie A,Carpi,Empoli
+3879845,Serie A,AS Roma,Napoli
+3879846,Serie A,Hellas Verona,AC Milan
+3879847,Serie A,Udinese,Torino
+3879848,Serie A,Chievo,Fiorentina
+3879849,Serie A,Empoli,Bologna
+3879850,Serie A,Juventus,Carpi
+3879851,Serie A,AC Milan,Frosinone
+3879852,Serie A,Palermo,Sampdoria
+3879853,Serie A,Lazio,Inter Milan
+3879854,Serie A,Sassuolo,Hellas Verona
+3879855,Serie A,Napoli,Atalanta
+3879856,Serie A,Genoa,AS Roma
+3879857,Serie A,Inter Milan,Empoli
+3879858,Serie A,Bologna,AC Milan
+3879859,Serie A,Carpi,Lazio
+3879860,Serie A,Fiorentina,Palermo
+3879861,Serie A,Frosinone,Sassuolo
+3879862,Serie A,Torino,Napoli
+3879863,Serie A,Atalanta,Udinese
+3879864,Serie A,Hellas Verona,Juventus
+3879865,Serie A,Sampdoria,Genoa
+3879866,Serie A,AS Roma,Chievo
+3879867,Serie A,Napoli,Frosinone
+3879868,Serie A,Sassuolo,Inter Milan
+3879869,Serie A,AC Milan,AS Roma
+3879870,Serie A,Juventus,Sampdoria
+3879871,Serie A,Udinese,Carpi
+3879872,Serie A,Chievo,Bologna
+3879873,Serie A,Empoli,Torino
+3879874,Serie A,Lazio,Fiorentina
+3879875,Serie A,Palermo,Hellas Verona
+3879876,Serie A,Genoa,Atalanta

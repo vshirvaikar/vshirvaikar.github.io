@@ -1,0 +1,1824 @@
+match_id,league,team1,team2,score1,score2,xg1,xg2
+3890259,1. Bundesliga,Bayern Munich,Hamburger SV,5,0,2.2385948494,0.0838352758
+3890260,1. Bundesliga,Bayer Leverkusen,Hoffenheim,2,1,3.439320725,0.523961415
+3890261,1. Bundesliga,Borussia Dortmund,Borussia Mönchengladbach,4,0,1.973242468,0.242150647
+3890262,1. Bundesliga,Darmstadt 98,Hannover 96,2,1,1.77063047,1.654869524
+3890263,1. Bundesliga,FSV Mainz 05,Ingolstadt,0,1,0.615812916,0.7430165566
+3890264,1. Bundesliga,Werder Bremen,Schalke 04,0,3,0.9867010097,1.28252846
+3890265,1. Bundesliga,Augsburg,Hertha Berlin,0,1,1.806689805,1.301326826
+3890266,1. Bundesliga,VfB Stuttgart,FC Köln,1,3,2.38007908,2.219708284
+3890267,1. Bundesliga,Wolfsburg,Eintracht Frankfurt,2,1,0.91179878,0.964066049
+3890268,1. Bundesliga,Hertha Berlin,Werder Bremen,1,1,0.8749658309999999,0.82974801
+3890269,1. Bundesliga,Hamburger SV,VfB Stuttgart,3,2,1.4113760160000002,1.7755391123000002
+3890270,1. Bundesliga,Hoffenheim,Bayern Munich,1,2,1.5867891969999999,3.269656093
+3890271,1. Bundesliga,Schalke 04,Darmstadt 98,1,1,1.4374198065,0.9603636580000001
+3890272,1. Bundesliga,Eintracht Frankfurt,Augsburg,1,1,1.3066811064000001,1.246389725
+3890273,1. Bundesliga,Hannover 96,Bayer Leverkusen,0,1,0.12731890499999998,0.922819623
+3890274,1. Bundesliga,FC Köln,Wolfsburg,1,1,1.608826598,2.573894027
+3890275,1. Bundesliga,Ingolstadt,Borussia Dortmund,0,4,0.076810196,3.2094262369999997
+3890276,1. Bundesliga,Borussia Mönchengladbach,FSV Mainz 05,1,2,1.2665299606,1.3246248443
+3890277,1. Bundesliga,Wolfsburg,Schalke 04,3,0,1.271138875,0.8355335287000001
+3890278,1. Bundesliga,Bayern Munich,Bayer Leverkusen,3,0,2.923130628,0.551974797
+3890279,1. Bundesliga,VfB Stuttgart,Eintracht Frankfurt,1,4,2.406728665,1.8158646
+3890280,1. Bundesliga,FC Köln,Hamburger SV,2,1,1.62854302,1.1011210325
+3890281,1. Bundesliga,Augsburg,Ingolstadt,0,1,0.8081518462,0.7613422265
+3890282,1. Bundesliga,FSV Mainz 05,Hannover 96,3,0,3.88205889,0.783251504
+3890283,1. Bundesliga,Darmstadt 98,Hoffenheim,0,0,0.282383901,1.570604086
+3890284,1. Bundesliga,Borussia Dortmund,Hertha Berlin,3,1,2.822856999,1.1850745699999998
+3890285,1. Bundesliga,Werder Bremen,Borussia Mönchengladbach,2,1,2.957744398,0.5572042190000001
+3890286,1. Bundesliga,Borussia Mönchengladbach,Hamburger SV,0,3,0.48682357860000003,1.1927194790000002
+3890287,1. Bundesliga,Bayern Munich,Augsburg,2,1,3.8242880631,0.157899712
+3890288,1. Bundesliga,Bayer Leverkusen,Darmstadt 98,0,1,1.433242406,0.3345079974
+3890289,1. Bundesliga,Eintracht Frankfurt,FC Köln,6,2,1.922778693,1.0060813453
+3890290,1. Bundesliga,Hertha Berlin,VfB Stuttgart,2,1,1.153075444,1.0504346390000001
+3890291,1. Bundesliga,Ingolstadt,Wolfsburg,0,0,0.14025478,1.0379444997
+3890292,1. Bundesliga,Hannover 96,Borussia Dortmund,2,3,1.11224378,2.199345088
+3890293,1. Bundesliga,Schalke 04,FSV Mainz 05,2,1,2.7896980713,2.445661258
+3890294,1. Bundesliga,Hoffenheim,Werder Bremen,1,3,0.5779428403000001,1.522135671
+3890295,1. Bundesliga,FSV Mainz 05,Hoffenheim,3,1,1.278697218,1.3896419277
+3890296,1. Bundesliga,Darmstadt 98,Bayern Munich,0,3,0.346549617,1.702588545
+3890297,1. Bundesliga,Hamburger SV,Eintracht Frankfurt,0,0,0.782163522,0.451243199
+3890298,1. Bundesliga,Wolfsburg,Hertha Berlin,2,0,2.402847798,0.405547746
+3890299,1. Bundesliga,FC Köln,Borussia Mönchengladbach,1,0,0.735951822,0.3764425306
+3890300,1. Bundesliga,Werder Bremen,Ingolstadt,0,1,1.4439282310000001,1.3959783386
+3890301,1. Bundesliga,Borussia Dortmund,Bayer Leverkusen,3,0,3.157727622,0.7846147424
+3890302,1. Bundesliga,Augsburg,Hannover 96,2,0,1.9617115164,0.6814563143
+3890303,1. Bundesliga,VfB Stuttgart,Schalke 04,0,1,2.906899026,1.3078554009999999
+3890304,1. Bundesliga,Ingolstadt,Hamburger SV,0,1,0.5903634234,1.273011822
+3890305,1. Bundesliga,Bayern Munich,Wolfsburg,5,1,2.836724871,0.1934904961
+3890306,1. Bundesliga,Hertha Berlin,FC Köln,2,0,1.631689216,1.299442499
+3890307,1. Bundesliga,Darmstadt 98,Werder Bremen,2,1,1.68130724,0.965855614
+3890308,1. Bundesliga,Borussia Mönchengladbach,Augsburg,4,2,1.740930461,1.919509311
+3890309,1. Bundesliga,Hannover 96,VfB Stuttgart,1,3,0.888088932,2.0821718479999998
+3890310,1. Bundesliga,Hoffenheim,Borussia Dortmund,1,1,1.1904629333,1.827485274
+3890311,1. Bundesliga,Schalke 04,Eintracht Frankfurt,2,0,1.5849562985,1.6636081315
+3890312,1. Bundesliga,Bayer Leverkusen,FSV Mainz 05,1,0,1.4943255796000001,0.40785679999999996
+3890313,1. Bundesliga,FC Köln,Ingolstadt,1,1,1.033753424,0.6016193643
+3890314,1. Bundesliga,Augsburg,Hoffenheim,1,3,1.7428469777,1.515654039
+3890315,1. Bundesliga,Werder Bremen,Bayer Leverkusen,0,3,0.459348833,1.0894856128
+3890316,1. Bundesliga,FSV Mainz 05,Bayern Munich,0,3,0.516536055,3.1481839406
+3890317,1. Bundesliga,Hamburger SV,Schalke 04,0,1,0.6483982764999999,1.42432648
+3890318,1. Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,1,3,2.3708388385,0.7868752489999999
+3890319,1. Bundesliga,Wolfsburg,Hannover 96,1,1,1.4360242038,0.523992546
+3890320,1. Bundesliga,Eintracht Frankfurt,Hertha Berlin,1,1,1.28286821,1.552944702
+3890321,1. Bundesliga,Borussia Dortmund,Darmstadt 98,2,2,2.4636512555000003,0.3154533003
+3890322,1. Bundesliga,Darmstadt 98,FSV Mainz 05,2,3,1.9649011779999999,1.634351134
+3890323,1. Bundesliga,Borussia Mönchengladbach,Wolfsburg,2,0,1.426792336,0.579322601
+3890324,1. Bundesliga,Hertha Berlin,Hamburger SV,3,0,2.021465219,0.495238156
+3890325,1. Bundesliga,Hannover 96,Werder Bremen,1,0,0.764178652,1.255979725
+3890326,1. Bundesliga,Ingolstadt,Eintracht Frankfurt,2,0,1.657632332,0.6605919464
+3890327,1. Bundesliga,Hoffenheim,VfB Stuttgart,2,2,1.587110097,1.792167571
+3890328,1. Bundesliga,Schalke 04,FC Köln,0,3,0.915915552,1.082642917
+3890329,1. Bundesliga,Bayern Munich,Borussia Dortmund,5,1,3.5797219606999997,1.549803499
+3890330,1. Bundesliga,Bayer Leverkusen,Augsburg,1,1,2.551731347,0.055498986
+3890331,1. Bundesliga,FSV Mainz 05,Borussia Dortmund,0,2,1.235158652,3.755273049
+3890332,1. Bundesliga,Werder Bremen,Bayern Munich,0,1,0.850652404,1.8755478380000001
+3890333,1. Bundesliga,Augsburg,Darmstadt 98,0,2,1.210735174,1.955174508
+3890334,1. Bundesliga,Eintracht Frankfurt,Borussia Mönchengladbach,1,5,1.0062232247,3.689561299
+3890335,1. Bundesliga,Wolfsburg,Hoffenheim,4,2,2.4022592715,0.939318307
+3890336,1. Bundesliga,Schalke 04,Hertha Berlin,2,1,1.5938553839999998,0.520455877
+3890337,1. Bundesliga,Hamburger SV,Bayer Leverkusen,0,0,0.41532530300000003,0.755120058
+3890338,1. Bundesliga,VfB Stuttgart,Ingolstadt,1,0,1.3287314925,1.8661245007999998
+3890339,1. Bundesliga,FC Köln,Hannover 96,0,1,1.462705909,1.14009748
+3890340,1. Bundesliga,Hoffenheim,Hamburger SV,0,1,0.7225691017,2.2001780568
+3890341,1. Bundesliga,Bayern Munich,FC Köln,4,0,3.660628713,0.182453062
+3890342,1. Bundesliga,Darmstadt 98,Wolfsburg,0,1,0.4633764486,1.2160248103
+3890343,1. Bundesliga,Ingolstadt,Hertha Berlin,0,1,0.878346148,0.869740588
+3890344,1. Bundesliga,FSV Mainz 05,Werder Bremen,1,3,1.7521579649999999,2.071160215
+3890345,1. Bundesliga,Hannover 96,Eintracht Frankfurt,1,2,0.6500735390000001,0.7915138656
+3890346,1. Bundesliga,Bayer Leverkusen,VfB Stuttgart,4,3,2.96329161,1.790840584
+3890347,1. Bundesliga,Borussia Dortmund,Augsburg,5,1,4.028479287,0.40094397
+3890348,1. Bundesliga,Borussia Mönchengladbach,Schalke 04,3,1,1.76322411,0.5542684745
+3890349,1. Bundesliga,Eintracht Frankfurt,Bayern Munich,0,0,0.43722537,1.473892872
+3890350,1. Bundesliga,Wolfsburg,Bayer Leverkusen,2,1,1.9862431546,1.0155034637
+3890351,1. Bundesliga,Hertha Berlin,Borussia Mönchengladbach,1,4,2.2044779255,1.235507297
+3890352,1. Bundesliga,FC Köln,Hoffenheim,0,0,1.534643262,1.1254412010000001
+3890353,1. Bundesliga,Werder Bremen,Borussia Dortmund,1,3,1.3308466105,3.12545774
+3890354,1. Bundesliga,Augsburg,FSV Mainz 05,3,3,2.8406530385,2.1265768772
+3890355,1. Bundesliga,Schalke 04,Ingolstadt,1,1,1.073690162,0.283861339
+3890356,1. Bundesliga,Hamburger SV,Hannover 96,1,2,2.5975762060000003,0.9391483654999999
+3890357,1. Bundesliga,VfB Stuttgart,Darmstadt 98,1,0,2.151110377,1.2735283734
+3890358,1. Bundesliga,Hannover 96,Hertha Berlin,1,3,1.273314632,2.2885739689999998
+3890359,1. Bundesliga,Bayer Leverkusen,FC Köln,1,2,0.667584057,1.821247328
+3890360,1. Bundesliga,Darmstadt 98,Hamburger SV,1,1,1.1498305989,1.330811216
+3890361,1. Bundesliga,FSV Mainz 05,Wolfsburg,2,0,1.4155778356,0.231337605
+3890362,1. Bundesliga,Hoffenheim,Eintracht Frankfurt,0,0,0.7172744719999999,1.5692731297
+3890363,1. Bundesliga,Borussia Mönchengladbach,Ingolstadt,0,0,0.9676561402999999,0.877220756
+3890364,1. Bundesliga,Bayern Munich,VfB Stuttgart,4,0,5.0847653442,0.42491515
+3890365,1. Bundesliga,Borussia Dortmund,Schalke 04,3,2,1.647311706,1.4780999245
+3890366,1. Bundesliga,Augsburg,Werder Bremen,1,2,1.5010340934,0.942897843
+3890367,1. Bundesliga,Hamburger SV,Borussia Dortmund,2,1,1.547297761,2.2993067568
+3890368,1. Bundesliga,Wolfsburg,Werder Bremen,6,0,2.9404911925,0.700276865
+3890369,1. Bundesliga,Schalke 04,Bayern Munich,1,3,0.323078937,2.075429379
+3890370,1. Bundesliga,Eintracht Frankfurt,Bayer Leverkusen,1,3,0.898138032,2.046758995
+3890371,1. Bundesliga,FC Köln,FSV Mainz 05,0,0,1.100590004,0.434715194
+3890372,1. Bundesliga,VfB Stuttgart,Augsburg,0,4,0.882228351,2.023465794
+3890373,1. Bundesliga,Borussia Mönchengladbach,Hannover 96,2,1,1.9779015791999999,1.5245743185
+3890374,1. Bundesliga,Ingolstadt,Darmstadt 98,3,1,2.1678445902,0.53013099
+3890375,1. Bundesliga,Hertha Berlin,Hoffenheim,1,0,0.12472461,0.609091322
+3890376,1. Bundesliga,Darmstadt 98,FC Köln,0,0,0.676632737,1.274576941
+3890377,1. Bundesliga,Hoffenheim,Borussia Mönchengladbach,3,3,1.5327231685,1.435138286
+3890378,1. Bundesliga,Bayern Munich,Hertha Berlin,2,0,3.7367588720000002,0.34009863100000004
+3890379,1. Bundesliga,Werder Bremen,Hamburger SV,1,3,1.150027842,1.2854824186
+3890380,1. Bundesliga,Hannover 96,Ingolstadt,4,0,1.057494591,0.3765137204
+3890381,1. Bundesliga,FSV Mainz 05,Eintracht Frankfurt,2,1,1.7227353835,0.8207025142000001
+3890382,1. Bundesliga,Bayer Leverkusen,Schalke 04,0,1,1.6739158490000001,0.850999866
+3890383,1. Bundesliga,Augsburg,Wolfsburg,0,0,1.0467867685,0.7276681535
+3890384,1. Bundesliga,Borussia Dortmund,VfB Stuttgart,3,1,1.8166922620000001,0.968795345
+3890385,1. Bundesliga,Schalke 04,Hannover 96,3,1,2.770772758,0.44246886249999995
+3890386,1. Bundesliga,Hamburger SV,FSV Mainz 05,1,3,1.124661745,0.895213661
+3890387,1. Bundesliga,Borussia Mönchengladbach,Bayern Munich,3,1,1.703955633,2.068263424
+3890388,1. Bundesliga,Wolfsburg,Borussia Dortmund,1,2,1.8650943500000001,2.419492207
+3890389,1. Bundesliga,Ingolstadt,Hoffenheim,1,1,0.46192372,0.8490158215000001
+3890390,1. Bundesliga,Hertha Berlin,Bayer Leverkusen,2,1,1.0117748467,0.968737909
+3890391,1. Bundesliga,FC Köln,Augsburg,0,1,2.273560491,1.837166461
+3890392,1. Bundesliga,VfB Stuttgart,Werder Bremen,1,1,1.1219057399999999,0.8722311036999999
+3890393,1. Bundesliga,Eintracht Frankfurt,Darmstadt 98,0,1,1.180839611,1.645993712
+3890394,1. Bundesliga,FSV Mainz 05,VfB Stuttgart,0,0,0.48930428400000003,0.891664884
+3890395,1. Bundesliga,Bayer Leverkusen,Borussia Mönchengladbach,5,0,2.3223654254,0.438206183
+3890396,1. Bundesliga,Wolfsburg,Hamburger SV,1,1,1.7809960455,0.48342219880000004
+3890397,1. Bundesliga,Hoffenheim,Hannover 96,1,0,1.3787730426,1.4567732310000001
+3890398,1. Bundesliga,Darmstadt 98,Hertha Berlin,0,4,0.524888686,1.9312101899999998
+3890399,1. Bundesliga,Bayern Munich,Ingolstadt,2,0,1.309472143,0.919283019
+3890400,1. Bundesliga,Werder Bremen,FC Köln,1,1,1.4364467506,1.26381201
+3890401,1. Bundesliga,Borussia Dortmund,Eintracht Frankfurt,4,1,5.312835326,0.185625018
+3890402,1. Bundesliga,Augsburg,Schalke 04,2,1,1.0337153909999999,1.222542135
+3890403,1. Bundesliga,Schalke 04,Hoffenheim,1,0,0.986242568,0.893999794
+3890404,1. Bundesliga,Hamburger SV,Augsburg,0,1,1.110670875,1.846175811
+3890405,1. Bundesliga,Eintracht Frankfurt,Werder Bremen,2,1,2.141788278,1.082900845
+3890406,1. Bundesliga,FC Köln,Borussia Dortmund,2,1,0.8817776663,0.5573932084000001
+3890407,1. Bundesliga,Hannover 96,Bayern Munich,0,1,0.3878381913,2.7342647326
+3890408,1. Bundesliga,VfB Stuttgart,Wolfsburg,3,1,1.459546435,1.4277417955
+3890409,1. Bundesliga,Ingolstadt,Bayer Leverkusen,0,1,0.7343143870000001,0.76858379
+3890410,1. Bundesliga,Borussia Mönchengladbach,Darmstadt 98,3,2,1.0513833644,1.868356351
+3890411,1. Bundesliga,Hertha Berlin,FSV Mainz 05,2,0,1.399013439,0.21639449800000002
+3890412,1. Bundesliga,Hamburger SV,Bayern Munich,0,2,0.346461366,2.5020951279999997
+3890413,1. Bundesliga,FC Köln,VfB Stuttgart,1,3,1.6736286325,2.463091034
+3890414,1. Bundesliga,Hertha Berlin,Augsburg,0,0,0.766690885,1.028549352
+3890415,1. Bundesliga,Hoffenheim,Bayer Leverkusen,1,1,1.155050181,2.01279595
+3890416,1. Bundesliga,Ingolstadt,FSV Mainz 05,1,0,1.681270719,0.37698696600000003
+3890417,1. Bundesliga,Borussia Mönchengladbach,Borussia Dortmund,1,3,0.834728692,1.60606172
+3890418,1. Bundesliga,Hannover 96,Darmstadt 98,1,2,1.004659009,2.3364409454
+3890419,1. Bundesliga,Schalke 04,Werder Bremen,1,3,1.9346213015,1.515445052
+3890420,1. Bundesliga,Eintracht Frankfurt,Wolfsburg,3,2,0.808233983,2.062849559
+3890421,1. Bundesliga,FSV Mainz 05,Borussia Mönchengladbach,1,0,0.84416991,1.686870796
+3890422,1. Bundesliga,Borussia Dortmund,Ingolstadt,2,0,1.813851283,0.181449566
+3890423,1. Bundesliga,VfB Stuttgart,Hamburger SV,1,1,2.386916929,1.36792936
+3890424,1. Bundesliga,Darmstadt 98,Schalke 04,0,2,0.15592461999999999,1.181626191
+3890425,1. Bundesliga,Werder Bremen,Hertha Berlin,3,3,2.648970133,0.833376599
+3890426,1. Bundesliga,Augsburg,Eintracht Frankfurt,0,0,0.579204896,1.304352476
+3890427,1. Bundesliga,Bayer Leverkusen,Hannover 96,3,0,1.907045119,0.203165896
+3890428,1. Bundesliga,Bayern Munich,Hoffenheim,2,0,2.9537803736,0.5755142400000001
+3890429,1. Bundesliga,Wolfsburg,FC Köln,1,1,1.602881947,0.8591617811
+3890430,1. Bundesliga,Borussia Mönchengladbach,Werder Bremen,5,1,3.3578564749999997,1.958161639
+3890431,1. Bundesliga,Bayer Leverkusen,Bayern Munich,0,0,0.286842782,0.860405002
+3890432,1. Bundesliga,Schalke 04,Wolfsburg,3,0,0.621451985,0.740058013
+3890433,1. Bundesliga,Eintracht Frankfurt,VfB Stuttgart,2,4,1.8477894196,3.4669098995
+3890434,1. Bundesliga,Hannover 96,FSV Mainz 05,0,1,0.567861826,0.961633361
+3890435,1. Bundesliga,Hertha Berlin,Borussia Dortmund,0,0,0.7045480089999999,0.485543955
+3890436,1. Bundesliga,Ingolstadt,Augsburg,2,1,2.531783054,0.235179726
+3890437,1. Bundesliga,Hoffenheim,Darmstadt 98,0,2,0.610539911,1.209874263
+3890438,1. Bundesliga,Hamburger SV,FC Köln,1,1,0.26248339,1.0356975935
+3890439,1. Bundesliga,FSV Mainz 05,Schalke 04,2,1,0.600904138,1.186978927
+3890440,1. Bundesliga,FC Köln,Eintracht Frankfurt,3,1,2.1355946775,0.731285223
+3890441,1. Bundesliga,VfB Stuttgart,Hertha Berlin,2,0,1.204342209,0.647517208
+3890442,1. Bundesliga,Borussia Dortmund,Hannover 96,1,0,1.182692295,0.250007443
+3890443,1. Bundesliga,Werder Bremen,Hoffenheim,1,1,1.621217185,0.5368956266
+3890444,1. Bundesliga,Darmstadt 98,Bayer Leverkusen,1,1,1.337297468,1.433295591
+3890445,1. Bundesliga,Wolfsburg,Ingolstadt,2,0,1.514239802,0.609674344
+3890446,1. Bundesliga,Augsburg,Bayern Munich,1,3,0.46570843700000003,1.823597735
+3890447,1. Bundesliga,Hamburger SV,Borussia Mönchengladbach,3,2,2.153361425,1.524287399
+3890448,1. Bundesliga,Eintracht Frankfurt,Hamburger SV,0,0,0.386111336,0.935656193
+3890449,1. Bundesliga,Ingolstadt,Werder Bremen,2,0,2.1108278187,0.7402050722
+3890450,1. Bundesliga,Borussia Mönchengladbach,FC Köln,1,0,1.1361680695,0.538896528
+3890451,1. Bundesliga,Hertha Berlin,Wolfsburg,1,1,0.9771944810000001,0.9988436427
+3890452,1. Bundesliga,Hoffenheim,FSV Mainz 05,3,2,1.615278598,1.160692565
+3890453,1. Bundesliga,Bayern Munich,Darmstadt 98,3,1,3.3639945344999997,0.437312073
+3890454,1. Bundesliga,Hannover 96,Augsburg,0,1,0.586642335,0.825534928
+3890455,1. Bundesliga,Schalke 04,VfB Stuttgart,1,1,1.318817094,1.9537566802
+3890456,1. Bundesliga,Bayer Leverkusen,Borussia Dortmund,0,1,0.6232203735,1.644813587
+3890457,1. Bundesliga,FC Köln,Hertha Berlin,0,1,0.875179232,0.889824759
+3890458,1. Bundesliga,Wolfsburg,Bayern Munich,0,2,0.994515894,1.060078521
+3890459,1. Bundesliga,Werder Bremen,Darmstadt 98,2,2,1.8587255087,1.338580678
+3890460,1. Bundesliga,VfB Stuttgart,Hannover 96,1,2,2.873978539,1.362854015
+3890461,1. Bundesliga,Hamburger SV,Ingolstadt,1,1,0.881534418,0.671265281
+3890462,1. Bundesliga,Augsburg,Borussia Mönchengladbach,2,2,1.654786174,1.778186615
+3890463,1. Bundesliga,FSV Mainz 05,Bayer Leverkusen,3,1,2.314230261,0.8494687786
+3890464,1. Bundesliga,Borussia Dortmund,Hoffenheim,3,1,2.8029310845,0.947075938
+3890465,1. Bundesliga,Eintracht Frankfurt,Schalke 04,0,0,0.7363226857,0.217166361
+3890466,1. Bundesliga,Hannover 96,Wolfsburg,0,4,0.44722426860000003,3.519793648
+3890467,1. Bundesliga,Ingolstadt,FC Köln,1,1,0.8318088699999999,0.763117738
+3890468,1. Bundesliga,Darmstadt 98,Borussia Dortmund,0,2,0.5215533419999999,2.660476681
+3890469,1. Bundesliga,Hoffenheim,Augsburg,2,1,1.663747504,1.71559913
+3890470,1. Bundesliga,Hertha Berlin,Eintracht Frankfurt,2,0,1.500296063,0.3675600064
+3890471,1. Bundesliga,Borussia Mönchengladbach,VfB Stuttgart,3,0,2.4388732237,0.4113522
+3890472,1. Bundesliga,Bayer Leverkusen,Werder Bremen,0,4,0.784595753,1.8090304265
+3890473,1. Bundesliga,Schalke 04,Hamburger SV,3,2,2.1669389104,0.52462178
+3890474,1. Bundesliga,Bayern Munich,FSV Mainz 05,1,2,0.9138403377000001,0.822105539
+3890475,1. Bundesliga,Wolfsburg,Borussia Mönchengladbach,2,1,0.678924059,1.386295263
+3890476,1. Bundesliga,VfB Stuttgart,Hoffenheim,5,1,2.3537407623,0.9577156455
+3890477,1. Bundesliga,Augsburg,Bayer Leverkusen,3,2,1.088797371,1.5692638895
+3890478,1. Bundesliga,Werder Bremen,Hannover 96,4,1,2.307219902,1.5352773440000003
+3890479,1. Bundesliga,Eintracht Frankfurt,Ingolstadt,1,1,2.4790601527,1.980252238
+3890480,1. Bundesliga,FC Köln,Schalke 04,1,3,1.81392873,1.995408489
+3890481,1. Bundesliga,Borussia Dortmund,Bayern Munich,0,0,0.811540664,1.6732908445999999
+3890482,1. Bundesliga,FSV Mainz 05,Darmstadt 98,0,0,1.049309146,0.840026658
+3890483,1. Bundesliga,Hamburger SV,Hertha Berlin,2,0,1.016612867,0.25555180099999997
+3890484,1. Bundesliga,Hertha Berlin,Schalke 04,2,0,1.555961233,1.346624209
+3890485,1. Bundesliga,Ingolstadt,VfB Stuttgart,3,3,1.611316555,2.8000045772999997
+3890486,1. Bundesliga,Hoffenheim,Wolfsburg,1,0,1.19958208,0.5780817362
+3890487,1. Bundesliga,Darmstadt 98,Augsburg,2,2,1.24229091,1.3524788909999998
+3890488,1. Bundesliga,Borussia Mönchengladbach,Eintracht Frankfurt,3,0,1.5119711814999999,0.145629654
+3890489,1. Bundesliga,Bayern Munich,Werder Bremen,5,0,1.817325858,0.104096997
+3890490,1. Bundesliga,Hannover 96,FC Köln,0,2,0.8387661406,1.052292939
+3890491,1. Bundesliga,Borussia Dortmund,FSV Mainz 05,2,0,3.958714703,0.1466802063
+3890492,1. Bundesliga,Bayer Leverkusen,Hamburger SV,1,0,1.1164172584,1.283962289
+3890493,1. Bundesliga,Schalke 04,Borussia Mönchengladbach,1,1,0.22748701600000001,2.683801602
+3890494,1. Bundesliga,Werder Bremen,FSV Mainz 05,1,1,1.259528278,0.826527524
+3890495,1. Bundesliga,FC Köln,Bayern Munich,0,1,0.42936605949999995,0.489157062
+3890496,1. Bundesliga,Hertha Berlin,Ingolstadt,2,1,0.9330038445,0.776075681
+3890497,1. Bundesliga,Eintracht Frankfurt,Hannover 96,1,0,1.481242561,0.359659137
+3890498,1. Bundesliga,Wolfsburg,Darmstadt 98,1,1,1.268381037,1.282228235
+3890499,1. Bundesliga,Hamburger SV,Hoffenheim,1,3,2.5997063639999998,1.8950392325
+3890500,1. Bundesliga,VfB Stuttgart,Bayer Leverkusen,0,2,0.9012751960000001,2.127092613
+3890501,1. Bundesliga,Augsburg,Borussia Dortmund,1,3,1.407555056,1.588013701
+3890502,1. Bundesliga,Bayer Leverkusen,Wolfsburg,3,0,0.749369139,0.889642625
+3890503,1. Bundesliga,FSV Mainz 05,Augsburg,4,2,3.534769019,0.624416336
+3890504,1. Bundesliga,Hannover 96,Hamburger SV,0,3,1.245220073,1.768780828
+3890505,1. Bundesliga,Bayern Munich,Eintracht Frankfurt,1,0,1.837663753,0.121696462
+3890506,1. Bundesliga,Darmstadt 98,VfB Stuttgart,2,2,2.288448637,0.891014128
+3890507,1. Bundesliga,Borussia Dortmund,Werder Bremen,3,2,2.772864835,0.5124201935
+3890508,1. Bundesliga,Ingolstadt,Schalke 04,3,0,1.6742844915,0.9837626012999999
+3890509,1. Bundesliga,Hoffenheim,FC Köln,1,1,1.3699727259999999,0.871820697
+3890510,1. Bundesliga,Borussia Mönchengladbach,Hertha Berlin,5,0,2.45862917,0.739373824
+3890511,1. Bundesliga,Hertha Berlin,Hannover 96,2,2,1.496190296,0.8005099840000001
+3890512,1. Bundesliga,Eintracht Frankfurt,Hoffenheim,0,2,0.610633009,1.26470781
+3890513,1. Bundesliga,Wolfsburg,FSV Mainz 05,1,1,1.061310138,1.83109741
+3890514,1. Bundesliga,Werder Bremen,Augsburg,1,2,0.977070616,0.571443467
+3890515,1. Bundesliga,Hamburger SV,Darmstadt 98,1,2,0.7958294223,0.8335020289999999
+3890516,1. Bundesliga,VfB Stuttgart,Bayern Munich,1,3,0.9743895340000001,0.7113153135
+3890517,1. Bundesliga,Ingolstadt,Borussia Mönchengladbach,1,0,1.7983400440000001,0.3222938945
+3890518,1. Bundesliga,Schalke 04,Borussia Dortmund,2,2,1.1805544085,1.515110113
+3890519,1. Bundesliga,FC Köln,Bayer Leverkusen,0,2,0.8359122777,0.9316171873
+3890520,1. Bundesliga,Hannover 96,Borussia Mönchengladbach,2,0,1.73306218,0.716077522
+3890521,1. Bundesliga,Bayer Leverkusen,Eintracht Frankfurt,3,0,1.106188017,1.0195333039999999
+3890522,1. Bundesliga,Augsburg,VfB Stuttgart,1,0,1.673274452,0.4227076195
+3890523,1. Bundesliga,Werder Bremen,Wolfsburg,3,2,3.9076326949999998,0.6421666185
+3890524,1. Bundesliga,Hoffenheim,Hertha Berlin,2,1,1.3354562532999998,1.4067066320000001
+3890525,1. Bundesliga,Darmstadt 98,Ingolstadt,2,0,1.2737191700000001,0.6562168955
+3890526,1. Bundesliga,Bayern Munich,Schalke 04,3,0,1.136818166,0.44570890399999996
+3890527,1. Bundesliga,FSV Mainz 05,FC Köln,2,3,1.361937396,1.239822617
+3890528,1. Bundesliga,Borussia Dortmund,Hamburger SV,3,0,1.845096908,0.409784034
+3890529,1. Bundesliga,Hamburger SV,Werder Bremen,2,1,1.6008545476,2.7323496879999998
+3890530,1. Bundesliga,VfB Stuttgart,Borussia Dortmund,0,3,0.5010954004,3.230173912
+3890531,1. Bundesliga,FC Köln,Darmstadt 98,4,1,2.6873814177,0.6730902933
+3890532,1. Bundesliga,Ingolstadt,Hannover 96,2,2,0.732632252,0.9216060189999999
+3890533,1. Bundesliga,Hertha Berlin,Bayern Munich,0,2,0.346317439,0.338381723
+3890534,1. Bundesliga,Schalke 04,Bayer Leverkusen,2,3,2.634257289,1.631818309
+3890535,1. Bundesliga,Wolfsburg,Augsburg,0,2,1.167257349,1.374192874
+3890536,1. Bundesliga,Borussia Mönchengladbach,Hoffenheim,3,1,3.0398398049999997,2.756695141
+3890537,1. Bundesliga,Eintracht Frankfurt,FSV Mainz 05,1,1,1.1123913859999999,0.663626801
+3890538,1. Bundesliga,Augsburg,FC Köln,0,0,1.1969711680000001,0.18071852160000001
+3890539,1. Bundesliga,Darmstadt 98,Eintracht Frankfurt,1,2,1.360068922,0.823806276
+3890540,1. Bundesliga,Bayer Leverkusen,Hertha Berlin,2,1,1.710586608,0.49794047399999997
+3890541,1. Bundesliga,Bayern Munich,Borussia Mönchengladbach,1,1,0.266765141,0.626722924
+3890542,1. Bundesliga,Borussia Dortmund,Wolfsburg,5,1,2.642703663,0.820585369
+3890543,1. Bundesliga,Hannover 96,Schalke 04,1,3,2.193958447,2.538639329
+3890544,1. Bundesliga,Hoffenheim,Ingolstadt,2,1,1.8430487489999998,1.8401448345
+3890545,1. Bundesliga,FSV Mainz 05,Hamburger SV,0,0,0.906745919,0.47657353100000005
+3890546,1. Bundesliga,Werder Bremen,VfB Stuttgart,6,2,2.7567737424,1.024636154
+3890547,1. Bundesliga,Hannover 96,Hoffenheim,1,0,0.43883610970000003,1.599174522
+3890548,1. Bundesliga,Ingolstadt,Bayern Munich,1,2,2.499539788,1.6419081395
+3890549,1. Bundesliga,Schalke 04,Augsburg,1,1,1.7775837970000001,0.3758453006
+3890550,1. Bundesliga,Borussia Mönchengladbach,Bayer Leverkusen,2,1,0.870910584,2.0131110667
+3890551,1. Bundesliga,Hamburger SV,Wolfsburg,0,1,0.427703333,1.5161863307999999
+3890552,1. Bundesliga,VfB Stuttgart,FSV Mainz 05,1,3,0.637846558,3.79130092
+3890553,1. Bundesliga,Eintracht Frankfurt,Borussia Dortmund,1,0,0.401769447,1.1912590395
+3890554,1. Bundesliga,FC Köln,Werder Bremen,0,0,0.732007374,0.716943899
+3890555,1. Bundesliga,Hertha Berlin,Darmstadt 98,1,2,1.1099404146,1.0361670945
+3890556,1. Bundesliga,Wolfsburg,VfB Stuttgart,3,1,2.2466789147,0.915592377
+3890557,1. Bundesliga,Werder Bremen,Eintracht Frankfurt,1,0,1.6842142226,0.1681919166
+3890558,1. Bundesliga,FSV Mainz 05,Hertha Berlin,0,0,1.064920681,0.847503751
+3890559,1. Bundesliga,Bayern Munich,Hannover 96,3,1,2.421191398,1.7460605366
+3890560,1. Bundesliga,Darmstadt 98,Borussia Mönchengladbach,0,2,0.6706238409999999,1.6780261755
+3890561,1. Bundesliga,Hoffenheim,Schalke 04,1,3,1.1688748137,1.6057035259999999
+3890562,1. Bundesliga,Borussia Dortmund,FC Köln,2,2,1.224463485,1.308468257
+3890563,1. Bundesliga,Bayer Leverkusen,Ingolstadt,3,2,3.4965765648,3.2418109805
+3890564,1. Bundesliga,Augsburg,Hamburger SV,1,3,1.4049957100000001,1.794981004
+265839,La Liga,Barcelona,Sevilla,2,1,2.0566948295,1.49665858
+265894,La Liga,Málaga,Barcelona,1,2,1.0945495539999999,2.131875385
+265944,La Liga,Barcelona,Sporting Gijón,6,0,4.7221734485999995,0.41107553399999996
+265958,La Liga,Barcelona,Espanyol,5,0,2.926680624,0.487905264
+266056,La Liga,Eibar,Barcelona,0,4,0.541606292,2.334022904
+266106,La Liga,Villarreal,Barcelona,1,2,1.2703694164,1.7763159979999998
+266149,La Liga,Barcelona,Athletic Club,6,0,2.818190758,1.08880431
+266160,La Liga,Levante UD,Barcelona,0,2,0.845946301,1.081146523
+266166,La Liga,Atlético Madrid,Barcelona,1,2,0.7102220779999999,1.728633055
+266236,La Liga,Athletic Club,Barcelona,0,1,0.300797077,1.742369445
+266254,La Liga,Barcelona,Celta Vigo,6,1,4.176193578,1.3398894955
+266310,La Liga,RC Deportivo La Coruña,Barcelona,0,8,1.625230793,4.034037188
+266424,La Liga,Real Madrid,Barcelona,0,4,1.343126336,2.479367986
+266467,La Liga,Celta Vigo,Barcelona,4,1,2.107539622,1.942481078
+266490,La Liga,Barcelona,Levante UD,4,1,3.530396116,0.7208552460000001
+266498,La Liga,Barcelona,Getafe,6,0,2.931330509,0.264782675
+266557,La Liga,Barcelona,Valencia,1,2,2.262016282,0.676189312
+266620,La Liga,Barcelona,Granada,4,0,3.2089038155000003,0.37466771520000003
+266653,La Liga,Rayo Vallecano,Barcelona,1,5,1.301377267,3.609534406
+266664,La Liga,Real Sociedad,Barcelona,1,0,0.427218062,1.174023936
+266670,La Liga,Espanyol,Barcelona,0,0,0.22550177100000002,1.01046243
+266815,La Liga,Sporting Gijón,Barcelona,1,3,0.570319594,2.3628349909999997
+266885,La Liga,Barcelona,Real Sociedad,4,0,2.489970687,0.6087513529999999
+266961,La Liga,Barcelona,RC Deportivo La Coruña,2,2,1.040620154,0.986600595
+266986,La Liga,Real Betis,Barcelona,0,2,0.08553740700000001,2.133911974
+267273,La Liga,Las Palmas,Barcelona,1,2,1.352368527,2.664406675
+267274,La Liga,Valencia,Barcelona,1,1,0.477132171,1.326106152
+267327,La Liga,Barcelona,Real Betis,4,0,3.458271375,1.199962053
+267422,La Liga,Barcelona,Málaga,1,0,1.8279597025,0.429232349
+267506,La Liga,Granada,Barcelona,0,3,0.508630707,2.4188895645
+267533,La Liga,Barcelona,Real Madrid,1,2,0.725070099,1.3205530540000001
+267576,La Liga,Barcelona,Atlético Madrid,2,1,0.570667528,0.679896076
+267611,La Liga,Barcelona,Las Palmas,2,1,2.091785885,0.6912796484
+3825562,La Liga,Málaga,Sevilla,0,0,1.0882301632,1.414678249
+3825563,La Liga,Atlético Madrid,Las Palmas,1,0,0.539485622,0.5002998106
+3825564,La Liga,RC Deportivo La Coruña,Real Sociedad,0,0,0.59843608,1.080001069
+3825565,La Liga,Espanyol,Getafe,1,0,0.286870816,1.349992505
+3825566,La Liga,Rayo Vallecano,Valencia,0,0,0.6999665840999999,1.693479153
+3825567,La Liga,Sporting Gijón,Real Madrid,0,0,0.280435996,1.5026370555000002
+3825568,La Liga,Real Betis,Villarreal,1,1,1.6026679259999999,1.0973482890000001
+3825569,La Liga,Levante UD,Celta Vigo,1,2,0.48638784700000004,1.6846612440000002
+3825570,La Liga,Granada,Eibar,1,3,1.1909873915,2.271488858
+3825571,La Liga,Villarreal,Espanyol,3,1,1.4762754294999998,0.592400135
+3825572,La Liga,Real Madrid,Real Betis,5,0,2.0951427760000003,1.0940905076
+3825573,La Liga,Real Sociedad,Sporting Gijón,0,0,0.9060358135,0.2254563933
+3825574,La Liga,Celta Vigo,Rayo Vallecano,3,0,2.1581819749999998,0.125385263
+3825575,La Liga,Las Palmas,Levante UD,0,0,0.699411725,0.145662713
+3825576,La Liga,Valencia,RC Deportivo La Coruña,1,1,1.554333972,0.7924107196
+3825577,La Liga,Getafe,Granada,1,2,0.576297029,1.2221059727999999
+3825578,La Liga,Eibar,Athletic Club,2,0,1.4076115710000001,0.338081492
+3825579,La Liga,Sevilla,Atlético Madrid,0,3,1.618631224,1.0903989425
+3825580,La Liga,Levante UD,Sevilla,1,1,1.435732005,0.992390906
+3825581,La Liga,Espanyol,Real Madrid,0,6,1.749549904,3.398509468
+3825582,La Liga,Real Betis,Real Sociedad,1,0,0.526370441,0.699174287
+3825583,La Liga,Sporting Gijón,Valencia,0,1,1.097020174,1.622881672
+3825584,La Liga,Granada,Villarreal,1,3,1.0278374038,1.060212477
+3825585,La Liga,Celta Vigo,Las Palmas,3,2,4.286647959,1.245121199
+3825586,La Liga,Málaga,Eibar,0,0,1.02713509,0.8405325549999999
+3825587,La Liga,Athletic Club,Getafe,3,1,1.442603778,0.598289006
+3825588,La Liga,Rayo Vallecano,RC Deportivo La Coruña,1,3,0.676500717,1.3373929310000001
+3825589,La Liga,Getafe,Málaga,1,0,0.9446501897,0.6113740494000001
+3825590,La Liga,Real Madrid,Granada,1,0,2.4916092273,1.1709909157
+3825591,La Liga,Valencia,Real Betis,0,0,1.6839506779,0.153375296
+3825592,La Liga,Real Sociedad,Espanyol,2,3,1.510093114,1.8528543969999998
+3825593,La Liga,Eibar,Atlético Madrid,0,2,0.3233829495,1.498556535
+3825594,La Liga,Sevilla,Celta Vigo,1,2,1.0992593634,0.796429163
+3825595,La Liga,Villarreal,Athletic Club,3,1,1.5536392769999998,0.9826658716
+3825596,La Liga,RC Deportivo La Coruña,Sporting Gijón,2,3,1.058408485,0.9527419069999999
+3825597,La Liga,Las Palmas,Rayo Vallecano,0,1,0.766661484,1.3359031975
+3825598,La Liga,Atlético Madrid,Getafe,2,0,1.0935513715,0.47902972499999996
+3825599,La Liga,Espanyol,Valencia,1,0,1.753918165,0.649601341
+3825600,La Liga,Málaga,Villarreal,0,0,0.8384468472,0.909770502
+3825601,La Liga,Rayo Vallecano,Sporting Gijón,2,1,3.219725522,0.545147886
+3825602,La Liga,Athletic Club,Real Madrid,1,2,1.4830063415,2.634498203
+3825603,La Liga,Real Betis,RC Deportivo La Coruña,1,2,1.092320536,0.325262868
+3825604,La Liga,Valencia,Granada,1,0,1.364799292,0.9918559384
+3825605,La Liga,Sevilla,Rayo Vallecano,3,2,2.0926610009999997,0.6592338973
+3825606,La Liga,Real Madrid,Málaga,0,0,3.3538672803,0.6724677684
+3825607,La Liga,Villarreal,Atlético Madrid,1,0,0.668906416,0.604603819
+3825608,La Liga,Eibar,Celta Vigo,1,1,1.4777196339999998,1.294308883
+3825609,La Liga,Real Sociedad,Athletic Club,0,0,1.2415456111999998,0.6111159293
+3825610,La Liga,Sporting Gijón,Real Betis,1,2,1.667905043,1.4019163256
+3825611,La Liga,RC Deportivo La Coruña,Espanyol,3,0,1.8527118323,0.510447198
+3825612,La Liga,Getafe,Levante UD,3,0,1.1284401105,0.502327769
+3825613,La Liga,Celta Vigo,Getafe,0,0,1.4733586650000001,1.518237918
+3825614,La Liga,Granada,RC Deportivo La Coruña,1,1,0.6141378214,1.00441262
+3825615,La Liga,Espanyol,Sporting Gijón,1,2,1.596383825,1.480275186
+3825616,La Liga,Málaga,Real Sociedad,3,1,1.57015634,1.187805735
+3825617,La Liga,Sevilla,Barcelona,2,1,1.301390319,3.4057471915
+3825618,La Liga,Las Palmas,Eibar,0,2,1.251802148,1.3774934239999999
+3825619,La Liga,Levante UD,Villarreal,1,0,0.671724217,0.151596993
+3825620,La Liga,Rayo Vallecano,Real Betis,0,2,0.9750138132,1.9804026879999999
+3825621,La Liga,Atlético Madrid,Real Madrid,1,1,2.8663889044,0.492858647
+3825622,La Liga,Athletic Club,Valencia,3,1,1.989262847,0.57879854
+3825623,La Liga,Valencia,Málaga,3,0,1.6013683909999998,1.618679168
+3825624,La Liga,Eibar,Sevilla,1,1,0.723453531,1.786685015
+3825625,La Liga,Real Madrid,Levante UD,3,0,1.4530919343,1.496452628
+3825626,La Liga,Real Betis,Espanyol,1,3,1.8799053257000002,1.40646453
+3825627,La Liga,Barcelona,Rayo Vallecano,5,2,4.67635209,2.473305274
+3825628,La Liga,Getafe,Las Palmas,4,0,2.7960263734,0.542098823
+3825629,La Liga,Villarreal,Celta Vigo,1,2,0.954734242,1.5867871335
+3825630,La Liga,RC Deportivo La Coruña,Athletic Club,2,2,1.320535308,0.6068846649999999
+3825631,La Liga,Real Sociedad,Atlético Madrid,0,2,0.639712475,1.575709646
+3825632,La Liga,Sporting Gijón,Granada,3,3,0.893204546,1.981645771
+3825633,La Liga,Rayo Vallecano,Espanyol,3,0,2.2500174619999997,1.3099076539999999
+3825634,La Liga,Granada,Real Betis,1,1,1.382441008,1.149303479
+3825635,La Liga,Celta Vigo,Real Madrid,1,3,1.5985029683,2.095245314
+3825636,La Liga,Málaga,RC Deportivo La Coruña,2,0,0.5154552964,0.6502554966999999
+3825637,La Liga,Barcelona,Eibar,3,1,1.7110908354999999,0.77786973
+3825638,La Liga,Atlético Madrid,Valencia,2,1,1.991069604,0.8659410788999999
+3825639,La Liga,Las Palmas,Villarreal,0,0,0.298865638,0.31776619500000003
+3825640,La Liga,Levante UD,Real Sociedad,0,4,0.997627872,3.41225114
+3825641,La Liga,Athletic Club,Sporting Gijón,3,0,2.890649117,0.1817451305
+3825642,La Liga,RC Deportivo La Coruña,Atlético Madrid,1,1,0.6793710316000001,1.371634469
+3825643,La Liga,Real Madrid,Las Palmas,3,1,2.5126636615,0.9230522459999999
+3825644,La Liga,Real Sociedad,Celta Vigo,2,3,1.3751927265,1.2251598939000001
+3825645,La Liga,Getafe,Barcelona,0,2,0.2431690897,1.9832390069999999
+3825646,La Liga,Villarreal,Sevilla,2,1,1.211768263,0.6723526719999999
+3825647,La Liga,Valencia,Levante UD,3,0,2.571689971,0.8430729920000001
+3825648,La Liga,Eibar,Rayo Vallecano,1,0,1.4226592465999999,0.43420515000000004
+3825649,La Liga,Sporting Gijón,Málaga,1,0,1.1562952819999999,0.6861333329
+3825650,La Liga,Real Betis,Athletic Club,1,3,1.3035195849999999,3.1350476290000002
+3825651,La Liga,Espanyol,Granada,1,1,1.973238767,0.750299289
+3825652,La Liga,Las Palmas,Real Sociedad,2,0,0.975283777,0.754241728
+3825653,La Liga,Eibar,Getafe,3,1,2.24334249,0.565848416
+3825654,La Liga,Celta Vigo,Valencia,1,5,1.357086906,1.6566330919999999
+3825655,La Liga,Rayo Vallecano,Granada,2,1,1.065375505,0.607323734
+3825656,La Liga,Levante UD,RC Deportivo La Coruña,1,1,1.529921248,0.5639216387
+3825657,La Liga,Málaga,Real Betis,0,1,0.805335932,0.792894923
+3825658,La Liga,Atlético Madrid,Sporting Gijón,1,0,1.3543617799999998,0.453225434
+3825659,La Liga,Athletic Club,Espanyol,2,1,0.5184590843,0.461123
+3825660,La Liga,Barcelona,Villarreal,3,0,2.8698440179999998,0.326007116
+3825661,La Liga,Sevilla,Real Madrid,3,2,1.997961739,1.63353905
+3825662,La Liga,RC Deportivo La Coruña,Celta Vigo,1,0,1.077710241,1.135265155
+3825663,La Liga,Espanyol,Málaga,2,0,0.87448223,1.1694595775
+3825664,La Liga,Real Sociedad,Sevilla,2,0,0.9950296919999999,1.097305841
+3825665,La Liga,Granada,Athletic Club,2,0,0.6076175917,1.169767116
+3825666,La Liga,Real Betis,Atlético Madrid,0,1,0.291331591,2.064687258
+3825667,La Liga,Villarreal,Eibar,1,1,1.715024495,2.663735679
+3825668,La Liga,Sporting Gijón,Levante UD,0,3,2.404593535,2.2970495297
+3825669,La Liga,Getafe,Rayo Vallecano,0,1,0.658597248,1.7225366605999999
+3825670,La Liga,Levante UD,Real Betis,0,1,1.4309131,0.8618748415
+3825671,La Liga,Celta Vigo,Sporting Gijón,2,1,1.548315047,0.821271773
+3825672,La Liga,Málaga,Granada,2,2,1.746904293,0.547501257
+3825673,La Liga,Las Palmas,RC Deportivo La Coruña,0,2,0.42546359699999997,2.0562452317
+3825674,La Liga,Atlético Madrid,Espanyol,1,0,1.8473842156,0.2059822453
+3825675,La Liga,Rayo Vallecano,Athletic Club,0,3,1.6072587554,2.259916768
+3825676,La Liga,Getafe,Villarreal,2,0,1.4796875869,0.4329744975
+3825677,La Liga,Sevilla,Valencia,1,0,1.543418911,0.0
+3825678,La Liga,Eibar,Real Madrid,0,2,0.335409081,2.463694337
+3825679,La Liga,Real Betis,Celta Vigo,1,1,2.463313811,0.485869449
+3825680,La Liga,RC Deportivo La Coruña,Sevilla,1,1,0.77677614,1.127761558
+3825681,La Liga,Real Madrid,Getafe,4,1,1.383354318,0.289648707
+3825682,La Liga,Granada,Atlético Madrid,0,2,0.879004138,1.347964738
+3825683,La Liga,Real Sociedad,Eibar,2,1,2.111939993,0.6877167484
+3825684,La Liga,Villarreal,Rayo Vallecano,2,1,1.536212617,0.2110396936
+3825685,La Liga,Sporting Gijón,Las Palmas,3,1,3.010093775,0.5409408649999999
+3825686,La Liga,Athletic Club,Málaga,0,0,0.6494539276,0.563661122
+3825687,La Liga,Espanyol,Levante UD,1,1,0.9398355165,0.989969603
+3825688,La Liga,Getafe,Real Sociedad,1,1,0.459705632,1.593977636
+3825689,La Liga,Celta Vigo,Espanyol,1,0,1.1911045548,0.223052524
+3825690,La Liga,Las Palmas,Real Betis,1,0,1.226081183,0.457630405
+3825691,La Liga,Levante UD,Granada,1,2,0.42829841,0.7642905720000001
+3825692,La Liga,Sevilla,Sporting Gijón,2,0,2.01342243,0.1016132157
+3825693,La Liga,Atlético Madrid,Athletic Club,2,1,0.397024872,1.317237675
+3825694,La Liga,Eibar,Valencia,1,1,2.614508928,0.385736672
+3825695,La Liga,Villarreal,Real Madrid,1,0,0.9376680460000001,1.487794102
+3825696,La Liga,Rayo Vallecano,Málaga,1,2,1.008633093,1.0539553772
+3825697,La Liga,Valencia,Getafe,2,2,1.3050110747,0.508158535
+3825698,La Liga,RC Deportivo La Coruña,Eibar,2,0,1.7804470824999998,0.661501361
+3825699,La Liga,Real Betis,Sevilla,0,0,0.32975916780000003,1.095183153
+3825700,La Liga,Real Madrid,Rayo Vallecano,10,2,5.143204633,0.642555978
+3825701,La Liga,Málaga,Atlético Madrid,1,0,1.117437536,0.585346773
+3825702,La Liga,Real Sociedad,Villarreal,0,2,1.153049488,0.999567513
+3825703,La Liga,Athletic Club,Levante UD,2,0,2.111575081,0.319367937
+3825704,La Liga,Granada,Celta Vigo,0,2,0.3340176448,2.1400277770000002
+3825705,La Liga,Eibar,Sporting Gijón,2,0,1.1221224936,0.47179181000000003
+3825706,La Liga,Celta Vigo,Athletic Club,0,1,0.447804695,1.1755006237
+3825707,La Liga,Las Palmas,Granada,3,1,1.4309261119999999,0.7614696351
+3825708,La Liga,Levante UD,Málaga,0,1,0.324300979,1.570931337
+3825709,La Liga,Sevilla,Espanyol,2,0,2.3122135,0.891120291
+3825710,La Liga,Real Madrid,Real Sociedad,3,1,3.1666026019999998,0.658408522
+3825711,La Liga,Rayo Vallecano,Atlético Madrid,0,2,0.517327264,2.107459619
+3825712,La Liga,Getafe,RC Deportivo La Coruña,0,0,0.956608243,0.3028288434
+3825713,La Liga,Villarreal,Valencia,1,0,0.348969343,0.533269444
+3825714,La Liga,Atlético Madrid,Levante UD,1,0,1.1719935750000001,0.583366677
+3825715,La Liga,Málaga,Celta Vigo,2,0,2.6394524276999998,0.8188341339999999
+3825716,La Liga,Rayo Vallecano,Real Sociedad,2,2,1.003412999,0.8446137149999999
+3825717,La Liga,Granada,Sevilla,2,1,0.87437245,2.3896160185
+3825718,La Liga,Valencia,Real Madrid,2,2,2.616836304,1.146701153
+3825719,La Liga,Athletic Club,Las Palmas,2,2,2.130900907,0.777623905
+3825720,La Liga,Real Betis,Eibar,0,4,1.6140540155,0.948948045
+3825721,La Liga,RC Deportivo La Coruña,Villarreal,1,2,0.9740782147,1.321280275
+3825722,La Liga,Sporting Gijón,Getafe,1,2,1.363952165,1.983245672
+3825723,La Liga,Levante UD,Rayo Vallecano,2,1,0.796602265,0.327423625
+3825724,La Liga,Real Madrid,RC Deportivo La Coruña,5,0,2.5223320635,0.9053543226
+3825725,La Liga,Getafe,Real Betis,1,0,0.735688785,0.668031453
+3825726,La Liga,Sevilla,Athletic Club,2,0,1.2472842100000001,0.892309352
+3825727,La Liga,Eibar,Espanyol,2,1,2.399025286,0.376288478
+3825728,La Liga,Celta Vigo,Atlético Madrid,0,2,0.24866305100000002,1.31682009
+3825729,La Liga,Villarreal,Sporting Gijón,2,0,1.262495261,0.7033438009999999
+3825730,La Liga,Real Sociedad,Valencia,2,0,2.9406832717,0.674779387
+3825731,La Liga,Las Palmas,Málaga,1,1,0.350498772,1.349681753
+3825732,La Liga,Celta Vigo,Levante UD,4,3,2.093340377,1.141663909
+3825733,La Liga,Sevilla,Málaga,2,1,1.0289948850000001,1.189775429
+3825734,La Liga,Real Sociedad,RC Deportivo La Coruña,1,1,2.92354392,1.424199416
+3825735,La Liga,Villarreal,Real Betis,0,0,0.7939054799999999,0.558565619
+3825736,La Liga,Valencia,Rayo Vallecano,2,2,0.9695052740000001,1.694665674
+3825737,La Liga,Getafe,Espanyol,3,1,1.8696133480000001,1.337136936
+3825738,La Liga,Las Palmas,Atlético Madrid,0,3,0.501939472,1.986626441
+3825739,La Liga,Real Madrid,Sporting Gijón,5,1,2.220954735,0.657441291
+3825740,La Liga,Eibar,Granada,5,1,1.7142395060000002,0.9642138057
+3825741,La Liga,Sporting Gijón,Real Sociedad,5,1,4.6758840063,1.324614921
+3825742,La Liga,Granada,Getafe,3,2,2.305334274,1.9283652980000001
+3825743,La Liga,Rayo Vallecano,Celta Vigo,3,0,3.1138505568,0.18148299
+3825744,La Liga,Espanyol,Villarreal,2,2,1.05773969,1.0703166166
+3825745,La Liga,RC Deportivo La Coruña,Valencia,1,1,1.10156948,0.9732414519999999
+3825746,La Liga,Real Betis,Real Madrid,1,1,0.380241444,3.3095584787
+3825747,La Liga,Athletic Club,Eibar,4,2,0.929586376,2.022164369
+3825748,La Liga,Atlético Madrid,Sevilla,0,0,1.2605556349,0.3112722745
+3825749,La Liga,Levante UD,Las Palmas,3,2,1.690136692,1.0680424007
+3825750,La Liga,Real Sociedad,Real Betis,2,1,0.535467266,1.150508666
+3825751,La Liga,Getafe,Athletic Club,0,1,1.411664114,1.45825715
+3825752,La Liga,Eibar,Málaga,1,2,0.9282239999999999,1.333653439
+3825753,La Liga,Villarreal,Granada,1,0,2.223505191,0.681216181
+3825754,La Liga,Las Palmas,Celta Vigo,2,1,1.6954999949999998,0.564106761
+3825755,La Liga,Valencia,Sporting Gijón,0,1,2.9070552960000002,1.494395169
+3825756,La Liga,Sevilla,Levante UD,3,1,2.2480781415,0.8225228682
+3825757,La Liga,Real Madrid,Espanyol,5,0,2.399163769,1.479326387
+3825758,La Liga,RC Deportivo La Coruña,Rayo Vallecano,2,2,1.2376656648000002,1.493775192
+3825759,La Liga,Málaga,Getafe,3,0,1.9799057759999998,0.39082906900000003
+3825760,La Liga,Atlético Madrid,Eibar,3,1,2.111957491,0.357519044
+3825761,La Liga,Athletic Club,Villarreal,0,0,0.691260828,0.303141502
+3825762,La Liga,Sporting Gijón,RC Deportivo La Coruña,1,1,0.916224276,0.292492904
+3825763,La Liga,Rayo Vallecano,Las Palmas,2,0,2.5491748112,0.4460999436
+3825764,La Liga,Granada,Real Madrid,1,2,0.805125466,1.955765579
+3825765,La Liga,Celta Vigo,Sevilla,1,1,1.6020686905,0.828391977
+3825766,La Liga,Real Betis,Valencia,1,0,1.031898079,1.0208598417
+3825767,La Liga,Espanyol,Real Sociedad,0,5,0.315561086,1.656450831
+3825768,La Liga,Sporting Gijón,Rayo Vallecano,2,2,1.725248248,1.5120547901
+3825769,La Liga,Villarreal,Málaga,1,0,0.794832845,0.41799769070000004
+3825770,La Liga,Real Madrid,Athletic Club,4,2,1.8690232,1.6806678469999998
+3825771,La Liga,RC Deportivo La Coruña,Real Betis,2,2,3.1412221039999997,0.337505646
+3825772,La Liga,Valencia,Espanyol,2,1,1.308799966,3.5280547330000003
+3825773,La Liga,Eibar,Levante UD,2,0,3.258632032,0.650384901
+3825774,La Liga,Getafe,Atlético Madrid,0,1,0.4361622749,0.935742906
+3825775,La Liga,Real Sociedad,Granada,3,0,2.4097020577999997,1.210308867
+3825776,La Liga,Sevilla,Las Palmas,2,0,1.555232019,0.574539408
+3825777,La Liga,Levante UD,Getafe,3,0,1.873779319,1.741446856
+3825778,La Liga,Real Betis,Sporting Gijón,1,1,1.581630813,0.233383578
+3825779,La Liga,Celta Vigo,Eibar,3,2,2.26607476,1.3593197985
+3825780,La Liga,Espanyol,RC Deportivo La Coruña,1,0,2.462391939,0.9434045402
+3825781,La Liga,Rayo Vallecano,Sevilla,2,2,1.736864661,3.843775184
+3825782,La Liga,Granada,Valencia,1,2,1.819494292,1.435963399
+3825783,La Liga,Athletic Club,Real Sociedad,0,1,0.799300511,0.632935249
+3825784,La Liga,Atlético Madrid,Villarreal,0,0,0.708569582,0.346234012
+3825785,La Liga,Málaga,Real Madrid,1,1,1.564703266,1.597888446
+3825786,La Liga,Eibar,Las Palmas,0,1,0.31030577800000003,0.7146776300000001
+3825787,La Liga,Real Madrid,Atlético Madrid,0,1,0.803934843,0.7479492217
+3825788,La Liga,Getafe,Celta Vigo,0,1,0.666639838,1.035076162
+3825789,La Liga,Real Sociedad,Málaga,1,1,0.875274456,1.262914648
+3825790,La Liga,Sporting Gijón,Espanyol,2,3,2.165066368,1.1086040405
+3825791,La Liga,Real Betis,Rayo Vallecano,2,2,2.159205532,0.9929181253
+3825792,La Liga,RC Deportivo La Coruña,Granada,0,1,1.051621609,1.4381538676999999
+3825793,La Liga,Valencia,Athletic Club,0,3,1.225733274,1.5391791435
+3825794,La Liga,Villarreal,Levante UD,3,0,1.06704025,0.6940757009999999
+3825795,La Liga,Atlético Madrid,Real Sociedad,3,0,2.1807618029999998,0.8702647294
+3825796,La Liga,Las Palmas,Getafe,4,0,2.2062072759999998,0.5236068036
+3825797,La Liga,Athletic Club,RC Deportivo La Coruña,4,1,2.8059460517,1.138334475
+3825798,La Liga,Levante UD,Real Madrid,1,3,1.2112835960000001,1.992199697
+3825799,La Liga,Málaga,Valencia,1,2,0.43423907900000003,1.398771797
+3825800,La Liga,Celta Vigo,Villarreal,0,0,0.643196709,0.645729306
+3825801,La Liga,Sevilla,Eibar,1,0,1.718759177,1.0723818984
+3825802,La Liga,Espanyol,Real Betis,0,3,1.315534285,1.2493928563
+3825803,La Liga,Granada,Sporting Gijón,2,0,2.002940533,0.104592483
+3825804,La Liga,RC Deportivo La Coruña,Málaga,3,2,2.818189796,0.746506853
+3825805,La Liga,Villarreal,Las Palmas,0,1,0.997839906,0.48994587700000003
+3825806,La Liga,Real Madrid,Celta Vigo,7,1,1.9203688893,1.401226584
+3825807,La Liga,Valencia,Atlético Madrid,1,3,0.49733917299999997,1.9944979170000001
+3825808,La Liga,Sporting Gijón,Athletic Club,0,2,0.35550298,1.0763371400000001
+3825809,La Liga,Real Betis,Granada,2,0,0.661425465,0.430567355
+3825810,La Liga,Real Sociedad,Levante UD,1,1,1.650765227,0.301687102
+3825811,La Liga,Espanyol,Rayo Vallecano,2,1,1.67387728,0.23164801
+3825812,La Liga,Málaga,Sporting Gijón,1,0,0.44922763450000003,0.868754962
+3825813,La Liga,Atlético Madrid,RC Deportivo La Coruña,3,0,2.0453963628,0.44142893499999997
+3825814,La Liga,Celta Vigo,Real Sociedad,1,0,0.3964822113,0.7450548257
+3825815,La Liga,Levante UD,Valencia,1,0,0.990248837,0.7315212640000001
+3825816,La Liga,Sevilla,Villarreal,3,2,3.895652895,1.341385642
+3825817,La Liga,Getafe,Eibar,1,1,0.672923993,2.755793431
+3825818,La Liga,Real Sociedad,Las Palmas,0,1,0.803795765,1.4977726264
+3825819,La Liga,Valencia,Celta Vigo,0,2,0.992572782,2.727030033
+3825820,La Liga,Real Madrid,Sevilla,4,0,4.3174957825,1.291579113
+3825821,La Liga,Espanyol,Athletic Club,2,1,1.7229683605,1.1204640849999998
+3825822,La Liga,Las Palmas,Valencia,1,1,1.970628125,1.157178142
+3825823,La Liga,Sevilla,Real Sociedad,1,2,2.145560038,0.308162887
+3825824,La Liga,Eibar,Villarreal,1,2,0.634930974,2.410989912
+3825825,La Liga,Levante UD,Sporting Gijón,0,0,1.394146127,1.032224303
+3825826,La Liga,Granada,Málaga,0,0,0.774402558,0.900554653
+3825827,La Liga,Real Betis,Levante UD,1,0,0.3962301394,0.960104418
+3825828,La Liga,Espanyol,Atlético Madrid,1,3,0.739481032,0.960745621
+3825829,La Liga,Athletic Club,Rayo Vallecano,1,0,0.9257794085,1.481489802
+3825830,La Liga,Villarreal,Getafe,2,0,1.780256509,0.990415929
+3825831,La Liga,Valencia,Sevilla,2,1,1.7241885207,0.954104333
+3825832,La Liga,Sporting Gijón,Celta Vigo,0,1,0.591186948,0.9799904963
+3825833,La Liga,Getafe,Real Madrid,1,5,0.698634217,3.11562509
+3825834,La Liga,Atlético Madrid,Granada,3,0,1.648479913,0.6692855824999999
+3825835,La Liga,Málaga,Athletic Club,0,1,1.99963061,0.883870989
+3825836,La Liga,Rayo Vallecano,Villarreal,2,1,1.172865131,0.5827735470000001
+3825837,La Liga,Real Betis,Las Palmas,1,0,2.23673523,0.10266641
+3825838,La Liga,Athletic Club,Atlético Madrid,0,1,0.606769013,0.909193609
+3825839,La Liga,Sporting Gijón,Sevilla,2,1,1.564057362,1.802238372
+3825840,La Liga,Valencia,Eibar,4,0,2.655185954,0.873957829
+3825841,La Liga,Real Sociedad,Getafe,1,2,0.945617087,1.30853976
+3825842,La Liga,Levante UD,Athletic Club,1,2,0.7405703977,1.1565945804
+3825843,La Liga,Málaga,Rayo Vallecano,1,1,0.988143201,0.7130141260999999
+3825844,La Liga,Athletic Club,Real Betis,3,1,2.1472724393,0.74674222
+3825845,La Liga,Espanyol,Sevilla,1,0,1.506988009,0.3813454968
+3825846,La Liga,RC Deportivo La Coruña,Real Madrid,0,2,0.812190933,1.834950117
+3825847,La Liga,Eibar,RC Deportivo La Coruña,1,1,0.559321064,0.391367896
+3825848,La Liga,Levante UD,Eibar,2,2,0.7354492116,0.985705701
+3825849,La Liga,Valencia,Real Sociedad,0,1,0.807045349,1.0395006574
+3825850,La Liga,Celta Vigo,Málaga,1,0,1.568265652,0.823974764
+3825851,La Liga,Villarreal,RC Deportivo La Coruña,0,2,0.634470083,0.44321513100000004
+3825852,La Liga,Las Palmas,Sporting Gijón,1,1,0.44246750199999996,1.2163661909999999
+3825853,La Liga,Sevilla,Granada,1,4,1.303158541,1.9714488559999999
+3825854,La Liga,Sporting Gijón,Eibar,2,0,0.345808918,0.70052752
+3825855,La Liga,Málaga,Levante UD,3,1,2.414146093,1.800679954
+3825856,La Liga,Real Madrid,Eibar,4,0,2.4743272739999997,1.314849531
+3825857,La Liga,Levante UD,Espanyol,2,1,0.8349081955000001,1.165240663
+3825858,La Liga,Rayo Vallecano,Eibar,1,1,1.297968016,0.819233603
+3825859,La Liga,Granada,Las Palmas,3,2,1.3984104099999999,1.308256084
+3825860,La Liga,Levante UD,Atlético Madrid,2,1,0.825110904,1.4871924189999999
+3825861,La Liga,Real Sociedad,Rayo Vallecano,2,1,1.338118184,1.2936502725
+3825862,La Liga,Espanyol,Celta Vigo,1,1,0.902219558,0.357219662
+3825863,La Liga,RC Deportivo La Coruña,Las Palmas,1,3,2.0612168893,1.5512772745
+3825864,La Liga,Real Sociedad,Real Madrid,0,1,0.44639870400000004,1.1601050865
+3825865,La Liga,Getafe,Sporting Gijón,1,1,1.4016751090000001,0.6117999894
+3825866,La Liga,Las Palmas,Athletic Club,0,0,0.186828914,0.381754602
+3825867,La Liga,Getafe,Sevilla,1,1,1.089335149,0.3943083077
+3825868,La Liga,Celta Vigo,Granada,2,1,2.089776923,0.9143752009999999
+3825869,La Liga,Athletic Club,Sevilla,3,1,1.829546986,1.235118731
+3825870,La Liga,Athletic Club,Celta Vigo,2,1,1.4149671192,0.437693049
+3825871,La Liga,Las Palmas,Espanyol,4,0,1.132780812,1.8880677819999998
+3825872,La Liga,Atlético Madrid,Real Betis,5,1,4.036860107,0.796776475
+3825873,La Liga,Valencia,Villarreal,0,2,0.32002221799999997,1.04451562
+3825874,La Liga,Sevilla,Getafe,5,0,4.075026246,0.291853395
+3825875,La Liga,Villarreal,Real Sociedad,0,0,0.49724234,0.638518893
+3825876,La Liga,Real Betis,Getafe,2,1,1.704117186,1.3897388
+3825877,La Liga,Athletic Club,Granada,1,1,1.728599622,0.565456921
+3825878,La Liga,Atlético Madrid,Rayo Vallecano,1,0,0.743862374,0.787231653
+3825879,La Liga,Las Palmas,Real Madrid,1,2,1.4466833795,1.005357035
+3825880,La Liga,RC Deportivo La Coruña,Levante UD,1,1,0.9114847931,0.5655379252
+3825881,La Liga,Granada,Espanyol,1,0,0.404152717,0.661418403
+3825882,La Liga,Atlético Madrid,Celta Vigo,2,0,1.3684048850000001,0.455120064
+3825883,La Liga,Málaga,Las Palmas,4,1,2.1733854778,1.6789813585
+3825884,La Liga,Sevilla,Real Betis,2,0,1.053605788,0.2960170765
+3825885,La Liga,Rayo Vallecano,Getafe,2,0,3.0631247387,1.23263724
+3825886,La Liga,Rayo Vallecano,Real Madrid,2,3,1.3614474374,1.662622657
+3825887,La Liga,Granada,Rayo Vallecano,2,2,1.3640985107999999,1.7848851190000001
+3825888,La Liga,Valencia,Las Palmas,1,1,1.5161227309999998,1.634707349
+3825889,La Liga,Celta Vigo,Real Betis,1,1,2.087066434,1.3664417660000001
+3825890,La Liga,Atlético Madrid,Málaga,1,0,1.321953714,0.163210278
+3825891,La Liga,Espanyol,Las Palmas,1,0,1.531002593,1.168926147
+3825892,La Liga,Granada,Real Sociedad,0,3,0.4605319445,2.1890754759999997
+3825893,La Liga,Real Madrid,Villarreal,3,0,1.4060827009999999,0.28169973049999997
+3825894,La Liga,RC Deportivo La Coruña,Getafe,0,2,0.660836973,0.851913966
+3825895,La Liga,Las Palmas,Sevilla,2,0,1.075593643,1.782801611
+3825896,La Liga,Granada,Levante UD,5,1,3.092966799,1.039706358
+3825897,La Liga,Eibar,Real Sociedad,2,1,1.1755355509999998,0.619129178
+3825898,La Liga,Celta Vigo,RC Deportivo La Coruña,1,1,0.369549798,1.2132051015
+3825899,La Liga,Getafe,Valencia,2,2,2.987527236,0.6049760240000001
+3825900,La Liga,Sporting Gijón,Villarreal,2,0,1.717123804,0.7034522599999999
+3825901,La Liga,Real Madrid,Valencia,3,2,2.108464095,1.829826249
+3825902,La Liga,Rayo Vallecano,Levante UD,3,1,1.855690209,1.6027164194
+3825903,La Liga,Real Betis,Málaga,0,1,1.1993879189999999,0.8577883705
+3825904,La Liga,Eibar,Real Betis,1,1,2.3932929306,1.0605453538
+3825905,La Liga,Málaga,Espanyol,1,1,1.312178541,0.281534042
+3825906,La Liga,Sevilla,RC Deportivo La Coruña,1,1,1.74065566,0.664602569
+3825907,La Liga,Sporting Gijón,Atlético Madrid,2,1,1.9190997699999999,0.309312684
+3825908,La Liga,Espanyol,Eibar,4,2,2.167300407,2.112536163
+3829413,Ligue 1,Lille,Paris Saint-Germain,0,1,0.656598624,1.41522194
+3829414,Ligue 1,Marseille,Caen,0,1,1.823064741,0.615931824
+3829415,Ligue 1,Bastia,Rennes,2,1,0.542309938,0.5877838683
+3829416,Ligue 1,OGC Nice,AS Monaco,1,2,0.7025572583999999,3.319668605
+3829417,Ligue 1,Troyes,Gazélec Ajaccio,0,0,0.6249722289999999,1.03503988
+3829418,Ligue 1,Nantes,Guingamp,0,0,0.3475974864,0.287644517
+3829419,Ligue 1,Montpellier,Angers,0,2,0.894245162,1.3599845214
+3829420,Ligue 1,Bordeaux,Stade de Reims,1,2,0.8881937670000001,2.054889058
+3829421,Ligue 1,Toulouse,Saint-Étienne,2,1,0.41296077540000004,0.6250539954
+3829422,Ligue 1,Lyon,Lorient,0,0,1.3513813502,0.574493265
+3829423,Ligue 1,AS Monaco,Lille,0,0,0.604242685,0.921706685
+3829424,Ligue 1,Saint-Étienne,Bordeaux,1,1,0.7075502387,1.3928248335
+3829425,Ligue 1,Angers,Nantes,0,0,0.2612886425,0.063407551
+3829426,Ligue 1,Guingamp,Lyon,0,1,0.790788522,0.617585792
+3829427,Ligue 1,Troyes,OGC Nice,3,3,1.2988258256,2.097290648
+3829428,Ligue 1,Caen,Toulouse,1,0,1.192519447,1.269498853
+3829429,Ligue 1,Rennes,Montpellier,1,0,0.842378993,0.17961820700000003
+3829430,Ligue 1,Stade de Reims,Marseille,1,0,1.253519558,0.526669972
+3829431,Ligue 1,Lorient,Bastia,1,1,1.5192480919,1.665335469
+3829432,Ligue 1,Paris Saint-Germain,Gazélec Ajaccio,2,0,1.258700552,0.2036897816
+3829433,Ligue 1,Montpellier,Paris Saint-Germain,0,1,0.393269184,0.766081998
+3829434,Ligue 1,Bastia,Guingamp,3,0,0.91392669,1.222563186
+3829435,Ligue 1,Lyon,Rennes,1,2,0.701696008,0.5137562326
+3829436,Ligue 1,Nantes,Stade de Reims,1,0,1.062138134,0.213867072
+3829437,Ligue 1,Gazélec Ajaccio,Angers,0,2,0.7755946106,0.7504649057
+3829438,Ligue 1,OGC Nice,Caen,2,1,0.7632426019999999,1.0263855695
+3829439,Ligue 1,Toulouse,AS Monaco,1,1,1.498139756,1.056020339
+3829440,Ligue 1,Lorient,Saint-Étienne,0,1,0.653224135,1.597832552
+3829441,Ligue 1,Marseille,Troyes,6,0,3.506722624,0.341287662
+3829442,Ligue 1,Lille,Bordeaux,0,0,1.3219384766,0.9303216423
+3829443,Ligue 1,Guingamp,Marseille,2,0,2.027552077,1.045853838
+3829444,Ligue 1,Caen,Lyon,0,4,1.003406169,1.1021526944
+3829445,Ligue 1,Angers,OGC Nice,1,1,0.211300474,0.882304516
+3829446,Ligue 1,Troyes,Montpellier,0,0,0.694621945,0.5608590867
+3829447,Ligue 1,Lille,Gazélec Ajaccio,1,0,0.8126447473,0.38566696899999997
+3829448,Ligue 1,Stade de Reims,Lorient,4,1,2.0084153363,0.732191494
+3829449,Ligue 1,Rennes,Toulouse,3,1,2.610225028,0.819990931
+3829450,Ligue 1,AS Monaco,Paris Saint-Germain,0,3,0.217662803,2.055273677
+3829451,Ligue 1,Saint-Étienne,Bastia,2,1,2.0302399353,0.507872187
+3829452,Ligue 1,Bordeaux,Nantes,2,0,2.3657541425,0.383001301
+3829453,Ligue 1,Paris Saint-Germain,Bordeaux,2,2,1.459003405,1.4612710473
+3829454,Ligue 1,Lyon,Lille,0,0,0.81244586,0.575079498
+3829455,Ligue 1,Troyes,Caen,1,3,0.6222043847000001,1.242144539
+3829456,Ligue 1,Lorient,Angers,3,1,0.879349962,0.882772896
+3829457,Ligue 1,Montpellier,Saint-Étienne,1,2,1.0637618340000001,1.313873496
+3829458,Ligue 1,Toulouse,Stade de Reims,2,2,1.735931677,0.586818332
+3829459,Ligue 1,OGC Nice,Guingamp,0,1,0.654996962,1.071880529
+3829460,Ligue 1,Nantes,Rennes,0,2,0.487113481,2.4847787169
+3829461,Ligue 1,Marseille,Bastia,4,1,1.387122481,0.327510904
+3829462,Ligue 1,Gazélec Ajaccio,AS Monaco,0,1,1.2106238001,2.5163555349999998
+3829463,Ligue 1,Rennes,Lille,1,1,1.985010423,0.762760412
+3829464,Ligue 1,Bastia,OGC Nice,1,3,1.0089537064,2.520373817
+3829465,Ligue 1,Stade de Reims,Paris Saint-Germain,1,1,0.862198517,1.339834892
+3829466,Ligue 1,Angers,Troyes,1,0,1.7176083042999999,1.3202160795
+3829467,Ligue 1,Caen,Montpellier,2,1,1.4944773329999999,0.957946182
+3829468,Ligue 1,Guingamp,Gazélec Ajaccio,2,1,1.029912328,0.745436431
+3829469,Ligue 1,AS Monaco,Lorient,2,3,1.4265371499,1.949385664
+3829470,Ligue 1,Saint-Étienne,Nantes,2,0,1.3306491440000001,0.420787003
+3829471,Ligue 1,Bordeaux,Toulouse,1,1,1.9029282333,1.323812206
+3829472,Ligue 1,Marseille,Lyon,1,1,1.349667188,2.0005004496
+3829473,Ligue 1,Paris Saint-Germain,Guingamp,3,0,2.677785209,0.47564763600000004
+3829474,Ligue 1,Angers,Stade de Reims,0,0,0.576495612,0.1460721054
+3829475,Ligue 1,OGC Nice,Bordeaux,5,1,2.5600646434,0.928756686
+3829476,Ligue 1,Lyon,Bastia,2,0,1.8426130735,0.11651331100000001
+3829477,Ligue 1,Toulouse,Marseille,1,1,1.124061707,0.784106937
+3829478,Ligue 1,Gazélec Ajaccio,Rennes,1,1,0.4942836234,1.6350721799
+3829479,Ligue 1,Lorient,Caen,2,0,1.251472237,1.0165706485
+3829480,Ligue 1,Troyes,Saint-Étienne,0,1,0.4203787217,1.2008339635
+3829481,Ligue 1,Montpellier,AS Monaco,2,3,1.4198382716,1.762952544
+3829482,Ligue 1,Stade de Reims,Lille,1,0,1.9130199547,0.7129513683
+3829483,Ligue 1,Nantes,Paris Saint-Germain,1,4,0.5242850640000001,1.7505219109999999
+3829484,Ligue 1,Bordeaux,Lyon,3,1,1.080873909,0.694806174
+3829485,Ligue 1,Rennes,Troyes,1,1,1.691595685,0.947243132
+3829486,Ligue 1,Bastia,Toulouse,3,0,1.203743699,1.6424119435
+3829487,Ligue 1,Caen,Gazélec Ajaccio,2,0,2.186422768,0.432069316
+3829488,Ligue 1,Guingamp,AS Monaco,3,3,1.60902967,0.841969502
+3829489,Ligue 1,Montpellier,Lorient,2,1,0.797058711,0.4168862756
+3829490,Ligue 1,Saint-Étienne,OGC Nice,1,4,2.490718374,0.7828750614
+3829491,Ligue 1,Marseille,Angers,1,2,1.6372099119999999,1.122877655
+3829492,Ligue 1,Lille,Nantes,0,1,1.322889348,1.785138855
+3829493,Ligue 1,Lille,Montpellier,2,0,1.8456653527,1.1208317855
+3829494,Ligue 1,Gazélec Ajaccio,Toulouse,2,1,0.676796123,1.115271542
+3829495,Ligue 1,Lyon,Stade de Reims,1,0,2.1157878553,0.571174886
+3829496,Ligue 1,Angers,Bastia,1,0,2.059615198,0.399772543
+3829497,Ligue 1,Troyes,Guingamp,0,1,1.546057119,2.253452023
+3829498,Ligue 1,Lorient,Bordeaux,3,2,1.519321316,0.672345333
+3829499,Ligue 1,Caen,Saint-Étienne,1,0,1.4303807345,0.6355119687
+3829500,Ligue 1,Paris Saint-Germain,Marseille,2,1,3.211334724,1.727628657
+3829501,Ligue 1,AS Monaco,Rennes,1,1,0.9889105225,1.4807779535999999
+3829502,Ligue 1,AS Monaco,Lyon,1,1,0.6910800155000001,1.3531708304999999
+3829503,Ligue 1,Nantes,Troyes,3,0,2.242928096,0.819108497
+3829504,Ligue 1,Bastia,Paris Saint-Germain,0,2,0.6178622819999999,1.4556723956
+3829505,Ligue 1,Saint-Étienne,Gazélec Ajaccio,2,0,0.724545599,0.100448288
+3829506,Ligue 1,Guingamp,Lille,1,1,0.517167126,0.750549285
+3829507,Ligue 1,Toulouse,Angers,1,2,1.3802298905000001,0.340678445
+3829508,Ligue 1,Stade de Reims,Caen,0,1,0.7144653052000001,1.555227857
+3829509,Ligue 1,Marseille,Lorient,1,1,2.176342141,0.655203705
+3829510,Ligue 1,Rennes,OGC Nice,1,4,0.7692219813,1.7688802225
+3829511,Ligue 1,Bordeaux,Montpellier,0,0,1.0128897845,0.5597383770000001
+3829512,Ligue 1,Lyon,Toulouse,3,0,2.1844801988,0.7952292609999999
+3829513,Ligue 1,Caen,Nantes,0,2,1.254582283,1.346418922
+3829514,Ligue 1,Angers,Guingamp,0,0,0.297069181,1.2467827915
+3829515,Ligue 1,Montpellier,Bastia,2,0,0.535701521,0.7182107
+3829516,Ligue 1,Lorient,Rennes,1,1,0.971690557,0.8427782832
+3829517,Ligue 1,Gazélec Ajaccio,OGC Nice,3,1,0.746791396,0.3492562339
+3829518,Ligue 1,Lille,Marseille,1,2,0.68731297,1.459104036
+3829519,Ligue 1,Paris Saint-Germain,Saint-Étienne,4,0,4.1258815853,0.7544148927
+3829520,Ligue 1,Stade de Reims,AS Monaco,0,1,1.0709863445,1.233639591
+3829521,Ligue 1,Bordeaux,Troyes,1,0,0.8519744383,0.9309871626
+3829522,Ligue 1,OGC Nice,Nantes,1,2,1.378084227,2.15791537
+3900490,Ligue 1,Rennes,Paris Saint-Germain,0,1,0.31041272400000003,0.6717539115
+3900491,Ligue 1,Saint-Étienne,Stade de Reims,2,0,2.7204329135,0.616669006
+3900492,Ligue 1,Guingamp,Lorient,2,2,1.047251255,1.550550561
+3900493,Ligue 1,Troyes,Lyon,0,1,0.476020362,2.625077946
+3900494,Ligue 1,Gazélec Ajaccio,Bordeaux,2,0,0.49332297599999997,0.219695082
+3900495,Ligue 1,Bastia,Caen,1,0,0.681398562,0.32850417699999995
+3900496,Ligue 1,Toulouse,Montpellier,1,1,0.692970043,0.399289822
+3900497,Ligue 1,OGC Nice,Lille,0,0,1.1550745087,0.5084813029999999
+3900498,Ligue 1,AS Monaco,Angers,1,0,2.227365304,0.7621137345
+3900499,Ligue 1,Nantes,Marseille,0,1,0.8380175,0.9717726289999999
+3900500,Ligue 1,Angers,Rennes,0,2,2.1571901766,0.614059647
+3900501,Ligue 1,Paris Saint-Germain,Toulouse,5,0,1.71060406,0.280051379
+3900502,Ligue 1,Lorient,Troyes,4,1,3.1231383189999997,1.595051705
+3900503,Ligue 1,Lille,Bastia,1,1,1.3607552600000001,0.5274630166000001
+3900504,Ligue 1,Montpellier,Nantes,2,1,1.978136737,0.6174783064
+3900505,Ligue 1,Caen,Guingamp,2,1,1.320283138,1.3751438497
+3900506,Ligue 1,Stade de Reims,Gazélec Ajaccio,1,2,1.419055433,0.6156448375
+3900507,Ligue 1,Marseille,OGC Nice,0,1,0.9681578630000001,0.623640469
+3900508,Ligue 1,Bordeaux,AS Monaco,3,1,1.278205338,1.391462886
+3900509,Ligue 1,Lyon,Saint-Étienne,3,0,2.379320867,0.16381203500000002
+3900510,Ligue 1,OGC Nice,Lyon,3,0,2.601662493,1.042041738
+3900511,Ligue 1,Lorient,Paris Saint-Germain,1,2,0.920605126,1.401772233
+3900512,Ligue 1,Montpellier,Stade de Reims,3,1,3.010514595,0.57842363
+3900513,Ligue 1,Troyes,Lille,1,1,0.8610973749999999,1.20093768
+3900514,Ligue 1,Guingamp,Toulouse,2,0,1.2665894783,1.346334878
+3900515,Ligue 1,AS Monaco,Nantes,1,0,0.7492219914,0.44033106
+3900516,Ligue 1,Saint-Étienne,Marseille,0,2,0.9342815325,2.1525063853
+3900518,Ligue 1,Caen,Angers,0,0,0.4124396533,0.640955641
+3900519,Ligue 1,Rennes,Bordeaux,2,2,2.1221260855,2.251584787
+3900520,Ligue 1,Lyon,Montpellier,2,4,0.948341482,3.012630405
+3900521,Ligue 1,Paris Saint-Germain,Troyes,4,1,3.453421274,0.47632111
+3900522,Ligue 1,Toulouse,OGC Nice,2,0,2.241571151,0.4247373606
+3900523,Ligue 1,Stade de Reims,Rennes,2,2,0.9042434381,1.095413491
+3900524,Ligue 1,Gazélec Ajaccio,Lorient,1,1,1.2203997119999999,0.989517336
+3900525,Ligue 1,Nantes,Bastia,0,0,0.988283455,0.2804122686
+3900526,Ligue 1,Angers,Lille,2,0,1.240020124,0.505453217
+3900527,Ligue 1,Marseille,AS Monaco,3,3,2.061075974,1.551775068
+3900528,Ligue 1,Bordeaux,Caen,1,3,0.7672664839,2.1562948895
+3900529,Ligue 1,Saint-Étienne,Guingamp,3,0,2.736029811,1.583344152
+3900530,Ligue 1,Nantes,Lyon,0,0,0.902539821,0.55918388
+3900531,Ligue 1,Lorient,OGC Nice,0,0,0.3366670317,1.108375682
+3900532,Ligue 1,Angers,Paris Saint-Germain,0,0,0.342673703,0.812336745
+3900533,Ligue 1,AS Monaco,Caen,1,1,0.9673935760000001,0.4749134357
+3900534,Ligue 1,Bastia,Bordeaux,1,0,1.0814138279999999,0.324544335
+3900535,Ligue 1,Lille,Saint-Étienne,1,0,0.4512128521,0.372131112
+3900536,Ligue 1,Montpellier,Gazélec Ajaccio,0,2,1.4322368647000001,0.8857450716999999
+3900537,Ligue 1,Troyes,Toulouse,0,3,0.811347338,1.8639289314
+3900538,Ligue 1,Guingamp,Stade de Reims,1,2,0.4732617329,1.13082267
+3900539,Ligue 1,Rennes,Marseille,0,1,0.738167236,0.823297388
+3900540,Ligue 1,OGC Nice,Paris Saint-Germain,0,3,0.28675646,3.209034114
+3900541,Ligue 1,Bastia,AS Monaco,1,2,0.28577411799999997,2.3787002337
+3900542,Ligue 1,Caen,Lille,1,2,1.1852378128999999,1.518344366
+3900543,Ligue 1,Stade de Reims,Troyes,1,1,1.282531684,0.78850382
+3900544,Ligue 1,Toulouse,Lorient,2,3,3.2231103660000002,0.5072979390000001
+3900545,Ligue 1,Lyon,Angers,0,2,0.933116434,0.717859845
+3900546,Ligue 1,Gazélec Ajaccio,Nantes,1,1,1.688321821,1.39374661
+3900547,Ligue 1,Marseille,Montpellier,2,2,1.5165353754,0.677074977
+3900548,Ligue 1,Bordeaux,Guingamp,1,0,0.7930131398,0.658757315
+3900549,Ligue 1,Saint-Étienne,Rennes,1,1,1.605604118,0.5261022425
+3900550,Ligue 1,Rennes,Caen,1,1,1.653782848,1.0231279340000001
+3900551,Ligue 1,Lille,Lorient,3,0,1.851746535,0.434303778
+3900552,Ligue 1,Montpellier,Guingamp,2,1,1.452811035,0.3134487271
+3900553,Ligue 1,Stade de Reims,OGC Nice,1,1,2.0031130075,0.7199654839999999
+3900554,Ligue 1,Troyes,Bastia,1,1,0.9573160394,0.485609275
+3900555,Ligue 1,Nantes,Toulouse,1,1,0.9959668660000001,0.588446275
+3900556,Ligue 1,Angers,Bordeaux,1,1,1.2022303465,0.489357664
+3900557,Ligue 1,Paris Saint-Germain,Lyon,5,1,2.69165245,0.230890067
+3900558,Ligue 1,AS Monaco,Saint-Étienne,1,0,1.55625803,0.35366815
+3900559,Ligue 1,Marseille,Gazélec Ajaccio,1,1,1.4587190163000001,1.2428227429999998
+3900560,Ligue 1,OGC Nice,Montpellier,1,0,0.641594492,0.7461668029999999
+3900561,Ligue 1,Toulouse,Lille,1,1,1.124752223,1.3832271095
+3900562,Ligue 1,Caen,Paris Saint-Germain,0,3,1.250181469,2.3603486179999997
+3900563,Ligue 1,Guingamp,Rennes,0,2,0.8434906401,0.9652523129999999
+3900564,Ligue 1,Troyes,AS Monaco,0,0,0.6221778221,1.3442974753999999
+3900565,Ligue 1,Lorient,Nantes,0,0,1.275232416,0.7240328151
+3900566,Ligue 1,Bastia,Stade de Reims,2,0,0.687872859,0.7858634797
+3900567,Ligue 1,Bordeaux,Marseille,1,1,1.177060253,0.410189829
+3900568,Ligue 1,Gazélec Ajaccio,Lyon,2,1,1.7170158573,1.0968333194
+3900569,Ligue 1,Saint-Étienne,Angers,1,0,1.085917154,0.684271584
+3900570,Ligue 1,Paris Saint-Germain,Bastia,2,0,1.7797756435,0.3566725295
+3900571,Ligue 1,Rennes,Lorient,2,2,0.763450425,0.853053242
+3900572,Ligue 1,AS Monaco,Gazélec Ajaccio,2,2,1.6546105747,0.432618167
+3900573,Ligue 1,Angers,Caen,2,0,0.946101866,0.8197496945
+3900574,Ligue 1,Lyon,Troyes,4,1,2.0097175857,0.519409326
+3900575,Ligue 1,Stade de Reims,Toulouse,1,3,0.39125346299999997,1.646176334
+3900576,Ligue 1,Montpellier,Bordeaux,0,1,1.8166617565,1.481967913
+3900577,Ligue 1,Marseille,Guingamp,0,0,0.8227803419999999,0.2526270498
+3900578,Ligue 1,Lille,OGC Nice,1,1,0.743810357,0.6220700374
+3900579,Ligue 1,Nantes,Saint-Étienne,2,1,1.717134237,1.319788073
+3900580,Ligue 1,OGC Nice,Angers,2,1,1.8660353700999999,0.7046237498
+3900581,Ligue 1,Bordeaux,Lille,1,0,0.813220696,0.3244141755
+3900582,Ligue 1,Gazélec Ajaccio,Stade de Reims,2,2,2.280582661,0.4781814395
+3900583,Ligue 1,Troyes,Rennes,2,4,0.805171697,3.1497473207
+3900584,Ligue 1,Bastia,Montpellier,1,0,0.30387894,1.019667721
+3900585,Ligue 1,Toulouse,Paris Saint-Germain,0,1,0.6517639595,0.9044508504
+3900586,Ligue 1,Guingamp,Nantes,2,2,0.9786888785000001,0.513071894
+3900587,Ligue 1,Saint-Étienne,Lyon,1,0,0.5948685893,1.1171413970000001
+3900588,Ligue 1,Lorient,AS Monaco,0,2,0.715287521,0.6789292
+3900589,Ligue 1,Caen,Marseille,1,3,0.683820039,2.1029114
+3900590,Ligue 1,Rennes,Gazélec Ajaccio,0,0,1.348230849,0.3957009734
+3900591,Ligue 1,Paris Saint-Germain,Angers,5,1,2.2071510903,0.4221883733
+3900592,Ligue 1,Montpellier,Caen,1,2,1.165207747,0.8390315057
+3900593,Ligue 1,Lille,Troyes,1,3,2.033012811,0.610975458
+3900594,Ligue 1,Nantes,Bordeaux,2,1,0.992589752,0.733941045
+3900595,Ligue 1,OGC Nice,Lorient,2,1,0.569729383,1.2323962255
+3900596,Ligue 1,Guingamp,Bastia,1,0,1.8662321130000001,0.168572919
+3900597,Ligue 1,Lyon,Marseille,1,1,1.9464689162,0.783673481
+3900598,Ligue 1,AS Monaco,Toulouse,4,0,2.94498062,1.5882195719999999
+3900599,Ligue 1,Stade de Reims,Saint-Étienne,1,1,2.3826316125,0.39963470199999995
+3900600,Ligue 1,Marseille,Lille,1,1,1.717499568,0.996260655
+3900601,Ligue 1,Gazélec Ajaccio,Montpellier,0,4,1.0701206419,1.6993013119999998
+3900602,Ligue 1,Lorient,Stade de Reims,2,0,1.4439213065,1.6055781037
+3900603,Ligue 1,Toulouse,Guingamp,1,2,2.283730359,1.008080263
+3900604,Ligue 1,Angers,AS Monaco,3,0,2.4917461149999998,0.5115873870000001
+3900605,Ligue 1,Bastia,Lyon,1,0,0.7113211244,1.000736067
+3900606,Ligue 1,Troyes,Nantes,0,1,0.8000540563,0.769037231
+3900608,Ligue 1,Caen,OGC Nice,2,0,1.803271297,2.258176788
+3900609,Ligue 1,Bordeaux,Rennes,4,0,1.805016511,0.6238648504000001
+3900610,Ligue 1,Montpellier,Marseille,0,1,0.49298639699999997,0.22861097000000002
+3900611,Ligue 1,AS Monaco,Bastia,2,0,1.142888626,0.26516397869999997
+3900612,Ligue 1,Guingamp,Troyes,4,0,2.006230064,1.076792911
+3900613,Ligue 1,OGC Nice,Toulouse,1,0,1.4804406625,0.67318859
+3900614,Ligue 1,Lille,Caen,1,0,0.6071615396000001,0.466395287
+3900615,Ligue 1,Nantes,Gazélec Ajaccio,3,1,1.9108463743,0.455145416
+3900616,Ligue 1,Lyon,Bordeaux,3,0,2.12575275,1.057404163
+3900617,Ligue 1,Stade de Reims,Angers,2,1,0.692772061,1.275657419
+3900618,Ligue 1,Paris Saint-Germain,Lorient,3,1,2.0676569002,0.71917054
+3900619,Ligue 1,Rennes,Saint-Étienne,0,1,0.7041311505,0.41625654209999996
+3900620,Ligue 1,Caen,Stade de Reims,0,2,1.412365138,1.515412998
+3900621,Ligue 1,Toulouse,Nantes,0,0,0.5000362637000001,1.57286063
+3900622,Ligue 1,Bastia,Troyes,2,0,1.73253587,0.497338013
+3900623,Ligue 1,Lorient,Montpellier,1,1,0.522960863,0.7077879846999999
+3900624,Ligue 1,Angers,Lyon,0,3,0.6026444472,0.53856221
+3900625,Ligue 1,AS Monaco,OGC Nice,1,0,1.5016868057,0.598611417
+3900626,Ligue 1,Gazélec Ajaccio,Guingamp,0,0,1.080635676,0.0215950271
+3900627,Ligue 1,Bordeaux,Saint-Étienne,1,4,0.9376220705999999,2.734135545
+3900628,Ligue 1,Lille,Rennes,1,1,1.2356093665,1.086653842
+3900629,Ligue 1,Marseille,Paris Saint-Germain,1,2,0.9715775212000001,1.328113364
+3900630,Ligue 1,Rennes,Angers,0,0,0.939281045,0.829210546
+3900631,Ligue 1,Montpellier,Toulouse,2,0,0.9763308050000001,0.5126626797
+3900632,Ligue 1,Guingamp,Bordeaux,2,4,1.1274236903,2.073152067
+3900633,Ligue 1,Gazélec Ajaccio,Troyes,2,3,2.159152223,0.543193
+3900634,Ligue 1,Paris Saint-Germain,Lille,0,0,1.54323174,0.124683185
+3900635,Ligue 1,Stade de Reims,Bastia,0,0,1.307273571,0.6835360556
+3900636,Ligue 1,Nantes,Lorient,2,1,1.304312918,0.9366970569999999
+3900637,Ligue 1,OGC Nice,Marseille,1,1,0.7780368929999999,1.874037993
+3900638,Ligue 1,Lyon,Caen,4,1,3.7991769305,1.089388963
+3900639,Ligue 1,Saint-Étienne,AS Monaco,1,1,1.4177273464,0.862267088
+3901144,Ligue 1,Bordeaux,OGC Nice,0,0,1.1823832799999998,0.5056944160000001
+3901145,Ligue 1,Angers,Montpellier,2,3,1.5793487019999999,1.0879116595
+3901146,Ligue 1,Paris Saint-Germain,Stade de Reims,4,1,1.373163976,0.6472681357000001
+3901147,Ligue 1,Toulouse,Gazélec Ajaccio,1,1,1.42078701,0.979331129
+3901148,Ligue 1,Lorient,Guingamp,4,3,2.815289917,0.7965017662
+3901149,Ligue 1,AS Monaco,Troyes,3,1,2.932603127,1.0962992245
+3901150,Ligue 1,Marseille,Saint-Étienne,1,1,0.550853493,0.8493979709999999
+3901151,Ligue 1,Lille,Lyon,1,0,0.7857719003,1.027345596
+3901152,Ligue 1,Caen,Rennes,1,0,1.164923048,0.680430964
+3901153,Ligue 1,OGC Nice,Bastia,0,2,0.985539456,0.45056474550000003
+3901154,Ligue 1,Troyes,Lorient,0,1,0.580839664,2.210018599
+3901155,Ligue 1,Montpellier,Lille,3,0,1.039311871,0.388642048
+3901156,Ligue 1,Guingamp,Angers,2,2,2.777363219,1.007466061
+3901157,Ligue 1,Stade de Reims,Bordeaux,4,1,1.1984398674,0.672826398
+3901158,Ligue 1,Toulouse,Rennes,1,2,0.409198401,1.719294862
+3901159,Ligue 1,Lyon,Paris Saint-Germain,2,1,1.24746373,0.37083133970000004
+3901160,Ligue 1,Nantes,AS Monaco,0,0,0.9984490079999999,0.320730176
+3901161,Ligue 1,Saint-Étienne,Caen,1,2,1.263882367,1.3947519800000001
+3901162,Ligue 1,Caen,AS Monaco,2,1,1.5485334825,0.5322113900000001
+3901163,Ligue 1,OGC Nice,Troyes,2,1,1.792397987,0.7214251060000001
+3901164,Ligue 1,Angers,Saint-Étienne,0,0,0.354852771,1.555241324
+3901165,Ligue 1,Bordeaux,Gazélec Ajaccio,1,1,1.605505015,0.192672478
+3901166,Ligue 1,Paris Saint-Germain,Montpellier,0,0,0.828755284,0.327134417
+3901167,Ligue 1,Bastia,Lorient,0,0,2.1364796853,0.086476494
+3901168,Ligue 1,Lille,Stade de Reims,2,0,1.256661965,0.345187937
+3901169,Ligue 1,Marseille,Toulouse,1,1,2.1103122697,1.0756865062
+3901170,Ligue 1,Rennes,Nantes,4,1,1.2845975198,0.607797283
+3901171,Ligue 1,Lyon,Guingamp,4,1,4.324795418,1.621508307
+3901172,Ligue 1,Bastia,Nantes,0,0,0.353307649,0.443823841
+3901173,Ligue 1,Gazélec Ajaccio,Marseille,0,1,1.504207754,0.86113621
+3901174,Ligue 1,AS Monaco,Stade de Reims,2,2,1.448384876,1.375144208
+3901175,Ligue 1,Montpellier,OGC Nice,0,2,1.2708964822,1.8918583755
+3901176,Ligue 1,Toulouse,Bordeaux,4,0,4.74145211,0.5835116764
+3901177,Ligue 1,Bastia,Lille,1,2,0.814622395,0.967515788
+3901178,Ligue 1,Lorient,Marseille,1,1,1.87548698,0.788896837
+3901179,Ligue 1,Gazélec Ajaccio,Caen,1,0,1.1086152847,0.761133871
+3901180,Ligue 1,Guingamp,Saint-Étienne,2,0,1.325261625,0.871084372
+3901181,Ligue 1,Rennes,Lyon,2,2,1.215062118,2.330308351
+3901182,Ligue 1,Nantes,Angers,2,0,0.666288488,0.22972649429999997
+3901183,Ligue 1,Troyes,Paris Saint-Germain,0,8,1.1702205665,5.723213808
+3901184,Ligue 1,Marseille,Rennes,2,5,1.4260023285,1.46998034
+3901185,Ligue 1,Stade de Reims,Guingamp,0,1,1.3538508086999999,0.16927694
+3901186,Ligue 1,Lyon,Nantes,2,0,1.796890293,0.31470311
+3901187,Ligue 1,Angers,Lorient,5,1,3.957013582,0.856725899
+3901188,Ligue 1,Saint-Étienne,Montpellier,3,0,2.048434713,0.511360719
+3901189,Ligue 1,Lille,Toulouse,1,0,0.227824583,1.0603969013
+3901190,Ligue 1,Caen,Troyes,2,1,1.029590921,0.2597358105
+3901191,Ligue 1,OGC Nice,Gazélec Ajaccio,3,0,1.619685917,0.5154962058
+3901192,Ligue 1,Bordeaux,Bastia,1,1,1.056678666,0.979360552
+3901193,Ligue 1,Paris Saint-Germain,AS Monaco,0,2,2.238237888,2.0699904948
+3901194,Ligue 1,AS Monaco,Bordeaux,0,2,1.5346134724,0.9991060377
+3901195,Ligue 1,Gazélec Ajaccio,Saint-Étienne,0,2,1.448902162,0.718805496
+3901196,Ligue 1,Paris Saint-Germain,OGC Nice,4,1,1.239242788,0.43395591699999997
+3901197,Ligue 1,Guingamp,Montpellier,2,2,0.762920163,0.4676779136
+3901198,Ligue 1,Troyes,Angers,0,1,1.1604834544,1.0116306050000001
+3901199,Ligue 1,Rennes,Stade de Reims,3,1,1.354857508,0.340574631
+3901200,Ligue 1,Toulouse,Caen,2,0,0.587787835,0.2019931835
+3901201,Ligue 1,Bastia,Marseille,2,1,1.0286257410000001,0.368226237
+3901202,Ligue 1,Lorient,Lyon,1,3,1.3486370970000001,1.758365109
+3901203,Ligue 1,Nantes,Lille,0,3,0.445952176,0.728751264
+3901204,Ligue 1,Montpellier,Lyon,0,2,0.653730353,3.0130442850000003
+3901205,Ligue 1,Caen,Lorient,1,2,1.0156988519999999,1.991365314
+3901206,Ligue 1,Toulouse,Bastia,4,0,1.3026255784,0.063239402
+3901207,Ligue 1,Stade de Reims,Nantes,1,1,0.590242319,1.4897035744
+3901208,Ligue 1,Guingamp,Paris Saint-Germain,0,2,0.532449108,1.954887118
+3901209,Ligue 1,Angers,Gazélec Ajaccio,0,0,0.1916899057,0.15494998100000001
+3901210,Ligue 1,Saint-Étienne,Troyes,1,0,1.4666562042,0.2646629662
+3901211,Ligue 1,Marseille,Bordeaux,0,0,0.44315755,0.5585171099999999
+3901212,Ligue 1,Lille,AS Monaco,4,1,1.80943768,0.51922413
+3901213,Ligue 1,OGC Nice,Rennes,3,0,2.963454199,0.929624326
+3901214,Ligue 1,Lyon,OGC Nice,1,1,1.1081112850000001,0.7453516299999999
+3901215,Ligue 1,Gazélec Ajaccio,Lille,2,3,1.357901078,1.6208416177
+3901216,Ligue 1,Paris Saint-Germain,Caen,6,0,3.517544191,0.8298515399999999
+3901217,Ligue 1,Troyes,Stade de Reims,2,1,2.53160207,1.3600891705
+3901218,Ligue 1,Bordeaux,Angers,1,3,1.722540519,0.21511217
+3901219,Ligue 1,Lorient,Toulouse,1,1,0.566968095,0.8804538639999999
+3901220,Ligue 1,Bastia,Saint-Étienne,0,1,1.005760319,0.693675368
+3901221,Ligue 1,Rennes,Guingamp,0,3,0.6940540496000001,1.459289835
+3901222,Ligue 1,Nantes,Montpellier,0,2,0.6047357185,0.5410269397
+3901223,Ligue 1,AS Monaco,Marseille,2,1,0.969415225,0.5239420783
+3901224,Ligue 1,OGC Nice,Stade de Reims,2,0,1.873261728,1.315958358
+3901225,Ligue 1,Toulouse,Lyon,2,3,1.78467961,1.7391845433
+3901226,Ligue 1,Montpellier,Troyes,4,1,1.3179873855,2.044624731
+3901227,Ligue 1,Marseille,Nantes,1,1,0.9099498460000001,0.305671466
+3901228,Ligue 1,Saint-Étienne,Lorient,2,0,1.198226207,0.4062078413
+3901229,Ligue 1,Guingamp,Caen,1,1,0.75150329,0.75641258
+3901230,Ligue 1,Gazélec Ajaccio,Bastia,3,2,1.359218539,1.2372205249000001
+3901231,Ligue 1,Rennes,AS Monaco,1,1,0.931858538,1.697724211
+3901232,Ligue 1,Lille,Angers,0,0,1.098851565,0.304898571
+3901233,Ligue 1,Paris Saint-Germain,Rennes,4,0,4.7551161435000004,0.223252014
+3901234,Ligue 1,Stade de Reims,Montpellier,2,3,2.023559678,0.7221161075
+3901235,Ligue 1,Lyon,Gazélec Ajaccio,2,1,0.29130266650000003,0.36054466900000004
+3901236,Ligue 1,Nantes,OGC Nice,1,0,1.633079079,0.6387432785
+3901237,Ligue 1,Saint-Étienne,Toulouse,0,0,0.430481366,2.111872374
+3901238,Ligue 1,AS Monaco,Guingamp,3,2,1.083519295,0.825017067
+3901240,Ligue 1,Lorient,Lille,0,1,0.61562378,0.821557359
+3901241,Ligue 1,Caen,Bastia,0,0,1.218465219,0.582806752
+3901242,Ligue 1,Angers,Marseille,0,1,0.61153429,1.1250196
+3901243,Ligue 1,Bastia,Angers,1,0,0.881490423,1.41316626
+3901244,Ligue 1,Toulouse,Troyes,1,0,1.2776656259999999,0.126980389
+3901245,Ligue 1,Bordeaux,Lorient,3,0,1.006924726,0.8881914790000001
+3901246,Ligue 1,Nantes,Caen,1,2,0.8413184785000001,1.2219091235
+3901247,Ligue 1,Gazélec Ajaccio,Paris Saint-Germain,0,4,0.350332817,1.745619065
+3901248,Ligue 1,Lille,Guingamp,0,0,1.4445810086,0.10135237
+3901249,Ligue 1,Montpellier,Rennes,2,0,1.4652746482999999,0.5771187424
+3901250,Ligue 1,OGC Nice,Saint-Étienne,2,0,1.353201522,0.203085654
+3901251,Ligue 1,Marseille,Stade de Reims,1,0,2.2845134004,1.1875095905
+3901252,Ligue 1,Lyon,AS Monaco,6,1,4.097257988,0.771075844
+3901253,Ligue 1,Bordeaux,Paris Saint-Germain,1,1,1.012216173,1.895518079
+3901254,Ligue 1,Stade de Reims,Lyon,4,1,2.391283345,1.702504756
+3901255,Ligue 1,Angers,Toulouse,2,3,0.216027857,1.911995567
+3901256,Ligue 1,AS Monaco,Montpellier,2,0,3.9128650929999997,1.373347034
+3901257,Ligue 1,Saint-Étienne,Lille,0,1,0.924703098,1.307966758
+3901258,Ligue 1,Guingamp,OGC Nice,1,3,1.5210002023,0.896542031
+3901259,Ligue 1,Troyes,Marseille,1,1,0.97729528,2.512848477
+3901260,Ligue 1,Lorient,Gazélec Ajaccio,1,0,0.892661162,1.9617241382
+3901261,Ligue 1,Paris Saint-Germain,Nantes,4,0,3.638743808,0.747247878
+3901262,Ligue 1,Caen,Bordeaux,1,0,1.2697099647999999,1.148302717
+3901263,Ligue 1,Rennes,Bastia,1,2,1.628039856,1.037246666
+3753972,Premier League,Swansea City,AFC Bournemouth,2,2,2.1463227910000002,1.7908834997
+3753973,Premier League,Chelsea,West Ham United,2,2,2.405319371,0.886417968
+3753974,Premier League,Newcastle United,Everton,0,1,1.221292012,1.806267889
+3753975,Premier League,Sunderland,AFC Bournemouth,1,1,0.490046305,1.18296951
+3753976,Premier League,Arsenal,Swansea City,1,2,1.327473657,1.1740502400000001
+3753977,Premier League,Watford,Stoke City,1,2,0.7222179230000001,1.427871372
+3753978,Premier League,Southampton,Swansea City,2,1,1.407768269,1.321273982
+3753979,Premier League,Crystal Palace,Sunderland,0,1,0.691144955,1.6724883995
+3753980,Premier League,Everton,Arsenal,0,2,0.45883076300000003,1.830370192
+3753981,Premier League,Aston Villa,Crystal Palace,0,0,0.697131786,0.4005079474
+3753982,Premier League,Leicester City,Southampton,1,0,1.237693633,0.518473497
+3753983,Premier League,Swansea City,Arsenal,0,3,0.33003109399999997,1.647394006
+3753984,Premier League,Liverpool,West Ham United,0,3,1.057457813,0.731214484
+3753985,Premier League,Stoke City,Liverpool,0,1,0.415074461,0.245268123
+3753986,Premier League,Liverpool,Stoke City,4,1,1.9046623936999998,0.58647117
+3753987,Premier League,Leicester City,Tottenham Hotspur,1,1,0.62720865,1.971763712
+3753988,Premier League,AFC Bournemouth,Swansea City,3,2,0.9624117966,1.5288385593
+3753989,Premier League,Sunderland,Everton,3,0,1.9913096856,1.1338910485
+3753990,Premier League,Sunderland,Arsenal,0,0,0.501764842,1.338111885
+3753991,Premier League,Liverpool,Manchester City,3,0,1.1228887092,0.208402952
+3753992,Premier League,Tottenham Hotspur,Southampton,1,2,2.337177927,0.945182293
+3753993,Premier League,Sunderland,Norwich City,1,3,0.387412242,1.229675192
+3753994,Premier League,Southampton,Crystal Palace,4,1,2.3921003845,1.296064391
+3753995,Premier League,Chelsea,Southampton,1,3,0.4319053367,1.6702326825
+3753996,Premier League,Chelsea,Norwich City,1,0,1.820855655,0.306293368
+3753997,Premier League,West Ham United,Aston Villa,2,0,2.6677341764,0.158824904
+3753998,Premier League,West Ham United,Southampton,2,1,1.4072806077,1.094180983
+3753999,Premier League,Watford,Arsenal,0,3,0.511569575,2.011464325
+3754000,Premier League,Sunderland,Southampton,0,1,0.555141903,1.7965055407
+3754001,Premier League,Newcastle United,Chelsea,2,2,0.876113295,1.2854139026
+3754002,Premier League,Leicester City,Newcastle United,1,0,0.930954673,0.873260962
+3754003,Premier League,Manchester United,Liverpool,3,1,1.478562597,0.617930664
+3754004,Premier League,AFC Bournemouth,Norwich City,3,0,2.26145355,0.4287345755
+3754005,Premier League,Stoke City,Newcastle United,1,0,0.27957120550000003,0.40443306
+3754006,Premier League,West Bromwich Albion,Leicester City,2,3,1.9870628995,1.679065363
+3754007,Premier League,Stoke City,West Bromwich Albion,0,1,0.6553867645,0.9523900966
+3754008,Premier League,Manchester United,Sunderland,3,0,2.344005837,0.48601443099999997
+3754009,Premier League,Arsenal,Crystal Palace,1,1,1.736553898,0.3875618627
+3754010,Premier League,Newcastle United,Watford,1,2,1.3770291749999999,1.1592038457
+3754011,Premier League,Southampton,Manchester United,2,3,1.773677128,1.623534408
+3754012,Premier League,Southampton,Chelsea,1,2,1.067482739,1.410115366
+3754013,Premier League,Leicester City,Chelsea,2,1,0.643696642,2.06070106
+3754014,Premier League,Stoke City,Manchester United,2,0,1.075231223,1.2773736449
+3754015,Premier League,Manchester United,Manchester City,0,0,0.344773899,0.3240815034
+3754016,Premier League,Southampton,Newcastle United,3,1,1.9387079523,0.269008924
+3754017,Premier League,Aston Villa,Swansea City,1,2,1.047492547,1.648634232
+3754018,Premier League,Swansea City,Liverpool,3,1,1.8349364000000001,0.783318545
+3754019,Premier League,Manchester United,Chelsea,0,0,1.289497517,0.8758018527
+3754020,Premier League,Liverpool,AFC Bournemouth,1,0,1.833528316,0.789176068
+3754021,Premier League,AFC Bournemouth,West Ham United,1,3,0.4240502276,0.760144765
+3754022,Premier League,Crystal Palace,Norwich City,1,0,1.2824345756,1.0310542954
+3754023,Premier League,AFC Bournemouth,Leicester City,1,1,0.300445785,0.828728063
+3754024,Premier League,Newcastle United,Swansea City,3,0,1.050087159,1.111024237
+3754025,Premier League,Chelsea,Sunderland,3,1,3.154950003,1.6192393495
+3754026,Premier League,Crystal Palace,Stoke City,2,1,1.238748557,1.1962769785
+3754027,Premier League,Tottenham Hotspur,Sunderland,4,1,2.728081566,0.522873208
+3754028,Premier League,Manchester City,Southampton,3,1,1.669690246,1.194182421
+3754029,Premier League,Tottenham Hotspur,Aston Villa,3,1,1.080982806,0.460883502
+3754030,Premier League,Watford,Everton,1,1,0.5522624965,1.4061570767
+3754031,Premier League,Sunderland,Manchester United,1,1,1.808282101,0.950959874
+3754032,Premier League,Stoke City,Norwich City,2,1,1.502928748,0.327643834
+3754033,Premier League,Leicester City,Everton,3,1,4.438042445,1.380829187
+3754034,Premier League,Southampton,Everton,0,3,1.0568284415,0.912088871
+3754035,Premier League,Manchester City,West Bromwich Albion,2,1,2.088062234,1.204284599
+3754036,Premier League,Sunderland,Aston Villa,3,1,1.129123908,0.415427136
+3754037,Premier League,Everton,AFC Bournemouth,2,1,0.890678305,1.429666863
+3754038,Premier League,Norwich City,Arsenal,1,1,1.0651637330000001,1.557441055
+3754039,Premier League,Crystal Palace,Watford,1,2,1.142375225,1.703768405
+3754040,Premier League,Liverpool,Norwich City,1,1,2.46817195,0.4513370176
+3754041,Premier League,Arsenal,Aston Villa,3,0,2.922745433,0.301121908
+3754042,Premier League,West Bromwich Albion,Liverpool,1,1,1.608316938,0.5253348335
+3754043,Premier League,Tottenham Hotspur,AFC Bournemouth,3,0,1.5332255784,0.25445065
+3754044,Premier League,Manchester United,Norwich City,1,2,0.9421334939999999,0.9237468240000001
+3754045,Premier League,Leicester City,Manchester City,0,0,0.88816437,1.6955960015
+3754046,Premier League,Everton,Crystal Palace,1,1,1.891185647,0.8299910110000001
+3754047,Premier League,Liverpool,Swansea City,1,0,1.504164726,0.42918139099999997
+3754048,Premier League,Crystal Palace,Everton,0,0,2.66542692,0.5921424275
+3754049,Premier League,Leicester City,Norwich City,1,0,1.998585904,0.6380323042
+3754050,Premier League,Sunderland,Crystal Palace,2,2,1.055728661,1.1187673422
+3754051,Premier League,Watford,Liverpool,3,0,1.894453261,0.629763069
+3754052,Premier League,West Bromwich Albion,Norwich City,0,1,0.458485052,0.697672533
+3754053,Premier League,Aston Villa,Tottenham Hotspur,0,2,1.1835343155,2.131559391
+3754054,Premier League,Manchester City,Sunderland,4,1,2.723752841,1.2441171130000002
+3754055,Premier League,Liverpool,Chelsea,1,1,2.4303121234000002,0.7353494558
+3754056,Premier League,Everton,Stoke City,3,4,2.257550922,1.4640267790000001
+3754057,Premier League,Tottenham Hotspur,Norwich City,3,0,2.304549798,0.868707546
+3754058,Premier League,Leicester City,AFC Bournemouth,0,0,2.822870534,0.936502557
+3754059,Premier League,West Bromwich Albion,Chelsea,2,3,1.7674547106,2.474998377
+3754060,Premier League,Everton,Liverpool,1,1,0.6900700563,1.1717117209999999
+3754061,Premier League,Chelsea,Stoke City,1,1,1.375794465,1.515248141
+3754062,Premier League,Chelsea,West Bromwich Albion,1,2,1.425701522,0.902230667
+3754063,Premier League,Watford,Aston Villa,3,2,1.1316410817,0.617063591
+3754064,Premier League,Southampton,Liverpool,3,2,1.933693144,1.508621445
+3754065,Premier League,Tottenham Hotspur,Leicester City,0,1,1.4610406488,1.07861784
+3754066,Premier League,Manchester City,Chelsea,3,0,1.777268971,0.8010583339999999
+3754067,Premier League,Crystal Palace,West Ham United,1,3,1.240715807,2.429106318
+3754068,Premier League,Aston Villa,West Bromwich Albion,0,1,0.596219803,0.92178184
+3754069,Premier League,Arsenal,Newcastle United,1,0,1.8596375313,1.535952321
+3754070,Premier League,Aston Villa,Newcastle United,0,0,0.0154808238,0.965034265
+3754071,Premier League,Swansea City,Sunderland,2,3,1.293979337,2.1823739389999997
+3754072,Premier League,Sunderland,Watford,0,1,1.393120734,1.8493887949999999
+3754073,Premier League,Chelsea,AFC Bournemouth,0,1,1.3390426094999999,1.705787983
+3754074,Premier League,Swansea City,Tottenham Hotspur,2,2,0.921879851,1.1586061045
+3754075,Premier League,Aston Villa,Chelsea,0,4,0.968863158,2.144349063
+3754076,Premier League,Sunderland,West Ham United,2,2,1.0939591050000002,2.026245143
+3754077,Premier League,Manchester City,West Ham United,1,2,2.528722358,0.79397703
+3754078,Premier League,Chelsea,Swansea City,2,2,0.486010593,2.471848201
+3754079,Premier League,Manchester City,Newcastle United,6,1,3.895753383,1.2551611470000001
+3754080,Premier League,Tottenham Hotspur,Watford,1,0,2.2134976358,0.094645531
+3754081,Premier League,West Bromwich Albion,Manchester United,1,0,0.722863021,0.37916599
+3754082,Premier League,Everton,Sunderland,5,2,2.205054852,1.781054326
+3754083,Premier League,Chelsea,Crystal Palace,1,2,2.2023637099999998,2.144563198
+3754084,Premier League,West Bromwich Albion,Aston Villa,0,0,0.468689686,0.632857064
+3754085,Premier League,Swansea City,Leicester City,0,3,1.047635179,2.548384891
+3754086,Premier League,West Ham United,Watford,3,1,3.637574037,1.3215356955
+3754087,Premier League,Liverpool,Tottenham Hotspur,1,1,1.266068586,1.689788995
+3754088,Premier League,Newcastle United,Manchester United,3,3,2.1130973697,1.857353987
+3754089,Premier League,Crystal Palace,AFC Bournemouth,1,2,1.542731364,0.751661777
+3754090,Premier League,Newcastle United,Stoke City,0,0,1.330554626,1.3440481457
+3754091,Premier League,Stoke City,Watford,0,2,0.4492997149,0.975737208
+3754092,Premier League,Chelsea,Tottenham Hotspur,2,2,0.774737798,2.320955286
+3754093,Premier League,Tottenham Hotspur,Chelsea,0,0,0.512618649,0.271854425
+3754094,Premier League,Manchester United,Stoke City,3,0,2.460498865,0.616617983
+3754095,Premier League,Sunderland,Manchester City,0,1,1.18569443,0.582714412
+3754096,Premier League,West Ham United,Stoke City,0,0,1.7840530743,1.460851157
+3754097,Premier League,Manchester United,Tottenham Hotspur,1,0,0.525077494,0.584645919
+3754098,Premier League,Chelsea,Liverpool,1,3,0.491467075,0.8882473424
+3754099,Premier League,Crystal Palace,West Bromwich Albion,2,0,1.867026553,0.204094284
+3754100,Premier League,Newcastle United,Sunderland,1,1,1.487952885,0.6046204635
+3754101,Premier League,Norwich City,Southampton,1,0,1.1692610669999999,0.987271448
+3754102,Premier League,Newcastle United,Norwich City,6,2,1.880819446,1.3470689025
+3754103,Premier League,Watford,Chelsea,0,0,0.901031056,0.939371588
+3754104,Premier League,Norwich City,Stoke City,1,1,2.3330701126,0.619415399
+3754105,Premier League,West Bromwich Albion,Everton,2,3,0.8567562656,1.83468255
+3754106,Premier League,Leicester City,Aston Villa,3,2,1.498125848,1.216925209
+3754107,Premier League,Aston Villa,Manchester United,0,1,0.324509314,0.5409470644
+3754108,Premier League,Sunderland,Chelsea,3,2,0.966293928,1.1584543105
+3754109,Premier League,Tottenham Hotspur,West Ham United,4,1,2.660931293,0.7501930330000001
+3754110,Premier League,West Ham United,Manchester City,2,2,0.9143906526,1.819859073
+3754111,Premier League,Arsenal,Chelsea,0,1,1.148608958,1.18311362
+3754112,Premier League,Newcastle United,Southampton,2,2,1.613829301,1.329681392
+3754113,Premier League,Southampton,Aston Villa,1,1,2.9258011600000002,0.8075088213999999
+3754114,Premier League,Crystal Palace,Chelsea,0,3,0.919569089,1.8763646950000001
+3754115,Premier League,Chelsea,Aston Villa,1,0,1.1001097579999999,0.565773893
+3754116,Premier League,Swansea City,Chelsea,1,0,1.825726522,1.6571836979999999
+3754117,Premier League,Aston Villa,Arsenal,0,2,1.02878946,1.952049731
+3754118,Premier League,Arsenal,Watford,4,0,2.576715334,0.432057217
+3754119,Premier League,Sunderland,Newcastle United,3,0,2.077776542,2.89796573
+3754120,Premier League,Southampton,West Ham United,1,0,0.812012415,0.87702433
+3754121,Premier League,Watford,AFC Bournemouth,0,0,0.909375011,1.156495531
+3754122,Premier League,West Bromwich Albion,Stoke City,2,1,2.532032643,0.841048818
+3754123,Premier League,Everton,Norwich City,3,0,2.270384698,0.7429965544
+3754124,Premier League,Manchester City,Manchester United,0,1,1.965376267,0.5240068219999999
+3754125,Premier League,Chelsea,Everton,3,3,2.168611498,1.346277148
+3754126,Premier League,Arsenal,Everton,2,1,2.478707666,0.7926561400000001
+3754127,Premier League,Stoke City,Everton,0,3,0.6750005002,2.6632938569999998
+3754128,Premier League,AFC Bournemouth,Aston Villa,0,1,1.249248071,0.651934538
+3754129,Premier League,Arsenal,Liverpool,0,0,2.1088993565000003,1.453182632
+3754130,Premier League,Norwich City,Aston Villa,2,0,0.581110427,0.316590806
+3754131,Premier League,West Ham United,AFC Bournemouth,3,4,1.695745907,2.7379267699
+3754132,Premier League,Stoke City,Sunderland,1,1,0.724970782,1.803449846
+3754133,Premier League,Norwich City,West Bromwich Albion,0,1,0.778162141,0.595146792
+3754134,Premier League,West Ham United,Manchester United,3,2,1.910855343,0.830467973
+3754135,Premier League,Stoke City,Manchester City,2,0,1.5285599140000001,0.4798927317
+3754136,Premier League,Newcastle United,Aston Villa,1,1,1.085260928,0.38022784800000003
+3754137,Premier League,Everton,Southampton,1,1,0.3211292356,1.4534008985
+3754138,Premier League,Norwich City,Crystal Palace,1,3,1.4056107054,1.798323134
+3754139,Premier League,Swansea City,Southampton,0,1,0.593992511,1.1569965295
+3754140,Premier League,Everton,Tottenham Hotspur,1,1,0.723844971,0.8274244150000001
+3754141,Premier League,Arsenal,West Ham United,0,2,1.291578439,0.429876889
+3754142,Premier League,Manchester City,Everton,0,0,1.365025835,0.34367785
+3754143,Premier League,Newcastle United,Liverpool,1,0,0.887070621,1.1163290524
+3754144,Premier League,AFC Bournemouth,Manchester City,0,4,1.144768972,0.7706947195
+3754145,Premier League,West Bromwich Albion,Manchester City,0,3,0.6684409889999999,1.760006581
+3754146,Premier League,Stoke City,Leicester City,2,2,1.3240587635,1.611006447
+3754147,Premier League,Manchester City,Tottenham Hotspur,1,2,1.986804738,1.2557549304
+3754148,Premier League,Sunderland,Tottenham Hotspur,0,1,1.0747495330999999,1.598179856
+3754149,Premier League,Swansea City,Manchester City,1,1,0.17909318400000002,2.490633237
+3754150,Premier League,Sunderland,Stoke City,2,0,1.208077326,0.9730449560000001
+3754151,Premier League,Swansea City,Norwich City,1,0,0.478941038,0.697222856
+3754152,Premier League,Sunderland,Leicester City,0,2,0.7835765185000001,3.007875148
+3754153,Premier League,Stoke City,Crystal Palace,1,2,2.506100477,1.9532421754
+3754154,Premier League,Liverpool,Newcastle United,2,2,0.717686025,0.394944356
+3754155,Premier League,West Bromwich Albion,Watford,0,1,2.4562757815,0.468298833
+3754156,Premier League,Leicester City,Watford,2,1,1.86315597,1.0758956769999999
+3754157,Premier League,AFC Bournemouth,Everton,3,3,1.428370058,0.702921212
+3754158,Premier League,West Ham United,Swansea City,0,4,2.839437816,2.763622419
+3754159,Premier League,Manchester United,AFC Bournemouth,3,0,1.5480998154,0.651449296
+3754160,Premier League,Arsenal,Sunderland,3,1,1.842522641,0.875183561
+3754161,Premier League,Swansea City,Watford,1,0,0.48989343399999996,0.588152031
+3754162,Premier League,AFC Bournemouth,Manchester United,2,1,1.131874549,1.523784259
+3754163,Premier League,Everton,Swansea City,1,2,1.55489436,1.25723479
+3754164,Premier League,Southampton,Sunderland,1,1,1.580121315,0.787620134
+3754165,Premier League,Manchester United,Leicester City,1,1,1.2500651834,1.132101278
+3754166,Premier League,Everton,Leicester City,2,3,1.691042189,2.370729412
+3754167,Premier League,Manchester City,Norwich City,2,1,3.40192503,1.391861368
+3754168,Premier League,Southampton,West Bromwich Albion,3,0,1.299078763,0.469348987
+3754169,Premier League,AFC Bournemouth,Sunderland,2,0,0.573598817,0.42454132099999997
+3754170,Premier League,Newcastle United,Crystal Palace,1,0,0.445745585,1.0686513999999998
+3754171,Premier League,Arsenal,Manchester United,3,0,1.5353571830000001,1.15499167
+3754172,Premier League,Norwich City,Sunderland,0,3,1.274581626,1.7773581410000001
+3754173,Premier League,Arsenal,AFC Bournemouth,2,0,1.7515431385,0.346804384
+3754174,Premier League,Leicester City,Arsenal,2,5,1.595042264,3.284641979
+3754175,Premier League,Sunderland,West Bromwich Albion,0,0,2.2034853009999997,0.1493581485
+3754176,Premier League,West Ham United,Crystal Palace,2,2,1.446214737,1.532418619
+3754177,Premier League,Newcastle United,AFC Bournemouth,1,3,1.087780106,1.128546848
+3754178,Premier League,Aston Villa,Watford,2,2,1.9050630750000002,1.710104718
+3754179,Premier League,Crystal Palace,Tottenham Hotspur,1,3,0.921659553,1.4633146048
+3754180,Premier League,Sunderland,Swansea City,1,1,0.8344188998,1.6329706446
+3754181,Premier League,Crystal Palace,Leicester City,0,1,0.6114667513,1.321306959
+3754182,Premier League,Norwich City,Everton,1,1,1.310010919,1.870746668
+3754183,Premier League,Southampton,Watford,2,0,1.78503046,0.10450385000000001
+3754184,Premier League,Arsenal,Norwich City,1,0,0.814684314,0.8152819
+3754185,Premier League,Watford,Manchester United,1,1,1.6612134559999998,1.17446523
+3754186,Premier League,Leicester City,Manchester United,1,1,0.439387729,0.878499759
+3754187,Premier League,Stoke City,Tottenham Hotspur,0,4,0.70624068,3.4869330769999998
+3754188,Premier League,Southampton,Tottenham Hotspur,0,2,1.045529703,1.2916885235
+3754189,Premier League,Watford,Southampton,0,0,0.8573689886,0.8235125
+3754190,Premier League,Crystal Palace,Aston Villa,2,0,0.989457464,0.8991665776
+3754191,Premier League,Southampton,AFC Bournemouth,2,0,0.9831154603,0.914640914
+3754192,Premier League,West Bromwich Albion,West Ham United,0,3,1.202161677,0.840507286
+3754193,Premier League,Manchester City,AFC Bournemouth,5,1,3.678561991,0.607768631
+3754194,Premier League,West Ham United,Everton,1,1,0.840145075,1.6618179275
+3754195,Premier League,West Bromwich Albion,Newcastle United,1,0,2.195157534,0.5422666485
+3754196,Premier League,Stoke City,Southampton,1,2,0.942236101,0.574863601
+3754197,Premier League,Tottenham Hotspur,Manchester City,4,1,2.073990071,1.1728529385
+3754198,Premier League,Tottenham Hotspur,Liverpool,0,0,0.966811302,0.5351811266000001
+3754199,Premier League,Stoke City,West Ham United,2,1,0.4308522394,2.7373717505
+3754200,Premier League,Manchester United,Southampton,0,1,0.1837368766,0.5732301040000001
+3754201,Premier League,Arsenal,Southampton,0,0,2.433966167,0.9884922977
+3754202,Premier League,Stoke City,Arsenal,0,0,0.923703141,0.492181264
+3754203,Premier League,West Ham United,Leicester City,1,2,0.8063725930000001,1.215113044
+3754204,Premier League,Aston Villa,Sunderland,2,2,3.298744088,0.657671904
+3754205,Premier League,Newcastle United,Arsenal,0,0,0.04286449,1.8904116361
+3754206,Premier League,Newcastle United,Manchester City,1,1,0.602449527,0.678389102
+3754207,Premier League,Norwich City,Watford,4,2,2.415392853,2.093378657
+3754208,Premier League,Manchester City,Liverpool,1,4,0.9032864167,3.245148873
+3754209,Premier League,Tottenham Hotspur,Manchester United,3,0,1.8133864335999998,0.508053513
+3754210,Premier League,Norwich City,Manchester United,0,1,0.757341927,1.313161979
+3754211,Premier League,Newcastle United,Leicester City,0,3,0.430048763,3.173119815
+3754212,Premier League,Liverpool,Aston Villa,3,2,1.755140835,1.108400613
+3754213,Premier League,Watford,Swansea City,1,0,1.1530885925,0.822120338
+3754214,Premier League,Aston Villa,Liverpool,0,6,0.22653544,2.6483686066
+3754215,Premier League,West Bromwich Albion,Tottenham Hotspur,1,1,0.992877223,0.707403165
+3754216,Premier League,AFC Bournemouth,Liverpool,1,2,1.612050365,1.8167390102
+3754217,Premier League,Chelsea,Arsenal,1,0,1.6449346113,0.8375268513
+3754218,Premier League,Crystal Palace,Southampton,1,0,1.2039569556,0.941437937
+3754219,Premier League,West Bromwich Albion,AFC Bournemouth,1,2,0.35041278600000003,1.7859997189999999
+3754220,Premier League,Crystal Palace,Liverpool,1,2,1.17514805,1.7986266945
+3754221,Premier League,Swansea City,Manchester United,2,1,0.9349106563999999,0.9028143319999999
+3754222,Premier League,Tottenham Hotspur,Crystal Palace,1,0,0.954072108,0.6038542853
+3754223,Premier League,Crystal Palace,Manchester United,0,0,0.87627269,0.578693956
+3754224,Premier League,Swansea City,Aston Villa,1,0,0.591053935,1.071737193
+3754225,Premier League,AFC Bournemouth,West Bromwich Albion,1,1,0.9816689474,1.687745688
+3754226,Premier League,Sunderland,Liverpool,0,1,0.535956585,1.7905645046999998
+3754227,Premier League,Leicester City,West Ham United,2,2,1.30011509,1.804143459
+3754228,Premier League,Leicester City,Swansea City,4,0,2.508655226,0.43983078400000003
+3754229,Premier League,Chelsea,Leicester City,1,1,1.895944879,1.726763756
+3754230,Premier League,Liverpool,Southampton,1,1,0.6509212413000001,1.490846337
+3754231,Premier League,Leicester City,West Bromwich Albion,2,2,2.18297195,1.147642564
+3754232,Premier League,Manchester United,Watford,1,0,0.7169536304999999,1.8581121865
+3754233,Premier League,Everton,Manchester City,0,2,0.589298101,1.17251773
+3754234,Premier League,AFC Bournemouth,Tottenham Hotspur,1,5,0.619912413,2.915555251
+3754235,Premier League,West Ham United,West Bromwich Albion,1,0,1.717771349,0.721320146
+3754236,Premier League,West Bromwich Albion,Crystal Palace,3,2,1.159349402,1.327793572
+3754237,Premier League,Leicester City,Sunderland,4,2,2.261113464,1.367720484
+3754238,Premier League,AFC Bournemouth,Newcastle United,0,1,1.075394289,0.23706906
+3754239,Premier League,Manchester United,Arsenal,3,2,0.445317126,1.434012253
+3754240,Premier League,Arsenal,Stoke City,2,0,3.701509995,0.282876691
+3754241,Premier League,West Ham United,Arsenal,3,3,1.2577559600000001,1.843033574
+3754242,Premier League,AFC Bournemouth,Chelsea,1,4,0.749419569,1.285072767
+3754243,Premier League,Norwich City,Newcastle United,3,2,1.5275979800000001,2.0710138506
+3754244,Premier League,Norwich City,West Ham United,2,2,1.2062807260000001,1.6710817759999999
+3754245,Premier League,West Bromwich Albion,Sunderland,1,0,1.4764541943,0.670350703
+3754246,Premier League,Manchester City,Watford,2,0,1.235037312,0.404323299
+3754247,Premier League,Southampton,Stoke City,0,1,1.151731759,1.412434229
+3754248,Premier League,AFC Bournemouth,Crystal Palace,0,0,0.8301967616,0.563289287
+3754249,Premier League,Manchester City,Aston Villa,4,0,3.259937549,0.452063477
+3754250,Premier League,Aston Villa,Leicester City,1,1,1.0482208984999999,2.230326432
+3754251,Premier League,West Ham United,Liverpool,2,0,2.161970525,1.8159626205
+3754252,Premier League,Everton,Newcastle United,3,0,3.107067465,0.622109883
+3754253,Premier League,AFC Bournemouth,Arsenal,0,2,0.665176994,0.7565358854
+3754254,Premier League,Manchester United,Newcastle United,0,0,1.506356631,0.37281458
+3754255,Premier League,Liverpool,West Bromwich Albion,2,2,2.3245147,0.479826484
+3754256,Premier League,Everton,Manchester United,0,3,1.141489023,1.324903946
+3754257,Premier League,Crystal Palace,Manchester City,0,1,0.5355747971,3.560895456
+3754258,Premier League,Aston Villa,Manchester City,0,0,0.16851417999999999,1.8464311370000002
+3754259,Premier League,Swansea City,West Ham United,0,0,1.071158855,0.42816083
+3754260,Premier League,Manchester City,Crystal Palace,4,0,1.872005348,0.937670613
+3754261,Premier League,Arsenal,Leicester City,2,1,2.746086265,1.100948506
+3754262,Premier League,Aston Villa,AFC Bournemouth,1,2,0.443226957,1.017756209
+3754263,Premier League,Leicester City,Crystal Palace,1,0,1.329400686,0.370666353
+3754264,Premier League,Chelsea,Newcastle United,5,1,2.240802984,0.651762445
+3754265,Premier League,Arsenal,Tottenham Hotspur,1,1,1.574176436,1.0868710365
+3754266,Premier League,Watford,Crystal Palace,0,1,1.0907581123,1.9453531032999998
+3754267,Premier League,Watford,West Bromwich Albion,0,0,0.9004746056999999,0.931385584
+3754268,Premier League,Tottenham Hotspur,Everton,0,0,2.1179032895,0.328295836
+3754269,Premier League,Swansea City,Stoke City,0,1,0.5468138025,1.342431467
+3754270,Premier League,Tottenham Hotspur,Stoke City,2,2,1.4161290260000001,2.596728009
+3754271,Premier League,Watford,Newcastle United,2,1,2.122520269,0.875526187
+3754272,Premier League,Stoke City,Swansea City,2,2,0.872941468,0.494668151
+3754273,Premier League,Watford,West Ham United,2,0,1.8469288259999999,0.8667123723
+3754274,Premier League,AFC Bournemouth,Stoke City,1,3,1.2321236673,0.6718568456
+3754275,Premier League,Leicester City,Liverpool,2,0,1.208182919,0.455155367
+3754276,Premier League,Tottenham Hotspur,Newcastle United,1,2,1.110380464,1.449065663
+3754277,Premier League,Everton,West Ham United,2,3,1.7149718735000001,1.6856949380000001
+3754278,Premier League,AFC Bournemouth,Watford,1,1,1.381279411,1.167110321
+3754279,Premier League,Swansea City,West Bromwich Albion,1,0,0.9775453096,0.619245952
+3754280,Premier League,Norwich City,Chelsea,1,2,1.0820943732,0.989851092
+3754281,Premier League,Chelsea,Manchester United,1,1,1.859288581,0.8071752835
+3754282,Premier League,Aston Villa,Southampton,2,4,1.387935631,3.0150321064
+3754283,Premier League,Everton,Aston Villa,4,0,2.321444905,1.104697958
+3754284,Premier League,Arsenal,West Bromwich Albion,2,0,1.318570899,0.7341058055
+3754285,Premier League,Aston Villa,West Ham United,1,1,1.556858276,0.690334553
+3754286,Premier League,Watford,Norwich City,2,0,2.161614376,0.5346139213
+3754287,Premier League,Chelsea,Watford,2,1,2.216405799,1.6086156999999999
+3754288,Premier League,West Ham United,Chelsea,2,1,0.7849844615999999,0.7624511771
+3754289,Premier League,Watford,Leicester City,0,1,0.958143349,1.537357255
+3754290,Premier League,Manchester City,Leicester City,1,3,1.094154354,1.64038069
+3754291,Premier League,Watford,Tottenham Hotspur,1,2,1.1045349930000001,0.532679953
+3754292,Premier League,Newcastle United,West Bromwich Albion,1,0,1.5263864437,0.490074025
+3754293,Premier League,Stoke City,Chelsea,1,0,0.746911607,0.853297224
+3754294,Premier League,Liverpool,Everton,4,0,3.529073544,0.123271698
+3754295,Premier League,Manchester United,Aston Villa,1,0,1.349152822,0.347138962
+3754296,Premier League,Arsenal,Manchester City,2,1,1.35397635,1.24986528
+3754297,Premier League,Manchester United,West Bromwich Albion,2,0,1.4637146909999998,0.41405688100000004
+3754298,Premier League,Swansea City,Everton,0,0,0.7493634259999999,1.6555124890000001
+3754299,Premier League,Manchester United,Everton,1,0,0.864151107,0.574951638
+3754300,Premier League,Everton,Watford,2,2,0.780699622,0.619914376
+3754301,Premier League,West Bromwich Albion,Arsenal,2,1,0.418669605,1.780279238
+3754302,Premier League,Southampton,Leicester City,2,2,1.3640691679999999,2.111764067
+3754303,Premier League,Swansea City,Crystal Palace,1,1,1.8272887257,0.892524576
+3754304,Premier League,Crystal Palace,Newcastle United,5,1,1.589915167,0.788583969
+3754305,Premier League,Liverpool,Arsenal,3,3,1.189892488,1.767276259
+3754306,Premier League,Aston Villa,Norwich City,2,0,0.7414455280000001,1.146324345
+3754307,Premier League,Manchester City,Stoke City,4,0,2.9745786695,1.023264764
+3754308,Premier League,Watford,Sunderland,2,2,2.033770745,1.063275962
+3754309,Premier League,Southampton,Arsenal,4,0,1.908696109,0.791967786
+3754310,Premier League,Manchester United,Crystal Palace,2,0,1.390864934,0.220934547
+3754311,Premier League,Norwich City,Swansea City,1,0,1.0955278426,0.4882892185
+3754312,Premier League,Crystal Palace,Arsenal,1,1,1.274477265,1.7779091754
+3754313,Premier League,Norwich City,Manchester City,0,0,0.217737854,0.775856722
+3754314,Premier League,Manchester City,Arsenal,2,2,0.738292164,0.887442456
+3754315,Premier League,Norwich City,AFC Bournemouth,3,1,1.319561857,0.776672523
+3754316,Premier League,Liverpool,Sunderland,2,2,1.8213078150000002,0.5410910879999999
+3754317,Premier League,Norwich City,Tottenham Hotspur,0,3,1.17513727,2.517793423
+3754318,Premier League,Tottenham Hotspur,Arsenal,2,2,1.248720347,0.7327627854
+3754319,Premier League,Manchester United,Swansea City,2,1,1.5109995809999999,0.622184347
+3754320,Premier League,Southampton,Manchester City,4,2,3.033850069,0.755861508
+3754321,Premier League,Stoke City,Aston Villa,2,1,2.5902538287,0.18260662
+3754322,Premier League,Chelsea,Manchester City,0,3,0.9851546889999999,2.326003901
+3754323,Premier League,West Ham United,Norwich City,2,2,2.282386951,1.301720589
+3754324,Premier League,Tottenham Hotspur,Swansea City,2,1,3.2185072413999998,1.374992891
+3754325,Premier League,West Bromwich Albion,Southampton,0,0,0.598715993,1.092335951
+3754326,Premier League,Crystal Palace,Swansea City,0,0,0.647612742,0.18617962999999998
+3754327,Premier League,Aston Villa,Everton,1,3,0.628781745,1.871007249
+3754328,Premier League,Manchester City,Swansea City,2,1,0.7830449,1.234060959
+3754329,Premier League,West Ham United,Newcastle United,2,0,2.092493351,0.8119911615000001
+3754330,Premier League,Aston Villa,Stoke City,0,1,0.622719047,1.4088317786
+3754331,Premier League,West Ham United,Sunderland,1,0,0.864963301,1.130619507
+3754332,Premier League,Tottenham Hotspur,West Bromwich Albion,1,1,1.060304189,0.9035067615
+3754333,Premier League,Newcastle United,Tottenham Hotspur,5,1,2.07848498,0.870355886
+3754334,Premier League,AFC Bournemouth,Southampton,2,0,0.7096059495,0.5324099383
+3754335,Premier League,Norwich City,Leicester City,1,2,1.2885968725,3.519109277
+3754336,Premier League,Everton,Chelsea,3,1,1.210033051,0.7957923840000001
+3754337,Premier League,Southampton,Norwich City,3,0,2.585694911,0.77970669
+3754338,Premier League,Newcastle United,West Ham United,2,1,2.381780919,1.574677352
+3754339,Premier League,Stoke City,AFC Bournemouth,2,1,1.084232396,1.053380075
+3754340,Premier League,West Bromwich Albion,Swansea City,1,1,2.191957054,1.496363772
+3754341,Premier League,Leicester City,Stoke City,3,0,1.8746358920000001,0.15194508899999998
+3754342,Premier League,Liverpool,Watford,2,0,3.1386999403,1.2530252446999999
+3754343,Premier League,Liverpool,Leicester City,1,0,1.777294086,0.801468854
+3754344,Premier League,Swansea City,Newcastle United,2,0,1.8072480083,0.128725608
+3754345,Premier League,Liverpool,Manchester United,0,1,1.419035716,0.5090192713
+3754346,Premier League,Watford,Manchester City,0,2,1.081408015,0.9432198607
+3754347,Premier League,Manchester United,West Ham United,0,0,1.9252535394999999,0.625474474
+3754348,Premier League,Norwich City,Liverpool,4,5,1.2293922119999998,1.6221035209999999
+3754349,Premier League,West Ham United,Tottenham Hotspur,1,0,0.8060585825,1.132619027
+3754350,Premier League,Everton,West Bromwich Albion,0,1,1.794585826,0.987103677
+3754351,Premier League,Liverpool,Crystal Palace,1,2,1.795278301,0.575604102
+3878540,Serie A,Lazio,Bologna,2,1,1.2392269054,0.615306574
+3878541,Serie A,Hellas Verona,AS Roma,1,1,1.00529136,1.114252133
+3878542,Serie A,Fiorentina,AC Milan,2,0,1.9535901821,0.491017547
+3878543,Serie A,Inter Milan,Atalanta,1,0,0.948913785,0.21524507199999998
+3878544,Serie A,Palermo,Genoa,1,0,1.216408617,0.6211643255
+3878545,Serie A,Sampdoria,Carpi,5,2,1.3865565229999999,3.078408607
+3878546,Serie A,Sassuolo,Napoli,2,1,1.995029946,0.988511029
+3878547,Serie A,Frosinone,Torino,1,2,0.7372795524,2.1628989489
+3878548,Serie A,Juventus,Udinese,0,1,1.969122425,0.4927348354
+3878549,Serie A,Empoli,Chievo,1,3,0.6787188347,1.015877174
+3878550,Serie A,Bologna,Sassuolo,0,1,0.156367942,0.6436905923
+3878551,Serie A,AC Milan,Empoli,2,1,0.817293944,0.9839713885
+3878552,Serie A,Carpi,Inter Milan,1,2,0.820244156,2.77001661
+3878553,Serie A,Chievo,Lazio,4,0,2.099898285,0.6833568824
+3878554,Serie A,Genoa,Hellas Verona,2,0,1.634580637,0.623715692
+3878555,Serie A,AS Roma,Juventus,2,1,1.2035307047,1.0248959504
+3878556,Serie A,Torino,Fiorentina,3,1,0.616552393,0.638204108
+3878557,Serie A,Udinese,Palermo,0,1,2.0355785508,0.33446824070000003
+3878558,Serie A,Napoli,Sampdoria,2,2,1.8603352603999999,1.218112926
+3878559,Serie A,Atalanta,Frosinone,2,0,2.5820832422,0.547939823
+3878592,Serie A,Fiorentina,Genoa,1,0,0.888035337,1.106351606
+3878593,Serie A,Frosinone,AS Roma,0,2,0.5584858709,1.537925865
+3878594,Serie A,Juventus,Chievo,1,1,2.759170922,0.396226994
+3878595,Serie A,Lazio,Udinese,2,0,0.807004947,0.8202028453
+3878596,Serie A,Hellas Verona,Torino,2,2,1.692235657,1.5073754995
+3878597,Serie A,Empoli,Napoli,2,2,1.2064192143999999,1.1189044942
+3878598,Serie A,Palermo,Carpi,2,2,1.158053177,0.5267099617
+3878599,Serie A,Sassuolo,Atalanta,2,2,1.389636943,1.2017635145
+3878600,Serie A,Inter Milan,AC Milan,1,0,1.1847992779999998,1.0675489585
+3878601,Serie A,Sampdoria,Bologna,2,0,1.50670618,0.357193621
+3878602,Serie A,AC Milan,Palermo,3,2,1.0198056797000001,1.1645110715
+3878603,Serie A,Udinese,Empoli,1,2,0.831688953,0.6570083498999999
+3878604,Serie A,Napoli,Lazio,5,0,2.398468404,0.8105154250000001
+3878605,Serie A,Carpi,Fiorentina,0,1,1.73517474,0.526919467
+3878606,Serie A,Torino,Sampdoria,2,0,2.393513728,0.871885466
+3878607,Serie A,AS Roma,Sassuolo,2,2,2.405740616,0.695656711
+3878608,Serie A,Bologna,Frosinone,1,0,0.8701619252,1.7944827946
+3878609,Serie A,Genoa,Juventus,0,2,0.525198131,2.124076364
+3878610,Serie A,Atalanta,Hellas Verona,1,1,0.7525458486000001,0.804350942
+3878611,Serie A,Chievo,Inter Milan,0,1,0.8709376255000001,0.938191545
+3879537,Serie A,Udinese,AC Milan,2,3,1.4147346075,0.48409350230000003
+3879538,Serie A,Lazio,Genoa,2,0,0.810777683,0.294858022
+3879539,Serie A,Carpi,Napoli,0,0,0.3822692915,1.5823169263
+3879540,Serie A,Chievo,Torino,1,0,0.591519201,0.247031607
+3879541,Serie A,Fiorentina,Bologna,2,0,1.7034143292000001,0.253240666
+3879542,Serie A,Inter Milan,Hellas Verona,1,0,0.740094676,0.42842666349999997
+3879543,Serie A,Juventus,Frosinone,1,1,1.9620840863,0.538019325
+3879544,Serie A,Palermo,Sassuolo,0,1,0.506720854,0.848819157
+3879545,Serie A,Sampdoria,AS Roma,1,1,0.209269484,1.745954707
+3879546,Serie A,Empoli,Atalanta,0,1,0.4174200541,0.4005190448
+3879547,Serie A,AS Roma,Carpi,5,1,3.3696045194999997,2.1567073125
+3879548,Serie A,Napoli,Juventus,2,1,0.7033463873,1.13202418
+3879549,Serie A,Genoa,AC Milan,1,0,0.90294614,0.871960514
+3879550,Serie A,Inter Milan,Fiorentina,1,4,1.032833784,3.062454561
+3879551,Serie A,Hellas Verona,Lazio,1,2,0.752961422,2.119059275
+3879552,Serie A,Bologna,Udinese,1,2,1.250557726,1.677464639
+3879553,Serie A,Sassuolo,Chievo,1,1,1.19486893,0.6515296705
+3879554,Serie A,Torino,Palermo,2,1,0.719160376,0.622644757
+3879555,Serie A,Atalanta,Sampdoria,2,1,2.028171676,0.7487172049999999
+3879556,Serie A,Frosinone,Empoli,2,0,1.4281986063,0.7890289071
+3879557,Serie A,Chievo,Hellas Verona,1,1,1.51853761,1.3218996729999999
+3879558,Serie A,Carpi,Torino,1,1,0.348834834,1.3941754986
+3879559,Serie A,Juventus,Bologna,3,1,2.261400923,0.230311787
+3879560,Serie A,Lazio,Frosinone,2,0,2.4868920979999998,0.64017008
+3879561,Serie A,Fiorentina,Atalanta,3,0,2.728980211,0.632616059
+3879562,Serie A,AC Milan,Napoli,0,3,0.49659783,1.604619918
+3879563,Serie A,Empoli,Sassuolo,1,0,0.9623020555999999,0.44076139799999997
+3879564,Serie A,Palermo,AS Roma,2,4,1.608093723,2.376904229
+3879565,Serie A,Sampdoria,Inter Milan,1,1,2.673305832,1.8730637518
+3879566,Serie A,Udinese,Genoa,1,1,1.2051724695000001,1.6859765767
+3879567,Serie A,AS Roma,Empoli,3,1,1.009133036,0.5883652420000001
+3879568,Serie A,Torino,AC Milan,1,1,0.623786524,1.1247578
+3879569,Serie A,Bologna,Palermo,0,1,1.635734977,1.6426784735
+3879570,Serie A,Genoa,Chievo,3,2,1.0655055715000001,1.9065905352999999
+3879571,Serie A,Atalanta,Carpi,3,0,1.9071292106,0.8953166966
+3879572,Serie A,Napoli,Fiorentina,2,1,1.334288718,0.716623444
+3879573,Serie A,Sassuolo,Lazio,2,1,1.945959245,0.945051328
+3879574,Serie A,Inter Milan,Juventus,0,0,0.278946865,0.991363327
+3879575,Serie A,Hellas Verona,Udinese,1,1,1.193172722,0.619443673
+3879576,Serie A,Frosinone,Sampdoria,2,0,0.915032981,1.412723143
+3879577,Serie A,Empoli,Genoa,2,0,1.794588235,0.6065515826
+3879578,Serie A,Carpi,Bologna,1,2,0.684851392,1.9710119241000001
+3879579,Serie A,Palermo,Inter Milan,1,1,1.046757403,1.853039412
+3879580,Serie A,Juventus,Atalanta,2,0,2.607958536,0.18823411799999998
+3879581,Serie A,Chievo,Napoli,0,1,0.630599349,1.432655684
+3879582,Serie A,Lazio,Torino,3,0,1.2925427166,0.408296308
+3879583,Serie A,Fiorentina,AS Roma,1,2,1.571951432,1.130541658
+3879584,Serie A,Udinese,Frosinone,1,0,2.04514656,0.5073643995
+3879585,Serie A,AC Milan,Sassuolo,2,1,1.977118351,0.083188705
+3879586,Serie A,Sampdoria,Hellas Verona,4,1,2.1237158016,0.856763918
+3879587,Serie A,Bologna,Inter Milan,0,1,0.4641373947,1.441853929
+3879588,Serie A,Atalanta,Lazio,1,1,0.866906035,0.285601891
+3879589,Serie A,Frosinone,Carpi,2,1,0.8194264255,0.7956966569999999
+3879590,Serie A,Torino,Genoa,2,3,1.616754361,1.3682844952000002
+3879591,Serie A,Sassuolo,Juventus,1,0,0.246399226,0.527593374
+3879592,Serie A,AS Roma,Udinese,3,1,1.4971693925,0.6045081633999999
+3879593,Serie A,Napoli,Palermo,2,0,1.330599398,0.430919461
+3879594,Serie A,AC Milan,Chievo,1,0,1.4965068925,0.216930767
+3879595,Serie A,Hellas Verona,Fiorentina,0,2,0.097625129,1.70901036
+3879596,Serie A,Sampdoria,Empoli,1,1,0.898083838,0.7139185827
+3879597,Serie A,Juventus,Torino,2,1,2.215279056,0.6592051714
+3879598,Serie A,Inter Milan,AS Roma,1,0,0.5909249148,1.952258922
+3879599,Serie A,Lazio,AC Milan,1,3,0.5356857676,1.8822977497
+3879600,Serie A,Carpi,Hellas Verona,0,0,0.9849964689999999,0.630923487
+3879601,Serie A,Bologna,Atalanta,3,0,1.448586621,1.240970045
+3879602,Serie A,Fiorentina,Frosinone,4,1,2.562213501,0.432319022
+3879603,Serie A,Udinese,Sassuolo,0,0,1.1495812226,0.277393181
+3879604,Serie A,Genoa,Napoli,0,0,0.529378031,1.06859621
+3879605,Serie A,Palermo,Empoli,0,1,0.8635525284,0.9488455558
+3879606,Serie A,Chievo,Sampdoria,1,1,1.1778990734,1.0741109660000001
+3879607,Serie A,AC Milan,Atalanta,0,0,0.433733465,1.2532948080000001
+3879608,Serie A,Hellas Verona,Bologna,0,2,0.364301245,0.75015011
+3879609,Serie A,Napoli,Udinese,1,0,1.203666838,0.354316472
+3879610,Serie A,AS Roma,Lazio,2,0,2.6235125397,1.085694811
+3879611,Serie A,Palermo,Chievo,1,0,0.9542080389,1.351311471
+3879612,Serie A,Frosinone,Genoa,2,2,1.1451494885,1.4848248819999998
+3879613,Serie A,Empoli,Juventus,1,3,0.490206649,1.9832578805
+3879614,Serie A,Torino,Inter Milan,0,1,1.4779424425,0.713942241
+3879615,Serie A,Sassuolo,Carpi,1,0,0.821451701,0.211098527
+3879616,Serie A,Sampdoria,Fiorentina,0,2,0.30498653800000003,2.585664192
+3879617,Serie A,Bologna,AS Roma,2,2,1.463364265,2.404475307
+3879618,Serie A,Juventus,AC Milan,1,0,1.1030958437,0.565780996
+3879619,Serie A,Genoa,Sassuolo,2,1,0.777879493,0.785522083
+3879620,Serie A,Hellas Verona,Napoli,0,2,0.220766427,2.486101877
+3879621,Serie A,Atalanta,Torino,0,1,1.0031724684,1.727813816
+3879622,Serie A,Carpi,Chievo,0,2,1.01694145,0.791397412
+3879623,Serie A,Fiorentina,Empoli,2,2,1.3537115180000001,0.5832726364
+3879624,Serie A,Lazio,Palermo,1,1,1.6432340576,1.0810375325
+3879625,Serie A,Udinese,Sampdoria,1,0,0.68334619,0.505305527
+3879626,Serie A,Inter Milan,Frosinone,4,0,2.6635013073000002,0.5554921037
+3879627,Serie A,Torino,Bologna,2,0,0.9530411514,0.182981479
+3879628,Serie A,AC Milan,Sampdoria,4,1,3.7755965481,1.1510294845
+3879629,Serie A,Frosinone,Hellas Verona,3,2,2.1048856687999997,0.834807122
+3879630,Serie A,Palermo,Juventus,0,3,0.500208158,1.562390279
+3879631,Serie A,Chievo,Udinese,2,3,1.699427845,1.8016877655
+3879632,Serie A,AS Roma,Atalanta,0,2,1.0228086936,1.4139091320000001
+3879633,Serie A,Empoli,Lazio,1,0,0.27829191799999997,0.9356866046000001
+3879634,Serie A,Genoa,Carpi,1,2,0.5424392385,1.413241409
+3879635,Serie A,Napoli,Inter Milan,2,1,0.991556121,0.7805900889999999
+3879636,Serie A,Sassuolo,Fiorentina,1,1,0.819468883,1.705977479
+3879637,Serie A,Lazio,Juventus,0,2,0.4282353833,0.23399884499999998
+3879638,Serie A,Inter Milan,Genoa,1,0,1.09375896,0.110593055
+3879639,Serie A,Torino,AS Roma,1,1,1.5849506533,0.43888843099999997
+3879640,Serie A,Frosinone,Chievo,0,2,0.8488754266,1.112014694
+3879641,Serie A,Hellas Verona,Empoli,0,1,1.4439650386,0.904073816
+3879642,Serie A,Carpi,AC Milan,0,0,0.448769623,1.0069777803
+3879643,Serie A,Sampdoria,Sassuolo,1,3,0.479067661,2.17342908
+3879644,Serie A,Atalanta,Palermo,3,0,1.471470007,0.988414499
+3879645,Serie A,Bologna,Napoli,3,2,1.577755686,1.682784542
+3879646,Serie A,Fiorentina,Udinese,3,0,2.2843900539999997,1.099516925
+3879647,Serie A,Genoa,Bologna,0,1,2.1774141113,0.685637989
+3879648,Serie A,Udinese,Inter Milan,0,4,1.585437688,1.0739674813
+3879649,Serie A,Palermo,Frosinone,4,1,2.219353057,0.9431634699
+3879650,Serie A,Empoli,Carpi,3,0,0.9562489262,1.127881224
+3879651,Serie A,Napoli,AS Roma,0,0,0.9467809304,0.15226534
+3879652,Serie A,AC Milan,Hellas Verona,1,1,1.699488318,1.319103639
+3879653,Serie A,Juventus,Fiorentina,3,1,1.8372124692,0.9049307486
+3879654,Serie A,Chievo,Atalanta,1,0,1.3959080696,0.260305605
+3879655,Serie A,Lazio,Sampdoria,1,1,0.783860743,0.698124695
+3879656,Serie A,Bologna,Empoli,2,3,1.005051711,1.9416199090000001
+3879657,Serie A,AS Roma,Genoa,2,0,1.60163428,0.760229245
+3879658,Serie A,Torino,Udinese,0,1,0.583951471,1.327749602
+3879659,Serie A,Inter Milan,Lazio,1,2,0.6627291869999999,1.825691728
+3879660,Serie A,Carpi,Juventus,1,3,0.6972377935,1.463753112
+3879661,Serie A,Atalanta,Napoli,1,3,1.0439020136000001,3.156378576
+3879662,Serie A,Fiorentina,Chievo,2,0,0.625816507,0.26453019899999997
+3879663,Serie A,Hellas Verona,Sassuolo,1,1,1.297654011,1.1788760317
+3879664,Serie A,Sampdoria,Palermo,2,0,1.677763937,0.5556438219
+3879665,Serie A,Frosinone,AC Milan,2,4,0.8691962945,3.155087562
+3879666,Serie A,Genoa,Sampdoria,2,3,2.350315587,1.061029635
+3879667,Serie A,Sassuolo,Frosinone,2,2,1.8227664678,0.1645667724
+3879668,Serie A,Empoli,Inter Milan,0,1,0.551710857,0.9882432898000001
+3879669,Serie A,Napoli,Torino,2,1,0.9858191980000001,1.158538055
+3879670,Serie A,Juventus,Hellas Verona,3,0,1.3642900424,0.292730892
+3879671,Serie A,Palermo,Fiorentina,1,3,0.889196576,1.6038181219999998
+3879672,Serie A,Chievo,AS Roma,3,3,1.7968410004,2.328324548
+3879673,Serie A,Udinese,Atalanta,2,1,1.968397572,1.2040745504
+3879674,Serie A,AC Milan,Bologna,0,1,1.932952952,1.700001362
+3879675,Serie A,Lazio,Carpi,0,0,0.632714645,0.173487689
+3879676,Serie A,AS Roma,AC Milan,1,1,0.7432047780000001,1.288918094
+3879677,Serie A,Fiorentina,Lazio,1,3,1.014643741,1.5418432229999999
+3879678,Serie A,Carpi,Udinese,2,1,1.565443611,0.837271724
+3879679,Serie A,Frosinone,Napoli,1,5,0.6453324275000001,2.497932278
+3879680,Serie A,Bologna,Chievo,0,1,1.2950413189999999,0.277293915
+3879681,Serie A,Inter Milan,Sassuolo,0,1,1.834672078,1.7217855535
+3879682,Serie A,Torino,Empoli,0,1,1.7814703185,0.910525449
+3879683,Serie A,Hellas Verona,Palermo,0,1,2.417748299,1.006023049
+3879684,Serie A,Sampdoria,Juventus,1,2,0.827661881,1.210049312
+3879685,Serie A,Atalanta,Genoa,0,2,0.5650243293,1.5718869886
+3879686,Serie A,Napoli,Sassuolo,3,1,1.7452821254,1.278771919
+3879687,Serie A,Torino,Frosinone,4,1,2.3647412654999997,0.7369985563
+3879688,Serie A,Atalanta,Inter Milan,1,1,1.551166701,0.622335893
+3879689,Serie A,Carpi,Sampdoria,2,1,1.7782135979999998,1.49999608
+3879690,Serie A,AC Milan,Fiorentina,2,0,1.29650121,1.317513559
+3879691,Serie A,AS Roma,Hellas Verona,1,1,1.721784364,1.34974667
+3879692,Serie A,Chievo,Empoli,1,1,0.8460131065000001,1.2114256714999998
+3879693,Serie A,Udinese,Juventus,0,4,0.5261178955,2.598350817
+3879694,Serie A,Bologna,Lazio,2,2,0.934169604,1.35550235
+3879695,Serie A,Genoa,Palermo,4,0,2.796698575,0.7672823799999999
+3879696,Serie A,Sassuolo,Torino,1,1,1.727450677,0.870897199
+3879697,Serie A,Frosinone,Atalanta,0,0,0.8268796076,1.0545183444
+3879698,Serie A,Empoli,AC Milan,2,2,1.203240213,1.220142944
+3879699,Serie A,Sampdoria,Napoli,2,4,0.662182406,3.5025866037999998
+3879700,Serie A,Palermo,Udinese,4,1,2.3124263746000002,1.5510124843
+3879701,Serie A,Juventus,AS Roma,1,0,0.799701099,0.219833644
+3879702,Serie A,Hellas Verona,Genoa,1,1,2.114138732,0.5185347375
+3879703,Serie A,Lazio,Chievo,4,1,2.4291818564,1.355685293
+3879704,Serie A,Inter Milan,Carpi,1,1,1.8835716900000001,0.8968901850000001
+3879705,Serie A,Sassuolo,Bologna,0,2,0.5926737513,1.3758349625
+3879706,Serie A,Fiorentina,Torino,2,0,1.021186575,0.6958187730000001
+3879707,Serie A,AS Roma,Frosinone,3,1,1.0770898685999999,0.63149962
+3879708,Serie A,Atalanta,Sassuolo,1,1,1.557618251,0.9927873374000001
+3879709,Serie A,Carpi,Palermo,1,1,1.157304576,0.641917568
+3879710,Serie A,Bologna,Sampdoria,3,2,1.351087754,1.875349787
+3879711,Serie A,Udinese,Lazio,0,0,0.376340347,0.6895614044
+3879712,Serie A,AC Milan,Inter Milan,3,0,1.9062890670000001,1.6719480549999999
+3879713,Serie A,Chievo,Juventus,0,4,0.158703109,3.664647772
+3879714,Serie A,Napoli,Empoli,5,1,2.1500217679999998,0.254436591
+3879715,Serie A,Torino,Hellas Verona,0,0,1.5969398044,0.5037612023
+3879716,Serie A,Genoa,Fiorentina,0,0,1.283310606,0.852753264
+3879717,Serie A,Sassuolo,AS Roma,0,2,1.73564042,1.878904597
+3879718,Serie A,Empoli,Udinese,1,1,2.033435443,0.393220453
+3879719,Serie A,Sampdoria,Torino,2,2,0.6694036379999999,1.895357679
+3879720,Serie A,Lazio,Napoli,0,2,0.5819604780000001,1.0955729671
+3879721,Serie A,Palermo,AC Milan,0,2,0.596288971,1.8822428039999999
+3879722,Serie A,Hellas Verona,Atalanta,2,1,1.799408012,1.8993103919
+3879723,Serie A,Inter Milan,Chievo,1,0,2.239796296,0.300187349
+3879724,Serie A,Fiorentina,Carpi,2,1,0.580894345,1.082924409
+3879725,Serie A,Frosinone,Bologna,1,0,1.8611295400999999,1.1853989043
+3879726,Serie A,Juventus,Genoa,1,0,0.566812084,0.24229715599999999
+3879727,Serie A,Genoa,Lazio,0,0,0.42706076400000004,0.543616224
+3879728,Serie A,Bologna,Fiorentina,1,1,0.823217144,0.9265373536
+3879729,Serie A,Sassuolo,Palermo,2,2,1.820877999,0.7755594087
+3879730,Serie A,Hellas Verona,Inter Milan,3,3,0.705721057,2.151490151
+3879731,Serie A,Napoli,Carpi,1,0,2.213465566,0.161108582
+3879732,Serie A,Torino,Chievo,1,2,0.911366161,1.0972748049999999
+3879733,Serie A,Frosinone,Juventus,0,2,0.2968465906,1.794111951
+3879734,Serie A,AC Milan,Udinese,1,1,1.6750597,1.209919369
+3879735,Serie A,Atalanta,Empoli,0,0,0.7909400547,0.5209548392000001
+3879736,Serie A,AS Roma,Sampdoria,2,0,1.516875821,0.784195081
+3879737,Serie A,Lazio,Hellas Verona,5,2,3.510939179,0.6363500097
+3879738,Serie A,Carpi,AS Roma,1,3,1.185619118,2.2010908707
+3879739,Serie A,Juventus,Napoli,1,0,0.49266794140000003,0.245138356
+3879740,Serie A,Empoli,Frosinone,1,2,2.434632528,1.0663713983
+3879741,Serie A,Chievo,Sassuolo,1,1,1.3371092874,0.954399536
+3879742,Serie A,AC Milan,Genoa,2,1,0.7885388678,0.443193413
+3879743,Serie A,Udinese,Bologna,0,1,1.734811504,0.928189907
+3879744,Serie A,Sampdoria,Atalanta,0,0,0.852117743,0.289035668
+3879745,Serie A,Palermo,Torino,1,3,1.268814548,3.056215102
+3879746,Serie A,Fiorentina,Inter Milan,2,1,1.359732441,0.705497328
+3879747,Serie A,Bologna,Juventus,0,0,0.197830094,0.749372164
+3879748,Serie A,Hellas Verona,Chievo,3,1,2.445100168,1.3579995235
+3879749,Serie A,Inter Milan,Sampdoria,3,1,1.090096048,0.881455442
+3879750,Serie A,Atalanta,Fiorentina,2,3,1.1744226298,2.42631094
+3879751,Serie A,AS Roma,Palermo,5,0,2.1632215477,0.363959233
+3879752,Serie A,Genoa,Udinese,2,1,2.227447588,1.9505124939999998
+3879753,Serie A,Sassuolo,Empoli,3,2,0.904220998,1.4600096815
+3879754,Serie A,Torino,Carpi,0,0,1.468891941,0.173600312
+3879755,Serie A,Frosinone,Lazio,0,0,0.645555589,0.714137283
+3879756,Serie A,Napoli,AC Milan,1,1,1.125282091,0.551995377
+3879757,Serie A,Empoli,AS Roma,1,3,0.362701912,1.5057498055999998
+3879758,Serie A,AC Milan,Torino,1,0,1.194374291,0.613723304
+3879759,Serie A,Juventus,Inter Milan,2,0,2.0486466979999998,0.345923474
+3879760,Serie A,Palermo,Bologna,0,0,0.668962493,0.9920851789999999
+3879761,Serie A,Carpi,Atalanta,1,1,1.485310782,0.657720097
+3879762,Serie A,Udinese,Hellas Verona,2,0,2.308211285,0.670617894
+3879763,Serie A,Sampdoria,Frosinone,2,0,1.5195329003,0.4470122187
+3879764,Serie A,Chievo,Genoa,1,0,1.3321092227,0.441213478
+3879765,Serie A,Fiorentina,Napoli,1,1,0.7527268927,0.834970898
+3879766,Serie A,Lazio,Sassuolo,0,2,1.0948023796,1.963940876
+3879767,Serie A,AS Roma,Fiorentina,4,1,2.036133981,1.12540988
+3879768,Serie A,Hellas Verona,Sampdoria,0,3,1.693777358,3.211208118
+3879769,Serie A,Napoli,Chievo,3,1,3.1157376607,0.298227966
+3879770,Serie A,Atalanta,Juventus,0,2,0.6105068446999999,1.16311767
+3879771,Serie A,Sassuolo,AC Milan,2,0,1.085979429,0.992393981
+3879772,Serie A,Torino,Lazio,1,1,2.0540347305,1.379934609
+3879773,Serie A,Frosinone,Udinese,2,0,1.147975135,0.1410888997
+3879774,Serie A,Inter Milan,Palermo,3,1,1.195598545,0.5664512079999999
+3879775,Serie A,Genoa,Empoli,1,0,1.3385854959999999,1.290266917
+3879776,Serie A,Bologna,Carpi,0,0,1.0464739,0.4575166343
+3879777,Serie A,Juventus,Sassuolo,1,0,1.3630514790000001,0.40754205
+3879778,Serie A,Empoli,Sampdoria,1,1,1.757958024,0.856169643
+3879779,Serie A,Inter Milan,Bologna,2,1,1.583009055,0.529313717
+3879780,Serie A,Fiorentina,Hellas Verona,1,1,0.6928010137,0.5880441735
+3879781,Serie A,Chievo,AC Milan,0,0,0.916842563,0.480285956
+3879782,Serie A,Carpi,Frosinone,2,1,1.718299898,0.873810083
+3879783,Serie A,Udinese,AS Roma,1,2,0.411775988,1.604686759
+3879784,Serie A,Genoa,Torino,3,2,2.329717456,0.860071981
+3879785,Serie A,Lazio,Atalanta,2,0,0.967076377,0.876694838
+3879786,Serie A,Palermo,Napoli,0,1,0.240197572,1.9511107136
+3879787,Serie A,AS Roma,Inter Milan,1,1,1.2867397120000001,0.3485957565
+3879788,Serie A,Empoli,Palermo,0,0,0.6348666279999999,0.624301007
+3879789,Serie A,Frosinone,Fiorentina,0,0,0.719145311,1.636957574
+3879790,Serie A,Torino,Juventus,1,4,1.5293352755,1.3920019940000001
+3879791,Serie A,AC Milan,Lazio,1,1,1.4917781813,0.4234531435
+3879792,Serie A,Sampdoria,Chievo,0,1,1.399305707,1.86203216
+3879793,Serie A,Sassuolo,Udinese,1,1,0.745006882,1.236583238
+3879794,Serie A,Atalanta,Bologna,2,0,3.262470525,0.521797972
+3879795,Serie A,Hellas Verona,Carpi,1,2,1.038938031,1.2645320135
+3879796,Serie A,Napoli,Genoa,3,1,2.772644355,0.6151989405
+3879797,Serie A,Carpi,Sassuolo,1,3,1.3241549735,1.4528008918
+3879798,Serie A,Juventus,Empoli,1,0,1.8941149130000001,0.4494777182
+3879799,Serie A,Lazio,AS Roma,1,4,2.388740009,1.4469774722
+3879800,Serie A,Fiorentina,Sampdoria,1,1,1.0656830717,0.277920508
+3879801,Serie A,Inter Milan,Torino,1,2,1.758439327,1.7561890839999998
+3879802,Serie A,Chievo,Palermo,3,1,1.401035816,1.8230055
+3879803,Serie A,Udinese,Napoli,3,1,2.672459666,0.670136305
+3879804,Serie A,Genoa,Frosinone,4,0,1.5620683284999999,0.4435622397
+3879805,Serie A,Atalanta,AC Milan,2,1,1.032669076,1.4700499464999999
+3879806,Serie A,Bologna,Hellas Verona,0,1,0.64123513,0.414643685
+3879807,Serie A,Chievo,Carpi,1,0,1.1969214565,0.8737732715000001
+3879808,Serie A,Frosinone,Inter Milan,0,1,0.8803798104,2.167145237
+3879809,Serie A,Sassuolo,Genoa,0,1,1.037691812,0.713205074
+3879810,Serie A,AC Milan,Juventus,1,2,1.222449747,0.843712673
+3879811,Serie A,Napoli,Hellas Verona,3,0,3.1769705189999997,0.3877717325
+3879812,Serie A,Palermo,Lazio,0,3,0.3264263675,2.5889812223
+3879813,Serie A,Sampdoria,Udinese,1,0,1.857160006,1.317514419
+3879814,Serie A,Empoli,Fiorentina,2,0,0.825568041,1.568160532
+3879815,Serie A,Torino,Atalanta,2,1,0.6432901835,0.739645624
+3879816,Serie A,AS Roma,Bologna,1,1,1.334005833,0.338556316
+3879817,Serie A,Inter Milan,Napoli,2,0,1.4870931189999999,0.301287069
+3879818,Serie A,Bologna,Torino,0,1,0.579413164,1.073360747
+3879819,Serie A,Carpi,Genoa,4,1,1.942529943,1.48634061
+3879820,Serie A,Juventus,Palermo,4,0,1.5785838283,0.490812131
+3879821,Serie A,Fiorentina,Sassuolo,2,1,1.214220322,1.4883738700000002
+3879822,Serie A,Udinese,Chievo,0,0,1.530234353,0.19059925960000001
+3879823,Serie A,Atalanta,AS Roma,3,3,1.5808142232,1.884144141
+3879824,Serie A,Sampdoria,AC Milan,0,1,0.357990195,1.671818315
+3879825,Serie A,Lazio,Empoli,2,0,2.210179106,0.490101091
+3879826,Serie A,Hellas Verona,Frosinone,1,2,2.3680322604,1.1130249437
+3879827,Serie A,Napoli,Bologna,6,0,2.875528155,0.276968116
+3879828,Serie A,AS Roma,Torino,3,2,2.285201726,2.052369221
+3879829,Serie A,Empoli,Hellas Verona,1,0,2.364207454,2.1389944684
+3879830,Serie A,Genoa,Inter Milan,1,0,1.139672424,1.06756356
+3879831,Serie A,Sassuolo,Sampdoria,0,0,3.1655943360000003,0.110127292
+3879832,Serie A,Palermo,Atalanta,2,2,2.449131755,1.655109647
+3879833,Serie A,Juventus,Lazio,3,0,3.4418815389999997,0.1901714556
+3879834,Serie A,Udinese,Fiorentina,2,1,1.1962927395,0.629224834
+3879835,Serie A,Chievo,Frosinone,5,1,2.2009767624,0.2494596197
+3879836,Serie A,AC Milan,Carpi,0,0,1.0005440110000001,0.218178426
+3879837,Serie A,Inter Milan,Udinese,3,1,3.658502089,1.3528104365
+3879838,Serie A,Sampdoria,Lazio,2,1,1.466077674,2.670575156
+3879839,Serie A,Fiorentina,Juventus,1,2,2.441421707,1.394891905
+3879840,Serie A,Bologna,Genoa,2,0,0.924111809,0.646832602
+3879841,Serie A,Frosinone,Palermo,0,2,1.10997417,0.90241189
+3879842,Serie A,Atalanta,Chievo,1,0,0.8772651539999999,0.3743481027
+3879843,Serie A,Torino,Sassuolo,1,3,1.061355459,0.878779022
+3879844,Serie A,Carpi,Empoli,1,0,1.499856884,0.602992247
+3879845,Serie A,AS Roma,Napoli,1,0,0.497335019,0.889874263
+3879846,Serie A,Hellas Verona,AC Milan,2,1,2.884285597,1.6281691729999999
+3879847,Serie A,Udinese,Torino,1,5,1.3978067557,1.298292055
+3879848,Serie A,Chievo,Fiorentina,0,0,0.9088484326,0.8908363
+3879849,Serie A,Empoli,Bologna,0,0,0.869666653,0.863743442
+3879850,Serie A,Juventus,Carpi,2,0,1.3062106793000001,0.4303472593
+3879851,Serie A,AC Milan,Frosinone,3,3,4.4283838885,0.415137845
+3879852,Serie A,Palermo,Sampdoria,1,0,1.07578593,0.4257015495
+3879853,Serie A,Lazio,Inter Milan,2,0,1.7994482414,0.9534981699
+3879854,Serie A,Sassuolo,Hellas Verona,1,0,0.498225548,0.837557167
+3879855,Serie A,Napoli,Atalanta,2,1,2.029534141,0.30600333199999996
+3879856,Serie A,Genoa,AS Roma,2,3,1.3544740946,2.429876877
+3879857,Serie A,Inter Milan,Empoli,2,1,1.592894365,0.9726718079
+3879858,Serie A,Bologna,AC Milan,0,1,0.475753779,1.3356058966
+3879859,Serie A,Carpi,Lazio,1,3,2.9883859409999998,2.37161393
+3879860,Serie A,Fiorentina,Palermo,0,0,1.7009081439,0.176825089
+3879861,Serie A,Frosinone,Sassuolo,0,1,0.9299362135,1.6030329705000002
+3879862,Serie A,Torino,Napoli,1,2,0.387993921,1.754225726
+3879863,Serie A,Atalanta,Udinese,1,1,1.125585208,0.429516142
+3879864,Serie A,Hellas Verona,Juventus,2,1,2.036259747,1.6271015757
+3879865,Serie A,Sampdoria,Genoa,0,3,0.631861191,1.6610168394
+3879866,Serie A,AS Roma,Chievo,3,0,1.6067953247,0.584866115
+3879867,Serie A,Napoli,Frosinone,4,0,2.807635694,0.8875659633999999
+3879868,Serie A,Sassuolo,Inter Milan,3,1,1.437939202,1.377448304
+3879869,Serie A,AC Milan,AS Roma,1,3,1.871548521,2.59447919
+3879870,Serie A,Juventus,Sampdoria,5,0,2.6275682537,0.233978175
+3879871,Serie A,Udinese,Carpi,1,2,1.366925236,1.345283348
+3879872,Serie A,Chievo,Bologna,0,0,0.419691043,0.4486146167
+3879873,Serie A,Empoli,Torino,2,1,0.814420682,1.165442257
+3879874,Serie A,Lazio,Fiorentina,2,4,1.5606900325,1.484724307
+3879875,Serie A,Palermo,Hellas Verona,3,2,0.668218245,0.733764514
+3879876,Serie A,Genoa,Atalanta,1,2,1.518991532,1.089012683

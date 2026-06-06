@@ -1,0 +1,76 @@
+competition_id,season_id,country,league,season,total_matches,total_teams
+2,27,England,Premier League,2015/2016,380,20
+12,27,Italy,Serie A,2015/2016,380,20
+11,27,Spain,La Liga,2015/2016,380,20
+7,27,France,Ligue 1,2015/2016,377,20
+9,27,Germany,1. Bundesliga,2015/2016,306,18
+37,90,England,FA Women's Super League,2020/2021,131,12
+1238,108,India,Indian Super league,2021/2022,115,11
+37,4,England,FA Women's Super League,2018/2019,108,11
+37,42,England,FA Women's Super League,2019/2020,87,12
+43,3,International,FIFA World Cup,2018,64,32
+43,106,International,FIFA World Cup,2022,64,32
+72,107,International,Women's World Cup,2023,64,32
+1267,107,Africa,African Cup of Nations,2023,52,24
+72,30,International,Women's World Cup,2019,52,24
+55,43,Europe,UEFA Euro,2020,51,24
+55,282,Europe,UEFA Euro,2024,51,24
+2,44,England,Premier League,2003/2004,38,20
+11,26,Spain,La Liga,2014/2015,38,20
+11,23,Spain,La Liga,2011/2012,37,20
+11,1,Spain,La Liga,2017/2018,36,20
+49,3,United States of America,NWSL,2018,36,9
+11,21,Spain,La Liga,2009/2010,35,20
+11,90,Spain,La Liga,2020/2021,35,19
+9,281,Germany,1. Bundesliga,2023/2024,34,18
+11,2,Spain,La Liga,2016/2017,34,20
+11,4,Spain,La Liga,2018/2019,34,20
+11,22,Spain,La Liga,2010/2011,33,20
+11,42,Spain,La Liga,2019/2020,33,20
+7,235,France,Ligue 1,2022/2023,32,20
+223,282,South America,Copa America,2024,32,16
+11,24,Spain,La Liga,2012/2013,32,20
+53,106,Europe,UEFA Women's Euro,2022,31,16
+53,315,Europe,UEFA Women's Euro,2025,31,16
+11,41,Spain,La Liga,2008/2009,31,19
+11,25,Spain,La Liga,2013/2014,31,20
+11,40,Spain,La Liga,2007/2008,28,20
+7,108,France,Ligue 1,2021/2022,26,18
+11,39,Spain,La Liga,2006/2007,26,20
+11,38,Spain,La Liga,2005/2006,17,17
+11,37,Spain,La Liga,2004/2005,7,7
+43,272,International,FIFA World Cup,1970,6,7
+43,51,International,FIFA World Cup,1974,6,6
+44,107,United States of America,Major League Soccer,2023,6,7
+35,75,Europe,UEFA Europa League,1988/1989,3,4
+43,54,International,FIFA World Cup,1986,3,4
+43,269,International,FIFA World Cup,1958,2,3
+81,275,Argentina,Liga Profesional,1981,1,2
+81,48,Argentina,Liga Profesional,1997/1998,1,2
+16,276,Europe,Champions League,1970/1971,1,2
+16,71,Europe,Champions League,1971/1972,1,2
+16,277,Europe,Champions League,1972/1973,1,2
+16,76,Europe,Champions League,1999/2000,1,2
+16,44,Europe,Champions League,2003/2004,1,2
+16,37,Europe,Champions League,2004/2005,1,2
+16,39,Europe,Champions League,2006/2007,1,2
+16,41,Europe,Champions League,2008/2009,1,2
+16,21,Europe,Champions League,2009/2010,1,2
+16,22,Europe,Champions League,2010/2011,1,2
+16,23,Europe,Champions League,2011/2012,1,2
+16,24,Europe,Champions League,2012/2013,1,2
+16,25,Europe,Champions League,2013/2014,1,2
+16,26,Europe,Champions League,2014/2015,1,2
+16,27,Europe,Champions League,2015/2016,1,2
+16,2,Europe,Champions League,2016/2017,1,2
+16,1,Europe,Champions League,2017/2018,1,2
+16,4,Europe,Champions League,2018/2019,1,2
+1470,274,International,FIFA U20 World Cup,1979,1,2
+43,270,International,FIFA World Cup,1962,1,2
+43,55,International,FIFA World Cup,1990,1,2
+12,86,Italy,Serie A,1986/1987,1,2
+116,68,North and Central America,North American League,1977,1,2
+87,279,Spain,Copa del Rey,1977/1978,1,2
+87,268,Spain,Copa del Rey,1982/1983,1,2
+87,84,Spain,Copa del Rey,1983/1984,1,2
+11,278,Spain,La Liga,1973/1974,1,2
